@@ -1,0 +1,84 @@
+{
+"data":[
+  {
+    "Marker #": "SC-125",
+    "Name": "Abbotts Mill",
+    "Category": "Historic Building",
+    "Street": "15411 Abbott's Pond Road",
+    "City": "Milford",
+    "County": "Sussex",
+    "Zip": 19963,
+    "See More": "<a href=\"https://archives.delaware.gov/historical-markers-map/abbotts-mill/\" target=\"_blank\">View</a>&nbsp;<span class=\"fas fa-arrow-alt-circle-right\"></span>"
+  },
+  {
+    "Marker #": "SC-95",
+    "Name": "Academy/ Masonic Hall",
+    "Category": "Social Group/Club",
+    "Street": "NE corner of Market & N. RR Ave.",
+    "City": "Georgetown",
+    "County": "Sussex",
+    "Zip": 19947,
+    "See More": "<a href=\"https://archives.delaware.gov/historical-markers-map/academy-masonic-hall/\" target=\"_blank\">View</a>&nbsp;<span class=\"fas fa-arrow-alt-circle-right\"></span>"
+  },
+  {
+    "Marker #": "NCC-229",
+    "Name": "African Union Church Cemetery",
+    "Category": "Historic Location",
+    "Street": "Along Mike Castle Trail",
+    "City": "Delaware City",
+    "County": "New Castle",
+    "Zip": 19706,
+    "See More": "<a href=\"https://archives.delaware.gov/historical-markers-map/african-union-church-cemetery/\" target=\"_blank\">View</a>&nbsp;<span class=\"fas fa-arrow-alt-circle-right\"></span>"
+  },
+  {
+    "Marker #": "NC-43",
+    "Name": "Aiken's Tavern",
+    "Category": "Historic Location",
+    "Street": "East side of Highway from Newark to Middletown highway, at Glasgow, near Methodist Church.",
+    "City": "N/A",
+    "County": "New Castle",
+    "Zip": 19702,
+    "See More": "<a href=\"https://archives.delaware.gov/historical-markers-map/aikens-tavern/\" target=\"_blank\">View</a>&nbsp;<span class=\"fas fa-arrow-alt-circle-right\"></span>"
+  },
+  {
+    "Marker #": "NC-142",
+    "Name": "Aiken's Tavern Historic District",
+    "Category": "Historic Location",
+    "Street": "Old Rt 896 & Rt. 40",
+    "City": "Newark",
+    "County": "New Castle",
+    "Zip": 19709,
+    "See More": "<a href=\"https://archives.delaware.gov/historical-markers-map/aikens-tavern-historic-district/\" target=\"_blank\">View</a>&nbsp;<span class=\"fas fa-arrow-alt-circle-right\"></span>"
+  },
+  {
+    "Marker #": "NC-169",
+    "Name": "Alexis I. duPont Middle School",
+    "Category": "School",
+    "Street": "3130 Kennett Pike",
+    "City": "Greenville",
+    "County": "New Castle",
+    "Zip": 19807,
+    "See More": "<a href=\"https://archives.delaware.gov/historical-markers-map/alexis-i-dupont-middle-school/\" target=\"_blank\">View</a>&nbsp;<span class=\"fas fa-arrow-alt-circle-right\"></span>"
+  },
+  {
+    "Marker #": "KC-60A",
+    "Name": "Allen McLane",
+    "Category": "Notable Delawarean",
+    "Street": "40 West Mount Vernon St.",
+    "City": "Smyrna",
+    "County": "Kent",
+    "Zip": "",
+    "See More": "<a href=\"https://archives.delaware.gov/historical-markers-map/allen-mclane/\" target=\"_blank\">View</a>&nbsp;<span class=\"fas fa-arrow-alt-circle-right\"></span>"
+  },
+  {
+    "Marker #": "NC-41",
+    "Name": "American Position    Battle of Cooch's Bridge",
+    "Category": "Historic Location",
+    "Street": "Dayett Mill Rd.",
+    "City": "Newark",
+    "County": "New Castle",
+    "Zip": 19702,
+    "See More": "<a href=\"https://archives.delaware.gov/historical-markers-map/american-position-battle-of-coochs-bridge/\" target=\"_blank\">View</a>&nbsp;<span class=\"fas fa-arrow-alt-circle-right\"></span>"
+  }
+]
+}
