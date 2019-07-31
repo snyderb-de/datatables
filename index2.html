@@ -1,48 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>DataTables test</title>
     <!-- Bootstrap -->
-    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css"
-        href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+    />
     <!-- Datatables -->
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.13/css/dataTables.bootstrap.min.css">
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://cdn.datatables.net/1.10.13/css/dataTables.bootstrap.min.css"
+    />
     <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
     <script src="https://nightly.datatables.net/js/jquery.dataTables.js"></script>
     <script src="https://nightly.datatables.net/js/dataTables.bootstrap.js"></script>
     <link
-        href="https://nightly.datatables.net/responsive/css/responsive.dataTables.css?_=0733d80df58ca2854b640850303e9ae6.css"
-        rel="stylesheet" type="text/css" />
-    <script
-        src="https://nightly.datatables.net/responsive/js/dataTables.responsive.js?_=0733d80df58ca2854b640850303e9ae6">
-    </script>
-
-
-</head>
-<body>
-	<div class="table-responsive">
-	    <table id="govpapers-dt" class="display" cellspacing="0">
-	        <thead>
-	            <tr>
-	                <th style="width: 76px; text-align: left;">RG</th>
-	                <th style="width: 62px; text-align: left;">SG</th>
-	                <th style="width: 97px; text-align: left;">Series</th>
-	                <th style="width: 69px; text-align: left;">Folder</th>
-	                <th style="width: 87px; text-align: left;">Start Date</th>
-	                <th style="width: 52px; text-align: left;">End Date</th>
-	                <th style="width: 73px; text-align: left;">Confidential</th>
-	                <th style="width: 93px; text-align: left;">Container</th>
-	                <th style="width: 73px; text-align: left;">Gov</th>
-	                <th style="width: 93px; text-align: left;">Term</th>
-	            </tr>
-	        </thead>
-	    </table>
-	</div>
-</body>
+      href="https://nightly.datatables.net/responsive/css/responsive.dataTables.css?_=0733d80df58ca2854b640850303e9ae6.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <script src="https://nightly.datatables.net/responsive/js/dataTables.responsive.js?_=0733d80df58ca2854b640850303e9ae6"></script>
+    <script src="table.js"></script>
+  </head>
+  <body>
+    <div class="table-responsive">
+      <table id="govpapers-dt" class="display" cellspacing="0">
+        <thead>
+          <tr>
+            <th style="width: 76px; text-align: left;">Marker #</th>
+            <th style="width: 62px; text-align: left;">Name</th>
+            <th style="width: 97px; text-align: left;">Category</th>
+            <th style="width: 69px; text-align: left;">Street</th>
+            <th style="width: 87px; text-align: left;">City</th>
+            <th style="width: 52px; text-align: left;">County</th>
+            <th style="width: 73px; text-align: left;">Zip</th>
+          </tr>
+        </thead>
+        <tfoot>
+            <th style="width: 76px; text-align: left;">Marker #</th>
+            <th style="width: 62px; text-align: left;">Name</th>
+            <th style="width: 97px; text-align: left;">Category</th>
+            <th style="width: 69px; text-align: left;">Street</th>
+            <th style="width: 87px; text-align: left;">City</th>
+            <th style="width: 52px; text-align: left;">County</th>
+            <th style="width: 73px; text-align: left;">Zip</th>
+        </tfoot>
+      </table>
+    </div>
+  </body>
 </html>
