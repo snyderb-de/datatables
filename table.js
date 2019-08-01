@@ -5,7 +5,7 @@
 //Markers Table
 jQuery(document).ready(function () {
     var table = jQuery("#markers-dt").DataTable({
-        ajax: "dpaDataTables/markers.txt",
+        ajax: "https://archivesfiles.delaware.gov/dpaDataTables/markers.txt",
         columns: [
             { data: "Marker #" },
             { data: "Name" },

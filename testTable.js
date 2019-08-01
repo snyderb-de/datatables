@@ -3,7 +3,6 @@
 // by Bryan Snyder
 
 //Markers Table
-// testing 'use strict';
 jQuery(document).ready(function () {
     var table = jQuery("#markers-dt").DataTable({
         ajax: "https://archivesfiles.delaware.gov/dpaDataTables/markers.txt",
