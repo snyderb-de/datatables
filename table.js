@@ -126,10 +126,10 @@ jQuery(document).ready(function () {
             { data: "Agency" },
             { data: "Title" },
             { data: "Description" },
-            { data: "Roll" }, // FIXME: change this in the JSON file
+            { data: "Roll" },
             { data: "Contents" },
-            { data: "Begin Date" }, // FIXME: edit this in the JSON file
-            { data: "End Date" }, // FIXME: edit this in the JSON file
+            { data: "Begin Date" },
+            { data: "End Date" },
             { data: "Confidential" },
             { data: "Comments" } // TODO: do we take this out
         ],
