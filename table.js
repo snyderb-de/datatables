@@ -2,28 +2,28 @@
 // DPA DataTables master file
 // by Bryan Snyder
 
-//Markers Table
+// TODO: do we make a ready function for each Table?
+// TODO: will need to add Parent/Child code here and that may require seperate          ready functions
+
 jQuery(document).ready(function () {
+    //Markers Table
     var table = jQuery("#markers-dt").DataTable({
         ajax: "https://archivesfiles.delaware.gov/dpaDataTables/markers.txt",
         columns: [
             { data: "Marker #" },
-            { data: "Name" },
-            { data: "Category" },
-            { data: "Street" },
-            { data: "City" },
+            { data: "Marker Name" },
+            { data: "Marker Category" },
+            { data: "Street Address" },
+            { data: "City/Town" },
             { data: "County" },
-            { data: "Zip" },
-            { data: "See More" }
+            { data: "Zip Code" }
         ],
         order: [[0, "asc"]],
         //columnDefs:[{orderable:false, targets:[1]}]
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
-});
 
-//Joint Sunset Committee Table
-jQuery(document).ready(function () {
+    //Joint Sunset Committee Table
     var table = jQuery("#jointsunset-dt").DataTable({
         ajax: "https://archivesfiles.delaware.gov/dpaDataTables/jointsunset.txt",
         columns: [
@@ -40,10 +40,8 @@ jQuery(document).ready(function () {
         //columnDefs:[{orderable:false, targets:[1]}]
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
-});
 
-//Governor's Papers Table
-jQuery(document).ready(function () {
+    //Governor's Papers Table
     var table = jQuery("#govpapers-dt").DataTable({
         ajax: "https://archivesfiles.delaware.gov/dpaDataTables/govpapers.txt",
         columns: [
@@ -62,10 +60,8 @@ jQuery(document).ready(function () {
         //columnDefs:[{orderable:false, targets:[1]}]
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
-});
 
-//Kent County Probates
-jQuery(document).ready(function () {
+    //Kent County Probates
     var table = jQuery("#probateskc-dt").DataTable({
         ajax: "https://archivesfiles.delaware.gov/dpaDataTables/probates-kc.txt",
         columns: [
@@ -80,10 +76,8 @@ jQuery(document).ready(function () {
         //columnDefs:[{orderable:false, targets:[1]}]
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
-});
 
-//Naturalizations
-jQuery(document).ready(function () {
+    //Naturalizations
     var table = jQuery("#naturalizations-dt").DataTable({
         ajax:
             "https://archivesfiles.delaware.gov/dpaDataTables/naturalizations-dt.txt",
@@ -101,11 +95,9 @@ jQuery(document).ready(function () {
         //columnDefs:[{orderable:false, targets:[1]}]
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
-});
 
-
-    /* State Reports in progress
-    var table = jQuery("#staterports-dt").DataTable({
+    //State Reports
+    var table = jQuery("#staterports-dt").DataTable({ // FIXME: the class should be "#statereports" not "#staterports"
         ajax:
             "https://archivesfiles.delaware.gov/dpaDataTables/statereports-dt.txt",
         columns: [
@@ -114,15 +106,37 @@ jQuery(document).ready(function () {
             { data: "Box #" },
             { data: "Barcode" },
             { data: "Title" },
-            { data: "Author" },
-            { data: "" },
-            { data: "" }
+            { data: "Author/Compiler" },
+            { data: "Date" },
+            { data: "Agency" }
         ],
         order: [[0, "asc"]],
         //columnDefs:[{orderable:false, targets:[1]}]
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
-    */
 
+    //Microfilm Service Table
+    var table = jQuery().DataTable({
+        ajax: "https://archivesfiles.delaware.gov/dpaDataTables/selfServiceMicroFilm.txt",
+        columns: [
+            { data: "RG" },
+            { data: "SG" },
+            { data: "Series" },
+            { data: "SubSeries" },
+            { data: "Agency" },
+            { data: "Title" },
+            { data: "Description" },
+            { data: "Roll" }, // FIXME: change this in the JSON file
+            { data: "Contents" },
+            { data: "Begin Date" }, // FIXME: edit this in the JSON file
+            { data: "End Date" }, // FIXME: edit this in the JSON file
+            { data: "Confidential" },
+            { data: "Comments" } // TODO: do we take this out
+        ],
+        order: [[0, "asc"]],
+        columnDefs: [{ type: "html-num-fmt", targets: [1] }]
+    });
 
     //Insert another table below
+    // ending bracket below here
+});
