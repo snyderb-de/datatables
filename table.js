@@ -128,8 +128,8 @@ jQuery(document).ready(function () {
             { data: "Description" },
             { data: "Roll" },
             { data: "Contents" },
-            { data: "Begin Date" },
-            { data: "End Date" },
+            { data: "Begins" },
+            { data: "Ends" },
             { data: "Confidential" },
             { data: "Comments" } // TODO: do we take this out
         ],
