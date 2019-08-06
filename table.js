@@ -97,7 +97,7 @@ jQuery(document).ready(function () {
     });
 
     //State Reports
-    var table = jQuery("#staterports-dt").DataTable({ // FIXME: the class should be "#statereports" not "#staterports"
+    var table = jQuery("#statereports-dt").DataTable({ // TODO: change this on the site's page ...in the headers
         ajax:
             "https://archivesfiles.delaware.gov/dpaDataTables/statereports-dt.txt",
         columns: [
