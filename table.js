@@ -130,8 +130,7 @@ jQuery(document).ready(function () {
             { data: "Contents" },
             { data: "Begins" },
             { data: "Ends" },
-            { data: "Confidential" },
-            { data: "Comments" } // TODO: do we take this out
+            { data: "Confidential" }
         ],
         order: [[0, "asc"]],
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
