@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     var table = $('#example').DataTable({
-        "data": testdata.data,
+        "data": testdata.data, //TODO: move this data to a seperate file first
         select: "single",
         "columns": [{
                 "className": 'details-control',
