@@ -1,3 +1,14 @@
+/**
+ *
+ * testing ground for DataTables parent / chil
+ * by Bryan Snyder
+ * MIT license... or Apache license... IDC really.
+ * PEEK: http: //live.datatables.net/bihawepu/1/edit
+ *
+ */
+
+//TODO: replace all "$" with "jQuery"
+
 $(document).ready(function () {
 
     var table = $('#example').DataTable({ //TODO: change ID of table here and in index.html
