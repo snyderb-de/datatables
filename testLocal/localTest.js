@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-    var table = $('#example').DataTable({
+    var table = $('#example').DataTable({ //TODO: change ID of table here and in index.html
         "data": testdata.data, //TODO: move this data to a seperate file first
         select: "single",
         "columns": [{
