@@ -1,3 +1,9 @@
+/*
+CSS control for parent/child info
+by Bryan Snyder
+MIT or Apache license... the whatever license
+*/
+
         td.details-control {
             text-align: center;
             color: forestgreen;
@@ -8,3 +14,4 @@
             text-align: center;
             color: red;
         }
+
