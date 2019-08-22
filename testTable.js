@@ -2,6 +2,7 @@
 // DPA DataTables master file
 // by Bryan Snyder
 
+// FIXME: find an AJAX solution for local testing.
 // TODO: do we make a ready function for each Table?
 // TODO: will need to add Parent/Child code here and that may require seperate          ready functions
 
