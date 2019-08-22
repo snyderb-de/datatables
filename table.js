@@ -115,27 +115,6 @@ jQuery(document).ready(function () {
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
 
-    //Microfilm Service Table
-    var table = jQuery("#selfServiceMicrofilm").DataTable({
-        ajax: "https://archivesfiles.delaware.gov/dpaDataTables/selfServiceMicroFilm.txt",
-        columns: [
-            { data: "RG" },
-            { data: "SG" },
-            { data: "Series" },
-            { data: "SubSeries" },
-            { data: "Agency" },
-            { data: "Title" },
-            { data: "Description" },
-            { data: "Roll" },
-            { data: "Contents" },
-            { data: "Begins" },
-            { data: "Ends" },
-            { data: "Confidential" }
-        ],
-        order: [[0, "asc"]],
-        columnDefs: [{ type: "html-num-fmt", targets: [1] }]
-    });
-
     //DE SAR Table
     var table = jQuery("#deSAR-dt").DataTable({
         ajax: "https://archivesfiles.delaware.gov/dpaDataTables/deSAR.txt",
