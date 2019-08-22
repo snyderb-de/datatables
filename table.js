@@ -116,7 +116,7 @@ jQuery(document).ready(function () {
     });
 
     //Microfilm Service Table
-    var table = jQuery().DataTable({
+    var table = jQuery("#selfServiceMicrofilm").DataTable({
         ajax: "https://archivesfiles.delaware.gov/dpaDataTables/selfServiceMicroFilm.txt",
         columns: [
             { data: "RG" },
@@ -134,6 +134,33 @@ jQuery(document).ready(function () {
         ],
         order: [[0, "asc"]],
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
+    });
+
+    //DE SAR Table
+    var table = jQuery("#deSAR-dt").DataTable({
+        ajax: "https://archivesfiles.delaware.gov/dpaDataTables/deSAR.txt",
+        columns: [
+            { data: "National #"},
+            { data: "Solider Surname"},
+            { data: "Solider First Name"},
+            { data: "Solider Suffix"},
+            { data: "State"},
+            { data: "Chapter"},
+            { data: "Service"},
+            { data: "DE Member #"},
+            { data: "DE Surname"},
+            { data: "DE First Name"},
+            { data: "DE Middle Name"},
+            { data: "DE Suffix"}
+        ],
+        order: [
+                [0, "asc"]
+            ],
+            //columnDefs:[{orderable:false, targets:[1]}]
+            columnDefs: [{
+                type: "html-num-fmt",
+                targets: [1]
+            }]
     });
 
     //Insert another table below
