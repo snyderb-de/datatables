@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>DataTables test</title>
   <!-- Bootstrap -->
-  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/ bootstrap/3.3.7/css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
     <!-- Datatables -->
   <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.13/css/dataTables.bootstrap.min.css">
@@ -20,10 +20,14 @@
   <script src="https://nightly.datatables.net/js/dataTables.bootstrap.js"></script>
   <link href="https://nightly.datatables.net/responsive/css/responsive.dataTables.css?_=0733d80df58ca2854b640850303e9ae6.css" rel="stylesheet" type="text/css" />
   <script src="https://nightly.datatables.net/responsive/js/dataTables.responsive.js?_=0733d80df58ca2854b640850303e9ae6"></script>
-
-    <script src="testTable.js"></script>
+  <!-- Customization Styles and Javascript -->
+  <link
+    href="myStyles.css"
+    rel="stylesheet" type="text/css"/>
+  <script src="testTable.js"></script>
   </head>
   <body>
+    <div class="main-wrapper">
     <div class="table-responsive">
       <table id="deSAR-dt" class="display" cellspacing="0">
         <thead>
@@ -36,10 +40,10 @@
             <th style="width: 52px; text-align: left;">Chapter</th>
             <th style="width: 73px; text-align: left;">Service</th>
             <th style="width: 87px; text-align: left;">DE Member #</th>
-            <th style="width: 52px; text-align: left;">DE Surname</th>
-            <th style="width: 73px; text-align: left;">DE First Name</th>
-            <th style="width: 52px; text-align: left;">DE Middle Name</th>
-            <th style="width: 73px; text-align: left;">DE Suffix</th>
+            <th style="width: 52px; text-align: left;">Surname</th>
+            <th style="width: 73px; text-align: left;">First Name</th>
+            <th style="width: 52px; text-align: left;">Middle Name</th>
+            <th style="width: 73px; text-align: left;">Suffix</th>
           </tr>
         </thead>
         <tfoot>
@@ -51,12 +55,13 @@
             <th style="width: 52px; text-align: left;">Chapter</th>
             <th style="width: 73px; text-align: left;">Service</th>
             <th style="width: 87px; text-align: left;">DE Member #</th>
-            <th style="width: 52px; text-align: left;">DE Surname</th>
-            <th style="width: 73px; text-align: left;">DE First Name</th>
-            <th style="width: 52px; text-align: left;">DE Middle Name</th>
-            <th style="width: 73px; text-align: left;">DE Suffix</th>
+            <th style="width: 52px; text-align: left;">Surname</th>
+            <th style="width: 73px; text-align: left;">First Name</th>
+            <th style="width: 52px; text-align: left;">Middle Name</th>
+            <th style="width: 73px; text-align: left;">Suffix</th>
         </tfoot>
       </table>
     </div>
+  </div>
   </body>
 </html>
