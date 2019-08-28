@@ -15,6 +15,7 @@
 
 jQuery(document).ready(function () {
     // DE SAR Table
+    //function test
     var table = jQuery("#deSAR-dt").DataTable({
         ajax:
             "https://archivesfiles.delaware.gov/dpaDataTables/deSAR.txt",
@@ -53,7 +54,10 @@ jQuery(document).ready(function () {
     });
 });
 
-jQuery(document).ready(function () { // Florence Lewis Table
+jQuery(document).ready(function () {
+    // Florence Lewis Table
+    // function test
+
     var table = jQuery("#florence-lewis-dt").DataTable({
         ajax: "https://archivesfiles.delaware.gov/dpaDataTables/9200_L08_003_Florence_Lewis.txt",
         responsive: true,
@@ -90,4 +94,37 @@ jQuery(document).ready(function () { // Florence Lewis Table
             api: true
         }).column.adjust();
     });
+});
+
+
+jQuery(document).ready(function() {
+  // Bible Records
+  // function test
+  var table = jQuery("#bible-records-dt").DataTable({
+    ajax: "https://archivesfiles.delaware.gov/dpaDataTables/bible-records.txt",
+    responsive: true,
+    columns: [
+      { data: "Family Name" },
+      { data: "B/C #" },
+      { data: "# on Bible" },
+      { data: "Vol. & Pg. #" },
+      { data: "Location" }
+    ],
+
+    order: [[0, "asc"]],
+    columnDefs: [
+      {
+        type: "html-num-fmt",
+        targets: [1]
+      }
+    ]
+  });
+
+  // keep this inside the doc ready for this table to isolate the function
+  jQuery(function(e) {
+    jQuery.fn.DataTable.tables({
+      visible: true,
+      api: true
+    }).column.adjust();
+  });
 });
