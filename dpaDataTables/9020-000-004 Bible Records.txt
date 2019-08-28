@@ -1,0 +1,235 @@
+{
+  "data": [
+    {
+      "Family Name": "Clarke",
+      "B/C #": 256398,
+      "# On Bible": 21,
+      "Vol. & Pg. #": "87 A #291",
+      "Location": "L302055"
+    },
+    {
+      "Family Name": "Daniel Godwin Jr.",
+      "B/C #": 256398,
+      "# On Bible": 20,
+      "Vol. & Pg. #": "87 A #291",
+      "Location": "L302055"
+    },
+    {
+      "Family Name": "Joseph Hoffecker- \nDuck Creek Hd.",
+      "B/C #": 256398,
+      "# On Bible": 19,
+      "Vol. & Pg. #": "87A # 229",
+      "Location": "L302055"
+    },
+    {
+      "Family Name": "Bird",
+      "B/C #": 256345,
+      "# On Bible": 31,
+      "Vol. & Pg. #": "87A #310",
+      "Location": "L302055"
+    },
+    {
+      "Family Name": "Denney",
+      "B/C #": 256345,
+      "# On Bible": 32,
+      "Vol. & Pg. #": "87A #194",
+      "Location": "L302055"
+    },
+    {
+      "Family Name": "Cleaver-Hardesty",
+      "B/C #": 256345,
+      "# On Bible": 34,
+      "Vol. & Pg. #": "n/a",
+      "Location": "L302055"
+    },
+    {
+      "Family Name": "No Name",
+      "B/C #": 256345,
+      "# On Bible": 36,
+      "Vol. & Pg. #": "n/a",
+      "Location": "L302055"
+    },
+    {
+      "Family Name": "First Bible used in\n New Church Epworth\n M.E. Wilm.  DE",
+      "B/C #": 256293,
+      "# On Bible": "n/a",
+      "Vol. & Pg. #": "n/a",
+      "Location": "L302055"
+    },
+    {
+      "Family Name": "Rev. Richard White-Princes Georges Dagsboro, DE 1937",
+      "B/C #": 256293,
+      "# On Bible": "n/a",
+      "Vol. & Pg. #": "n/a",
+      "Location": "L302055"
+    },
+    {
+      "Family Name": "Russell",
+      "B/C #": 256360,
+      "# On Bible": 29,
+      "Vol. & Pg. #": "87A #532",
+      "Location": "L302056"
+    },
+    {
+      "Family Name": "Penniwell",
+      "B/C #": 256360,
+      "# On Bible": 30,
+      "Vol. & Pg. #": "87A # 265",
+      "Location": "L302056"
+    },
+    {
+      "Family Name": "Scribner",
+      "B/C #": 256360,
+      "# On Bible": 28,
+      "Vol. & Pg. #": "87A #531",
+      "Location": "L302056"
+    },
+    {
+      "Family Name": "Bird",
+      "B/C #": 256360,
+      "# On Bible": 27,
+      "Vol. & Pg. #": "87A  #227",
+      "Location": "L302056"
+    },
+    {
+      "Family Name": "Hall",
+      "B/C #": 256323,
+      "# On Bible": 26,
+      "Vol. & Pg. #": "87A #312",
+      "Location": "L302056"
+    },
+    {
+      "Family Name": "Hall",
+      "B/C #": 256323,
+      "# On Bible": 25,
+      "Vol. & Pg. #": "87A #314",
+      "Location": "L302056"
+    },
+    {
+      "Family Name": "Hall",
+      "B/C #": 256323,
+      "# On Bible": 24,
+      "Vol. & Pg. #": "87A #315",
+      "Location": "L302056"
+    },
+    {
+      "Family Name": "Stout",
+      "B/C #": 256323,
+      "# On Bible": 22,
+      "Vol. & Pg. #": "87A # 463",
+      "Location": "L302056"
+    },
+    {
+      "Family Name": "Houston",
+      "B/C #": 256336,
+      "# On Bible": 18,
+      "Vol. & Pg. #": "87A #10",
+      "Location": "L302056"
+    },
+    {
+      "Family Name": "Frances Register",
+      "B/C #": 256336,
+      "# On Bible": "n/a",
+      "Vol. & Pg. #": "87A #231",
+      "Location": "L302056"
+    },
+    {
+      "Family Name": "Robert Burton",
+      "B/C #": 256336,
+      "# On Bible": 16,
+      "Vol. & Pg. #": "87 A #198",
+      "Location": "L302056"
+    },
+    {
+      "Family Name": "Burton & Milby",
+      "B/C #": 256336,
+      "# On Bible": 19,
+      "Vol. & Pg. #": "87A #530",
+      "Location": "L302056"
+    },
+    {
+      "Family Name": "Dingle",
+      "B/C #": 256339,
+      "# On Bible": "n/a",
+      "Vol. & Pg. #": "n/a",
+      "Location": "L302057"
+    },
+    {
+      "Family Name": "Truett",
+      "B/C #": 256339,
+      "# On Bible": "n/a",
+      "Vol. & Pg. #": "n/a",
+      "Location": "L302057"
+    },
+    {
+      "Family Name": "David-Morgan",
+      "B/C #": 256304,
+      "# On Bible": 13,
+      "Vol. & Pg. #": "n/a",
+      "Location": "L302057"
+    },
+    {
+      "Family Name": "Hossinger",
+      "B/C #": 256304,
+      "# On Bible": 12,
+      "Vol. & Pg. #": "Two volumes 87A PP. \n282 &283",
+      "Location": "L302057"
+    },
+    {
+      "Family Name": "Carver",
+      "B/C #": 256354,
+      "# On Bible": 35,
+      "Vol. & Pg. #": "n/a",
+      "Location": "L302057"
+    },
+    {
+      "Family Name": "German Book-\nWalter W. Hinson (see back details)",
+      "B/C #": 256354,
+      "# On Bible": 33,
+      "Vol. & Pg. #": "n/a",
+      "Location": "L302057"
+    },
+    {
+      "Family Name": "Fisher",
+      "B/C #": 256368,
+      "# On Bible": 37,
+      "Vol. & Pg. #": "n/a",
+      "Location": "L302058"
+    },
+    {
+      "Family Name": "First Bible-\nEpworth Chapel 10th & Church\n St. Wilm. DE",
+      "B/C #": 256368,
+      "# On Bible": 39,
+      "Vol. & Pg. #": "n/a",
+      "Location": "L302058"
+    },
+    {
+      "Family Name": "Rickards",
+      "B/C #": 256368,
+      "# On Bible": 40,
+      "Vol. & Pg. #": "n/a",
+      "Location": "L302058"
+    },
+    {
+      "Family Name": "No Name",
+      "B/C #": 256400,
+      "# On Bible": "n/a",
+      "Vol. & Pg. #": "87A #100",
+      "Location": "L302058"
+    },
+    {
+      "Family Name": "No Name",
+      "B/C #": 256400,
+      "# On Bible": "n/a",
+      "Vol. & Pg. #": "87A #145",
+      "Location": "L302058"
+    },
+    {
+      "Family Name": "No Name",
+      "B/C #": 256400,
+      "# On Bible": "n/a",
+      "Vol. & Pg. #": "87A #170",
+      "Location": "L302058"
+    }
+  ]
+}

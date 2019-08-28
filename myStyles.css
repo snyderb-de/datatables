@@ -19,3 +19,9 @@ td.details-control {
 tr.shown td.details-control {
     background: /* url('../resources/details_close.png')*/ no-repeat center center;
 }
+
+table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > td:first-child::before, table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > th:first-child::before {
+    top: 0px !important;
+    border-radius: 0px !important;
+    box-shadow: 0 0 0px #fff !important;
+}
