@@ -45,7 +45,6 @@ jQuery(document).ready(function () {
         ]
     });
     // keep this inside the doc ready for this table to isolate the function
-    //
     jQuery(function(e) {
     jQuery.fn.DataTable.tables({
         visible: true,
@@ -87,7 +86,6 @@ jQuery(document).ready(function () {
     });
 
     // keep this inside the doc ready for this table to isolate the function
-    //
     jQuery(function (e) {
         jQuery.fn.DataTable.tables({
             visible: true,
