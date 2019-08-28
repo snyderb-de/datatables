@@ -1,0 +1,2672 @@
+ID,Document Type,Buyer Last Name,Buyer First Name,Owner Last Name,Owner First Name,County,Hundred,Town,Property Description,Year,Box #,Folder #
+1,Pieces,,,,,,,,,ND,1,1
+2,Receipts,,,,,,,,,ND,1,25
+3,Courses,,,,,,,,,ND,1,2
+4,Courses,,,,,,,,,ND,1,3
+5,Courses,,,,,Sussex,,,"Owens Security, Addition to Owens Security, Hap Hazzard",ND,1,4
+6,Courses,,,"Crop[    ], Stewart","Molton, Isaac D.",,,,"Isaac Davis farm, Furby Farm",ND,,
+7,Plot,,,,,,,,,ND,1,6
+8,Plot,,,,,,,,,ND,1,7
+9,"Plot, Courses",,,,,Kent,,,Swan Creek,ND,,
+10,Plot,,,,,Kent,,,Short Farm,ND,1,19
+11,Plot,,,,,"Kent, Sussex?",,,"Link Horn, Addition to Link Horn",ND,1,14
+12,Plot,,,,,,,Smyrna,,ND,1,20
+13,Plot,,,,,,,,Midcalf Farm,ND,1,15
+14,Plot,,,,,Kent,,Milford,,ND,1,16
+15,Plot,,,,,Sussex,,,Stayton's Folly,ND,1,22
+16,Plot,,,,,,,,Tomahawk Branch,ND,1,23
+17,Plot,,,,,,,Dover,Public Square,ND,1,13
+18,Plot of Road,,,"Jester, Buckmaster, Polk, Burley","Charles , J.S., C. James T.",,Mispillion,,Mispillion Neck,ND,1,18
+19,Plot of Road,,,,,,,Vernon & Greensville,,ND,1,24
+20,Plot of Road,,,,,Kent,,,Big Stone at Bowman's Point,ND,1,11
+21,Return of Bible Society,,,,,Sussex,Cedar Creek,,,ND,1,26
+22,Survey,,,,,Kent,Mispillion,,Saw Mill Range,ND,,
+23,Survey of Road,,,Court of Common Pleas,,Sussex,,,,ND,1,27
+24,Survey of Road,,,,,Kent,,Frederica to Milford,,ND,1,28
+25,Trustee Report of Orphans Ct.,,,,,Sussex,,,,ND,1,29
+26,Survey: Orphans CT.,,,"Adams, dec'd",Nathan & Dr. William,Kent,,,New Wharf,ND,1,31
+27,Survey,,,Adams,Sarah,Kent,Mispillion,,,ND,1,32
+28,Courses,,,Anderson,Clother,Kent,,,Andersons Planes,ND,1,33
+30,Courses,Paradee,Calab,Anderson,Ezekiel,,,,,ND,1,34
+31,"Courses, Plot",Anderson Esq.,Major,Anderson,James,,,,,ND,1,35
+32,Courses,,,"Banning, Heirs",John,Kent,,,,ND,1,37
+33,Courses,,,Barker,Francis,Kent,,,,ND,1,39
+34,Plot,,,Barker,John,Kent,,,,ND,1,40
+35,Plot,,,Bayard,,,,,,ND,1,42
+36,Alotment of Real Estate,,,Beswick,George,,,,,ND,1,45
+37,Courses,,,Beswick,George,Kent,,,,ND,1,46
+38,"Survey, Plot",,,Black,David & Adkinson,Sussex,Cedar Creek,,,ND,1,47
+39,Plot,,,Bostick,Major,,,,,ND,1,49
+40,Plot,,,Botts,James C.,,,Milford,,ND,1,50
+41,Course Deed,Taylor,John,Bright,Nicolas,Kent,Mispillion,,,ND,1,52
+42,Title Trace,Bank of Northern Liberties,,Brooks,,Kent,,,,ND,1,53
+43,Courses,,,"Bonwill, Chamabers","Mich.l, John&Sam.l",,,,,ND,1,54
+44,Courses,[Warmby],Robt. C,Burchnall,William,,,,,ND,1,60
+45,Courses,,,"Burton, Heirs",Daniel,,Indian River,,,ND,1,62
+46,Courses,,,Caldwell,John,,,,,ND,1,63
+47,Survey,,,Catts,John,Kent,,,Shockley's Choice,ND,1,68
+48,Plot,,,"Causey, Richards, Macklin, Vaules",,,,Milford,,ND,1,69
+49,Plot,,,"Chadwick, Lowell, Harrington, Walker, Walcott","---,---, Jona., Jas, ---",,,,Prettymans Corner,ND,1,71
+50,Survey,,,Clark,Zadock C. & Matthew J.,Kent,,,,ND,1,75
+51,Courses,"Pritchett, Allen","Zachariah, Jn.o",Clifton,Nathan,Kent,,,,ND,1,80
+52,Courses,"Clifton, heirs",Tho.s,Clifton,Nathan,,,,,ND,1,81
+53,Courses,,,Clifton,Tho.s,Kent,,,Neighbourly Kindness,ND,1,82
+54,Survey,,,Coalscott,John,,,,,ND,1,83
+55,Plot,,,Collins,James,,,,,ND,,
+57,"Survey, Plot",,,Collins,Tho.s,,,,,ND,,
+58,Survey,"Turner, Negro",Isaac,"Collins, Sen.",Thomas,,,,,ND,,
+59,"Letter, Receipt",Collins,Mrs.,Collins,S.A.,,,,,ND,,
+60,Survey,Tharp,William,Colliston,John,Kent,,,,ND,1,88
+61,Deed,Hopkins,James,"Coombe, Molleston et al","Benjamin, Henry",,,,,ND,1,90
+62,Plot,,,"Cooper, dec'd",John,Kent,,, White March Branch,ND,1,91
+63,Survey,,,Crumpton,William,Kent,,Cullen Town,,ND,2,2
+64,Courses,Walls,John,Daniel,Abraham,Sussex,,,,ND,2,4
+65,Survey,,,Davis,Henry,Kent,Mispillion,,,ND,2,6
+66,Courses,,,Davis,Isaac,,,,Mansion Farm,ND,2,9
+67,Plot,,,"Davis, Peterson","Isaac, John",,,Smyrna,,ND,2,10
+68,Courses,Truitt,Samuel,Davis,Isaac,Kent,,,,ND,2,11
+69,Survey,,,Davis,James,,,,Milford Neck,ND,2,12
+70,Will,,,Davis,Mark,Cedar Creek,,,,ND,2,13
+71,Plot,,,"Davis, Gray","T.J., Wm.",,,,Gray's lots,ND,2,14
+72,Plot,,,"Davis, Dill","Leornard, Benjamin",Kent,,,,ND,2,15
+73,Plot,,,Davis,Thos. J.,,,,,ND,2,17
+74,Plot,Booth,John,"Dawson, dec'd",Zelulion,Sussex,North West Fork,,,ND,2,18
+75,Plot,,,"Dehority, White",George,,,,Belile,ND,2,19
+76,"Plot, courses",,,Dehorty,John,Kent,,,Mother's Gift,ND,2,20
+77,Survey,Richards,Mills,Deputy,Soloman,Sussex,,,,ND,2,25
+78,Survey,,,"Dewees, Heirs",Cornelius & David,,,,,ND,2,26
+79,Plot,,,Douglas,Walter,Kent,,,,ND,2,27
+80,Plot,Thomas,John,Draper,John,Kent,,,,ND,2,28
+81,Plot,,,Draper,Samuel,Sussex,,,,ND,2,29
+82,Calculations,,,Edgill,Andreton,Kent,Mispillion,,,ND,2,31
+83,"Plot, Courses",,,Emerson,Jonathan,Kent,,,,ND,,
+84,Plot,,,"Fiedaman, Anderson, Lewis","P., Clement,---",,,,,ND,2,34
+85,Survey,Dorman,Sarah & Elizabeth,"Finsthwait, dec'd",James,,,,,ND,2,35
+86,Plot,,,Potter Estate,,,,,Fisher Land,ND,2,36
+87,Plot,Griffith (Mrs. Maxwell),Sarah,"Fisher, Willey","John, John",Sussex,Nanticoke,St. Johns Town,,ND,2,37
+88,Plot,,,Flamer,John,Kent,,,Flamer's Discovery,ND,2,38
+89,Chancery Court,"Grasley, Ward, Borass","William H., Harry, James P.","Fleming, Hoffman, Hartrauft, Hoffman","John H., Zadock P., Edward, Charles F.",Kent,,,,ND,2,39
+90,Plot,,,Fleming,Matthew,,,,Tower Hill,ND,2,40
+91,Survey,King,Robert,Fleming,Robert,Kent,,,,ND,2,41
+92,Plot,,,"Furbee, dec'd",Bowers,,,,William's Choice or Chance,ND,2,42
+93,"Survey, Plot",,,Furbee,,,,,,ND,2,43
+94,Plot,,,George,John,Kent,,,,ND,2,45
+95,Courses,,,"Gildor, Heirs",Henry,,,,,ND,2,46
+96,Courses,Emory,Chas.,"Gilder, McKee, Dr.","John,  William",,,,,ND,2,47
+97,Plot,McMullen,Jas.,Graham,Robert,Kent,,, Little Creek,ND,2,49
+98,Survey,,,"Griffith, dec'd",John,Sussex,,,,ND,2,50
+99,Survey,,,Griffith,Robert,,,,,ND,2,51
+100,Courses,,,Giffith,William,,,,Bowen's Venture,ND,2,52
+101,Plot,,,Griffith,William,,,,,ND,2,53
+102,Land Division in Orphans CT.,,,"Griffith, dec'd, Spence","William, John","Kent, Sussex",,,,ND,2,54
+103,Survey,Gullett,Sarah,"Gullett, dec'd",John,,,,"Home Place, Jump place",ND,2,55
+104,Plot,,,Hall,H.J. &R.C.,Kent,,,Primrose,ND,2,56
+105,Plot,,,Hall,John W. & Mary,,,,,ND,2,57
+106,"Plot, Courses",,,Hall,Wm.,,,,,ND,2,58
+107,"Survey, Plot",,,Hamilton,William,Kent,,,,ND,,
+108,"Plot, Courses",,,Hamilton,William,,,Guinia Town,,ND,2,59
+109,Survey,Finsthwait,James,Harrington,Benjamin,,,,,ND,2,60
+110,Calculations,,,Harrington,Richard,,,,,ND,,
+111,Plot,,,"Hays, negroe",Abner,,,,,ND,2,64
+112,Survey,,,Henderson,Benjamin,,, Milford,,ND,2,65
+113,"Plot, Courses",,,Hickman,Nicholas,"Kent, Sussex",,,,ND,2,66
+114,Plot,Smith,Thomas,Hollingsworth,Levi,,,,,ND,2,67
+115,,,,,,,,,,,,
+116,Courses,,,Hopkins,Curtis,,,,,ND,2,69
+117,"Plot, Courses",Hopkins,"Curtis, James , John",Hopkins,Fisher B.,Kent,,,,ND,2,70
+118,"Plot, Courses",Hopkins,James,"Coombe et at, Wallace","---, John W.",,,,,ND,2,71
+119,Courses,,,Hopkins,James & John,Kent,,,,ND,2,72
+120,"Plot, Survey",,,Hopkins,Robert,Kent,,,,ND,2,73
+121,Courses,Hopkins,Fisher B.,Hopkins,Zebulon,Kent,,,,ND,2,74
+122,Deed,Johnston,Peter,Ireland,Samuel,,Cedar Creek?,,,ND,2,77
+123,Plot,Johnson,Peter,Ireland,Samuel,Sussex,,Sussex," Turks Branch, Layton's Old Field""",ND,2,78
+124,Calculations,,,Jacobs,William,Kent,,,,ND,2,79
+125,Courses,,,James,Benoni C. & John C.,Kent,,,,ND,2,80
+126,Alienation Bond,Furbee,Michel,Jarrell,Jonathan,,,,,ND,2,81
+127,Deed,Chadwick,James,Jarrerr,James,Kent,,,,ND,2,82
+128,Plot,,,Jester,Rev. Levi,,,,,ND,2,83
+129,Survey of Condemned ground,,,,,,,,Jester's Mill,ND,2,85
+130,Plot,,,"Johnson, dec'd",C.H.,Kent,Mispillion,,,ND,2,86
+131,Plot,,,"Johnson, Heirs",Wm.,,,,,ND,2,88
+132,Courses,,,"Jump, dec'd",Levin,,,,,ND,2,90
+133,Plot,Jump,William,Jump,Levin,Kent,,,,ND,2,91
+134,Courses,,,Jump,Sarah,,,,,ND,2,92
+135,Plot,,,Jump,W.L.,Kent,,Guinia Town,,ND,2,93
+136,"Plot, Courses",Harrington,Aaron,Jump,William,,,,,ND,2,94
+137,Survey,Anderson,Ezekiel,Kimmey,Charles,Kent,Mispillion,,,ND,2,95
+138,"Plot, Courses",Davis,Benjamin,Laws,Gerge,,,,,ND,3,1
+139,Plot,,,Laws,Major,Kent,Mispillion,,,ND,3,2
+140,Courses,Horsey,Thompson,Layton,Lowder,,,,Gullett Farm,ND,3,3
+141,Plot,,,"Layton, Sipple","Lowder, ---",Kent,,,,ND,3,4
+142,Plot,,,"Lewis, dec'd",Edward,Kent,,Duck Creek Cross Roads,,ND,3,5
+143,"Plot, Courses",,,Lewis,Evan,Kent,,,,ND,3,6
+144,"Plot, Courses",,,Lewis,John,Kent,,,,ND,3,7
+145,Plot,Paradee,Stephen,Lewis,John,Kent,,,,ND,3,8
+146,Plot,,,"Lewis, Callaway, Scott, Booth, Redden,  Graham","Stephen, Levin Wm, Widow, John Luff, James, Isaac",Kent,,,,ND,3,9
+147,Plot,,,"Linch, dec'd",Nathan,,,,,ND,3,10
+148,List of Acreage,,,Lindall,Peter,Kent,,,St. Jones Creek,ND,3,11
+149,Survey,"White,Porter, Porter","Thomas, John, John","Lister, Cordon, Case","Wm.. James, John",,,,,ND,3,12
+150,Estate Papers,,,"Lofland, Doct.",James P.,,,,,ND,3,13
+151,Courses,,,Loftiss,Gidion & William,Kent,,,,ND,3,14
+152,Plot,,,Lober,Matthew,Kent,Murderkill,,,ND,3,15
+153,Property Appraisal,,,"Lowber, dec'd",Matthew,,,,,ND,3,16
+154,Courses,VanNorst,C.,Lydon,C.,,,, Bell Farm,ND,3,18
+155,Plot,Ringold,John,McMullan,French,Kent,,Duck Creek,,ND,3,23
+156,Plot,,,Marim,Charles,,,Smyrna,,ND,3,26
+157,Plot,,,,,,,,Marrett Tract,ND,3,27
+158,Plot,Saterfield,"Thomas B.,Nathaniel",Mason,Daniel,,,,,ND,3,28
+159,"Plot, Survey",,,"Mason, dec'd",Daniel,,, Milford,,ND,3,30
+160,Plot,,,Masten,W.,,,,Mileham,ND,3,31
+161,"Plot, Courses",,,Maxwell,Bedwell,Kent,,,,ND,3,33
+162,Plot,,,Milbourne heirs,Samuel,Kent,,,,ND,3,34
+163,"List of Materials for Mill, Poem, Courses",,,"Harris, Gunby,Burton, Hudson","Rob.t, James,B., C.",,,,,ND,3,37
+164,Plot,,,"Miller, dec'd",Stephen,,Murderkill,,Medstone Branch,ND,3,38
+165,Courses,,,"Miner, Wyatt","John, ---",,,,,ND,3,39
+166,"Plot, Courses",,,Mitchell,John,Kent,,,Barren Hope,ND,3,41
+167,Plot,,,Mitchell,John,Kent,,Milford,Bark Mill House,ND,3,42
+168,"Plot, Survey","---, Forman",Jacob,"Mitchell, Lockwood, Long, Clayton","John, Smauel, armwell, James, Ja.s",,,,,ND,3,43
+169,"Plot, courses",,,Morris,Clement,Kent,,,,ND,3,44
+170,Courses,,,"Morris, Heirs",Robert,Kent,,,,ND,3,45
+171,Courses,"Harrington, Masten, Covington","Benjamin, Lydia, John",Morris,Robert,,,,,ND,3,46
+172,Plot,,,Murphy,John,Kent,,,,ND,3,48
+173,Plot,,,Newcomb,John,,,Milford,,ND,3,49
+174,Plot,,,"Nickerson, Graham","John, Robert",Kent,,,,ND,3,50
+175,Courses,Laws,Outten,Nickerson,John,Kent,,,,ND,3,51
+176,"Bond, Courses",Johnson,James,"Nowel, Pettigrew","Samuel, John",,,,,ND,3,52
+177,"Plot, Courses",Ralston,John,Oliver,Joseph,,,,,ND,3,54
+178,Survey,Dewaul,Mr.,Oliver,Sam.l,,,,,ND,3,55
+179,Court Statement,,,Owens,Wm. H.,,,,,ND,3,57
+180,Plot,,,"Paradee, Plesonton","Caleb, Nathaniel",,,,,ND,3,58
+181,Deed,Crapper,Molton,Parker,John,,,,,ND,3,59
+182,Courses,,,"Porter, dec'd",John,Kent,,,,ND,3,61
+183,Plot,,,Poynter,Levin,,,,Bowman's Branch,ND,3,62
+184,Plot,,,Potter Estate,,,,,"Anderson Farm, Swan Creek Farm",ND,3,63
+185,Property Decription,,,Potter,Benjamin,Kent,,Milford,Front St.,ND,3,64
+186,Plot,,,Potter,Benjamin,Kent?,,,Tanyard,ND,3,65
+187,List of Properties,,,Potter Estate,,,,,,ND,3,67
+188,Plot,,,Potter Estate,,Kent,,Milford,,ND,3,68
+189,Plot,,,"Potter, Turner","Benjamin, Ruben",,,Cullen Town,"Milford Mills, Dutton' Mill pond",ND,3,66
+190,Plot,,,Raughley,Shadrack,Kent,,Burrsville,Punch Hall,ND,3,71
+191,Plot,Carter,Henry,Reed,J.,Kent,,,,ND,3,73
+192,Plot,Melman,David C.,Richards,Allen C.,Sussex,Cedar Creek,,,ND,3,74
+193,Plot,,,Rickards,Levin,Sussex,,,Mill Seat,ND,3,75
+194,"Plot, Survey",,,Rickards (Ricards),Levin,"Kent, Sussex",,,Mill Seat,ND,3,76
+195,Plot,Rickards,Molton,Riggs,Isaiah,,,,,ND,3,77
+196,Courses,,,Ringold Esq.,John,Kent,,,,ND,3,78
+197,Plot,"Edghill, Booth","Andreton, John",Rowland,Isaiah & Joseph G.,,,,,ND,3,72
+198,Plot,,,Satterfield,William M.,Kent,,,formerly Zadock Hilford,ND,3,81
+199,Deed,Potter,Benjamin,Saulsbury,William,,,,,ND,3,82
+200,"Plot, Survey",Saterfield,William M.,Saxton,William,,,,Underwood's Forest,ND,3,83
+201,Plot,,,"Scotton, Heirs",William,,,,,ND,3,84
+202,Plot,,,Shaw,Henry,Kent,,,Methodist Meeting House Lot,ND,3,85
+203,Plot,,,Shockley,Elias,Sussex,,,,ND,3,86
+204,"Plot, Survey",,,Shockley,Wooden,Sussex,,,Prime Hook Marsh on Indian Branch,ND,3,87
+205,Courses,,,Simpson,John,,,,,ND,3,88
+206,Survey,,,Smith,Hollandy,,,, Addition to Harper's Progress,ND,3,89
+207,"Survey, Condition of Sale",Cahall,Archibald,"Smith, Willey","Holliday, Nathan","Kent, Sussex",,,"Harpers Progress, water grist mill","ND, 1821",,
+208,Courses,,,Smith,Thomas,Kent,,,,ND,4,2
+209,Plot,"Layton, Sipple","Ratliff, Walker",Smith,William,,,,,ND,4,3
+210,Plot,,,Sorden & Hopkins,,,,,Green Branch,ND,4,4
+211,"Plot, Survey",,,Sorden,William & Thomas,,,,,ND,4,5
+212,Plot,,,"Spence, Heirs",Patrick,Kent,,,,ND,4,6
+213,Plot,,,Spicer,Hale,,,,Spicer's Discovery,ND,4,7
+214,Survey,,,Stayton,James,Sussex,,,Shawanne,ND,4,8
+215,"Plot, Survey",,,Stayton,James,,,,Staytons Purchase,ND,4,9
+216,Plot,Collins,Andrew,Stayton,James,Sussex,,,,ND,4,11
+217,Plot,,,"Stayton, Taylor, Riley, Atlin","James, George, Noah, Andrew",,,,,ND,4,12
+218,"Deed Abstracts, Plot",,,"Stout, Hillyard","H., L.S.",Kent,Duck Creek,, Dawson Branch,ND,4,14
+219,Plot,,,Taylor,William,Kent,Mispillion,,,ND,4,16
+220,"Plot, Survey",,,Townsend,Burton,Kent,Mispillion,, Mispillion Ck.,ND,4,18
+221,"Plot, Survey",Hurley,John,Thisselwood,John,Kent,,,,ND,4,19
+222,Letter with survey,Hill,Joshua,Todd,H.,,,,,ND,4,20
+223,Plot,,,Truitt,George,Kent,,,,ND,4,22
+224,"Plot, Courses",,,Turner,Benj.n,,,, Turkey Branch,ND,4,23
+225,Courses,,,Turner & Porter,Isaac & Solomon,,,,,ND,4,24
+226,Plot,,,Vanhoy,Abraham,Kent,Little Creek?,,Friends Meeting House,ND,4,25
+227,Plot,,,Vench,Purnel,Sussex,,,,ND,4,26
+228,Courses,,,"Vinson, Heirs",Daniel,,,,,ND,4,28
+229,Plot,,,Vinson & Rawley,Nealy & Shadrach,,,,,ND,4,29
+230,Courses,Cubbage,Thomas,Wallace,Charles,Kent,,,,ND,4,31
+231,Courses,Harrington,Aaron,Wallace,John,Kent,,,,ND,4,32
+232,Plot,Campbell,,Watson,C.S.,,,,"Tumbling Dam, Johnsons land near mill",ND,4,35
+233,Plot,Crayner,Joshua,Walton,George,,,,,ND,4,36
+234,Statement (legal document),,,Watson & Owens,C.S.,,,,,ND,4,37
+235,Plot,,,"Williams, dec'd",Aron,Kent,,,Island Marsh,ND,4,42
+236,Plot,,,"Willowghby, Dill, Craig","Job, Wm., Sam.l",,,,,ND,,
+237,Plot,"Wooter, Wyatt, Harrington","Margaret, Elizabeth, Nacy, Daniel",Wooter,Elijah,Kent,,,,ND,4,46
+238,Survey,Sapp,Elijah,Wyatt,Moses,Kent,,,,ND,4,48
+239,"Plot, Courses",,,"Young, Heirs",David,Kent,,,,ND,4,49
+240,Plot,,,Young,Robert,Kent,Murderkill,Frederica,,ND,4,50
+241,Map,New Sweden,,,,,,,"DE, NJ, PA",1638-1655,4,53
+242,Survey,,,"Groundicke, Cropper, Taylor, Hill","Peter, John, Rob.t, Levin",,,,"Gooseberry, Springfield, Angleford",original 1680,4,55
+243,Plot,,,Bowman,Henry,Kent & Sussex,,,Saw Mill Range,1686,4,58
+245,Deed,Spencer,Samuel,"Booth, Jr.",Joseph,Sussex,,,,1727,4,65
+246,Bond,"Burton, Prettyman, Waples","Woolsey, Sarah, Paul",Burton,William,Sussex,,,Ivy Branch,1729-1750,4,66
+247,"Deed, Survey",White,John,Errloston,John,Dorchester,,,White Marsh,1731-1732,4,67
+248,Survey,Manlove,Luke,Walker,[Jermima],Kent,,,marshes of the Murderkill,1737,4,68
+249,Plot,,,Allen,John,,,,Hills Choice,1739,4,69
+250,Deed,Dewees,Cornelius,Dewees,Lewas,Kent,Mispillion,,,1739,4,70
+251,"Plot, Survey",,,Manlove,George,Kent,Mispillion,,,1739,4,71
+252,Deed,"Clifton, Hopkins, Hopkins","John, John, Robert","Carle, Clifton, Hopkins","Thomas, John, John",Kent,Mispillion,,,1739-1785,4,72
+253,Plot,Taylor,John,"Bright, Huskey","Nicholas, Peter",,,,Vinson's Causeway,1740,4,74
+254,Deed,"Lowber, Lowber, Gray","Matthew, Matthew, William","Miers, Green, Lowber","John, Thomas, Jonathan",,,,,"1740,1743,1793",4,75
+255,"Plot, Survey",,,Vinson &  Quinerly,"Bruffit, Eliah, Margaret & Palnick",,,,"Hog Harbor, Newbourn",1740-1808,4,76
+256,Courses,,,Postles,Thomas,Sussex,,,,1743-1744,4,77
+257,Survey,,,"Simpson, Sturart","William, Aaron",Kent,,,Aaron's Pleasure,1744,4,78
+258,Plot,,,Hall,Spence,Kent,Mispillion,,forest,1745,4,80
+259,Deed,"Fleming, Johnson","Archibald etc, Purnel","Fleming, Jackson","George etc, Andrew",Kent,,Farmington,RR burying ground,1745-1886,4,81
+260,"Plot, Survey",,,Long,Timothy,,,,"Hope Well, Giorges Purchase",1745,4,82
+261,Plot,,,Chadawick,James,Kent,,,James Addition,1746,4,83
+262,Plot,,,Fleming,Archibald,,,,,1746,4,84
+263,Courses,,,King,Jn.o,,,,Rounds,"1746,1794",4,85
+264,Survey,,,Satterfield,W.M.,Kent,Mispillion,,Hunting Quarter,1748,4,90
+265,"Plot, Survey",,,"Underwood Jr., Luff, Smith, Spencer","Richard, Nathanial, Robert, Samuel",,,,California,1750-1758,5,2
+266,Deed,Adams,Levin,PA Land Co.,,Kent,Mispillion,,,1752,5,3
+267,Survey,Scott,Wm.,Stevenson,George,,,,,1753,5,4
+268,Survey,,,Smith,Thomas of Wm.,Kent,,near Marshyhope,Good Luck,1753,5,5
+269,"Plot, Warrant",,,"Dorvall, Clark","Wm., Will",Kent,,,Fairfield,1756,5,6
+270,Plot,,,Adams,Levin,Kent,Mispillion,,"Mispillion & mouth of Swan Creek, ships",1758,5,9
+271,Survey,,,King,Jn.o & Robert,,,,,1758,5,10
+272,Deed,Collins,John,Truitt,Samuel,Sussex,Cedar Creek,,,1760,5,12
+273,Plot,,,Clifton,Thomas,Kent,Mispillion,,forest,1761,5,13
+274,"Plot, Survey",,,Cordry,Noble,Sussex,Cedar Creek,,,1761,5,14
+275,Deed,White,Edward,Anderson,James,Kent,,,,1762,5,16
+276,Plot,,,Bensten (Benson),Daniel,Kent,,Marshyhope,,1762,5,17
+277,Deed,Adams,Levin,Mason,Joseph,Kent,,,,1762,5,19
+278,Plot,,,,,Kent,Mispillion,,Allens Delight,1764,5,21
+279,Articles of Agreement,Walton,George,Dalton,John,Sussex,,,,1766,5,22
+280,Deed,Brady,Jonathatn,PA Land Co.,,,,,,1766,5,23
+281,Deed,Wood,Robert,Ebtharp,Thomas,Kent?,,,Jones Pasture,1767,5,24
+282,Plot,Parker,John,"Evans, et al",Edward,Sussex,,,Saw Mill Range,1770,5,28
+283,Plot,,,Williams,Rynear,,,,,1770,5,29
+284,"Survey, Courses",,,Graham,George & Josuha,,,,,1771,5,30
+285,Plot,,,"Layton, Esq.",Lowder,Kent,,,Sipple Place,1771,5,31
+286,"Plot, Survey",,,Spencer,William,Kent,Mispillion,Bridge Towne,,1771,5,32
+287,Bond of Conveyance,Walton,George,Black,John,Sussex,Cedar Creek Neck,,Hart's Marsh,1772,5,34
+288,Articles of Aagreement,Read,George,"Draper, et al",Avery,Sussex,Cedar Creek,,Primehook Neck,1772,5,35
+289,Deed,Adams,Nathan,Mason,Joseph,Kent,Mispillion,,Improvement,1772,5,36
+290,"Plot, Survey",Fisher,"Thomas, Samuel & Miers",Wynkoop,Benjamin,Sussex,Cedar Creek,,Farmers Delight,1773,5,42
+291,Plot,,,Moulson,Thomas,,,, Beaver Dam Branch,1774,5,43
+292,Deed,Draper,William,Cande,William,Kent,Mispillion,,Springfield & Farifield,1775,5,44
+293,Convaince Bond,Cowing,George,Piece,William,,,,,1775,5,45
+294,Plot,,,"Burt, Smith, Jones, Sherwood, Whitehead","Henry, Jo.s, James, Thomas, Isaiah",Kent,,,"Burts Chance, Jones Hurry, Pearsons Delight",1776,5,46
+295,Survey,,,Polk,William & Edward,Sussex,Cedar Creek,Jockey Town,,1776,5,48
+296,Bond for Conveyance,Bell,Thomas,Richard,John,Sussex,Cedar Creek Neck,,,1776,5,49
+297,Survey,,,Debuty,William,Kent,,,,1776,,
+298,Bond,Morris,Eliphaz,Mitcalf,John,Sussex,,,,1778,5,52
+299,Plot,Davis,Thomas,Clifton,William,Kent,Mispillion,,,1780,5,54
+300,"Plot, Survey",Poynter,Ractliffe & Nathaniel,Laine,Joseph,Sussex,Cedar Creek,,The Pleasant Old Field,1780,5,55
+301,Plot,,,Anderson,William,Kent,Mispillion Neck,,Mount Pleasant & Increase,1781,5,56
+302,Deed,Lane,John Dehorty,Lane,Gallent,Kent,,,Turkey Point,1781,5,57
+303,Deed,Williams,Daniel,"Gorden, Sheff",John,Kent,,,,1782,5,59
+304,Deed,Crapper,Zadok,"McCay, Walton","Alexander, George & Samuel",Sussex,Cedar Creek,,,1783,5,63
+305,"Plot, Survey",Collins,Andrew,Mulnex,William,,,,Carlisles Delight,1784,5,66
+306,Convaince Bond,Cowing,George,VanKirk,David,Sussex,,,,1784,5,67
+307,Court of Common Pleas,,,,,Kent,,,,1785,5,68
+308,Survey,Hunn,Jonathan,Clayton,Sherriff,,,,,1785,5,69
+309,Deed,Walton,George (of George),Craig,Robert,Sussex,Rehobeth Neck,,,1785,5,70
+310,"Plot, Survey",McGonny,Robert,Morris,Samuel,,,,"Golden Mine, no. side of Mayson's Millpond",1785,5,73
+311,Deed,Pleasenton,Nathaniel,Paradee,Hannah & John,Kent,Mispillion,,,1785,5,74
+312,Deed,Clifton,Susanah,Draper,William,Sussex,Cedar Creek,,,1786,5,75
+313,Deed,Johnson,Peter,Ireland,Samuel,Sussex,Cedar Creek,,,1786,5,76
+314,"Plot, Survey",Owens,Sarah,Numbers,Wm.,Kent,Duck Creek,,,1786,5,78
+315,Survey,"the Friends, Bradley",William,"Collins, Bradley","Jn.o, Cannon",,,,,1787,5,79
+316,Plot,,,Stuart,Andrew,Kent,Mispillion,Milford,,1787,5,81
+317,Deed,Rogers,Daniel,Bell,Thomas,Sussex,Cedar Creek,,,1788,5,82
+318,Arbitration Award,Poynter,Nathanial,"Cole, Mulnex, Davis, Poynter","Coverdale, John, Jehu, William & John",Sussex,Cedar Creek,,,1788,5,83
+319,Plot,,,Crapper heirs,,,,, Herring Creek,1788,5,84
+320,"Plot, Survey","Carpenter, Mifflin","Sarah, Matthew",Hatfield,James,Kent,Mispillion,,"Reynolds Folley, Fairfield",1788,5,85
+321,Deed,Johnson,Peter,Ireland,Samuel,Sussex,Cedar Creek,,,1788,5,86
+322,Bond of Conveyance,"Clifton, Ireland, Johnson","William, Samuel, Peter",Layton,Levin & Lelliston,Sussex,,,,1788,5,87
+323,Plot,,,"Pettygrew, Houston, Davis","John, John, Issac",Kent,,,,1788,5,88
+324,"Plot, Survey",,,Davis,Thomas,Kent,Mispillion,,,1789,5,90
+325,Survey,Dickinson,Henry,Goldsborough,Charles,Kent,,Marshyhope,Golsberry Grove,1789,5,91
+326,Survey,,,Huskey,Peter,Kent,,Marshyhope,The Great Island,1789,5,92
+327,Survey,"Howard,Jarvis & Masten JR.","Absalom, Caleb & Wm.",Wyatt Sr.& Jr.,Wm.,,,,,"1789,1821",5,93
+328,Survey,Laws,Major,Fleming,Nathan,Kent,,,,1790,5,96
+329,Survey,,,Richards Heirs,John,Sussex,,,,1790,5,97
+330,Survey,Mitcalf,,White,Bernard,Kent,,,,1790,5,99
+331,Deed,Williams,John,Bradley,Wm.,Kent,Mispillion,Milford,,1791,5,100
+332,Plot,,,Riggs,Levi,Sussex,,,Goose Pond,1791,5,101
+333,Plot,,,Veach,Elias,,,,Bee Island,1791,5,103
+334,Survey,Fleming,Joseph,Cox,John,,,,,1792,6,2
+335,"Plot, Survey",,,Dill & Jones,Abner & Isaac,Kent,,,"Marshyhope, Hopington, White Hall",1792,6,4
+336,Courses,,,Draper,William,Kent,Mispillion,,Absalom's Oak,1792,6,5
+337,Bond,Owens,Warrington,Ross,James & Mary,Sussex,,,,1792,6,8
+338,Survey,"Riggs, Willey, Richardson, [Moorens]","Ezekiel, Levin, Jn.o, ---",Simpson,Robert,Kent,,,,1792,6,9
+339,Courses,,,Anderson,Reuben,Kent,,,,1793,6,10
+340,Plot,,,Barker & Banning,Joseph & John,Kent,,,,1793,6,12
+341,Plot Survey,,,Bowman,Thomas,Kent,Mispillion Neck,,,1793,6,14
+342,"Plot, Courses","Gordon, Grayham","Joshua, Mr.","Catswell, Eckles","Jn.o, Anthony",Kent,,,,"1793, 1795",6,17
+343,"Deed, Survey",Shockley,E.,"[Cormty], Shockley","James, Joshua",Sussex,,,Slaughter Neck,1793,6,18
+344,"Plot, Survey",,,Dawson,Jonathan,Sussex,Nanticoke,,,1793,6,19
+345,"Plot, Courses",,,"Echles, Hudson, Sipple","Jn.o, Jonathan, Sylvia",Kent,,,Mill Seat,1793,6,20
+346,"Plot, Courses","Laws, Gaskin, Henderson, Morris","Major, Mrs., Mr., Tamimah",Fleming,Nathaniel,,,,,1793,6,21
+347,"Plot, Survey",,,Gaskins,Salley,Kent,Mispillion,,,1793,6,22
+348,"Plot, Courses",Winsmore,Eli,Henderson,James,Kent,,,,1793,6,23
+349,Deed,Argo,Alexander,Johnson,William,Sussex,,,,1793,6,25
+350,Plot,,,Knox,Alison,Kent,Mispillion,,forest,1793,6,27
+351,Courses,,,"Lewis, Henderson","Major, James",,,,,1793,6,28
+352,Courses,,,Manlove,Mark,,,,,1793,6,29
+353,"Plot, Courses",,,Mulnix,William,,,,Carlisle Delight,1793,6,30
+354,Deed,Brinkle,William,Oliver,Joseph,Kent,Mispillion,Milford,,1793,6,31
+355,Survey,,,Owens,William,Kent,Mispillion Neck,,,1793,6,32
+356,Courses,,,Owens,Jane & William,,,,"Haphazzard & long swamp, Owens Serenity, Zachariahs Swamp",1793,6,33
+357,Plot,Walton,Jonathan,Pendergrass,Patrick,Sussex,Cedar Creek,,,1793,6,34
+358,Articles of Agreement,Willey,Levin,Riggs,Ezekiel,Kent,Mispillion,,Mispillion Creek,1793,6,35
+359,Deed,Short,"Adam,Jr.",Short,"Tilghman,Mary",Sussex,,,,1793,6,37
+360,Survey,Smith,Daniel,Townsend,William,Kent,Murderkill,,,1793,6,38
+361,"Plot, Account",,,"White, Johnson dec'd","William, William","Kent, Sussex",,,Prudence,1793,6,39
+362,"Plot, Courses",Hudson,Jonathan,Willey,Absalom,Sussex,Cedar Creek Neck,,Cedar Creek Neck,1793,6,40
+363,Survey,,,Adams,Levin,Kent,,,,1794,6,41
+364,Survey,,,"Beauchamp & Davis, Ralston, Fleming","Isaac & William, John, John",Kent,,,,1794,6,42
+365,Plot,Turner,Jehu,Black,Benjamin,,,,,1794,6,43
+366,Plot,,,Cannon,Joseph,Kent,Mispillion,Milford,,1794,6,45
+367,Courses,,,Cary,Nehemiah,Kent,,,Common Recovery,1794,6,46
+368,Courses,Rogers,Daniel,Crapper,Zadock,Sussex,,,Sawmill Range,1794,6,47
+369,"Plot, Survey",,,Daniels,James M.,Kent,Mispillion,,forest,1794,6,48
+370,"Plot, Survey",,,Draper,Avery,Sussex,,,Slaughter Neck,1794,6,51
+371,Plot,Henderson,James,Fleming,,Kent,Mispillion,,,1794,6,53
+372,"Plot, Courses",,,Henderson,James,Kent,Mispillion,,Longfield,1794,6,54
+373,"Plot, Courses",,,Jester,John,Kent,,,,1794,6,56
+374,Plot,,,"Jester, Jump, Needles","Jn.o, Levin,",Kent,Mispillion,,,1794,6,57
+375,"Summons, Receipt, Poetry, Survey",,,Johnson,"William, James, Daniel, Nathanial",Kent & Sussex,,,,1794-1797,6,59
+376,Plot,,,Kimmey & Anderson,Solomon & Major,Kent,,,,1794,6,60
+377,"Plot, Bond",Simpson,Benjamin,"Laws, Simpson","Major, Robert",Kent,Mispillion,,,1794,6,61
+378,"Plot, Survey",Bradley,William,Oliver,Joseph,Kent,,,,1794,6,66
+379,"Plot, Survey",,,Oliver,"Joseph, Sr.",Kent,,,,1794,6,67
+380,Plot,Hamm & Hines,,"Northern Leberties, Bank of",,Kent,,,,1794,6,64
+381,Survey,,,Nutter,James,Kent,Mispillion,,,1794,6,65
+382,Courses,,,Parcmores,Alexander,Sussex,,,Old Mill Pond Branch,1794,6,68
+383,"Plot, Survey",,,Primrose,Thomas,Kent,Mispillion,,,1794,6,69
+384,Plot,,,Riggs& Eckles,Ezekiel & John,Kent,,,,1794,6,70
+385,Plot,,,Ruttey,Daniel,Kent,,,,1794,6,71
+386,Courses,McNitt,John,Stuart,"Jonathan, Aron",,,,,1794,6,73
+387,Plot,,,Sturgess,Shadrack,Sussex,,,Double Purchase,1794,6,75
+388,"Plot, Courses",,,"Truitt, Hazzard","Joseph, Jacob",Sussex,,,,1794,6,77
+389,Survey,,,Turner,Charles,Kent,,,Tomahawk,1794,6,79
+390,"Plot, Courses",Hamilton,William,"Simpson, Fleming","Jn.o, Alexander",Kent,Mispillion,,"Turkey Ridg, Shockleys Choice",1794,6,78
+391,Courses for Road,,,"Walton, Shockley Oliver, Jester,Thomas","David, Elias, Gallaudet, Elijah, Jn.o",Kent,,Milford,,1794,6,80
+392,"Plot, Survey",,,Whealer,William,Sussex,Cedar Creek,,Cedar Creek Neck,1794,6,81
+393,Determination of Land,Dehorty,John,White,Edward,Kent,,,,1794,6,82
+394,Survey,,,Willey,Nathan,Sussex,,,Mill Road,1794,6,83
+395,Survey,Laws,Major,Williams,Jn.o & Reynear,,,,,1794,6,84
+396,Deed,Aydelott,Joseph,Bradley,William,Kent,Mispillion,,,1795,7,2
+397,"Plot, Deed",Laws,John May,Bradley,William,Kent,Mispillion,Milford,,1795,7,3
+398,Deed,Williams,John,Bradley,William,Kent,Mispillion,,,1795,7,4
+399,"Plot, Survey",,,Carslisle,William,Sussex,Cedar Creek,,White Oak Range,1795,7,5
+400,Survey,Williams,John,Chadwick,Thomas,,,,"Georges Purchase, Long Chance, Chadwicks Fortune",1795,7,7
+401,Field Notes,,,"Cubbage, Heirs",Phillomin & George,Kent,,,The Golden Grove,1795,7,10
+402,Plot,,,"Frazier, et al",William,Sussex,Cedar Creek,Milford,,1795-1797,7,13
+403,Courses,,,"Griffith, Victor","Sarah, Major",,,,,1795,7,14
+404,"Plot, Courses",Sorden,Wm.,Hopkins,John,Kent,,,,1795,7,18
+405,"Plot, Courses",,,"Catts, Leverton","John, Vincent, Gary",,,,Cyder Mill Nut,1795,7,6
+406,Plot,,,Collins,Thomas,,,Milford,,1795,7,9
+407,Courses,Fleming,Benaiah,"Fleming, Turner","James & Jacob, Benjamin",Kent,,,,1795,7,12
+408,Plot,,,Griffith,Sarah,,,,,1795,7,15
+409,Courses,,,Hilford,Zadoc,Kent,,,,1795,7,16
+410,Survey,,,Powell,Mary,,,,,1795,7,22
+411,Courses,,,Prettyman,Perry,Kent,,,,1795,7,23
+412,Survey,,,Simpson,John,Kent,,,,1795,7,24
+413,Courses,,,Sorden,William,,,,,1795,7,25
+414,Survey,Rawley,Shadrack,Vinson,Margaret,,,,,1795,7,27
+415,Plot,,,Rogers,Daniel,Sussex,,,,1795,7,28
+416,Deed,Haslet,Joseph,Bowman wid.,Sarah,Sussex,,,Widows Contrivance,1796,7,31
+417,Plot,Dill,Abner,Clark Exc.,John,Kent,Mispillion,,,1796,7,32
+418,Survey,,,Hall,Purnel,Kent,Mispillion,Milford,,1796,7,33
+419,Articles of Argeement,,,"Jester, dec'd",Francis,Kent,Mispillion,,,1796,7,34
+420,"Plot, Survey",Jester,Elias & Jessie,"Jester, Heirs",Francis,Kent,Mispillion,,,1796,7,35
+421,Courses,Laws & Godwin,Joshua & Prestine,Lister,Sorden,,,,,1796,7,36
+422,Survey,,,"Porter, dec'd",John,Kent,Murderkill,,,1796,7,37
+423,Plot,,,"Smith, dec'd",Robert,Kent,Mispillion,,,1796,7,38
+424,Courses,,,White & Candon,William & James,Kent,,,Rotterdam,1796,7,40
+425,Petition,,,Williams,John,Kent,,,,1796,7,41
+426,Plot,"Mifflin, Lewis, McClyment, Ratlidge,Gilder, Bannin","Warner, Evan, James, John, Henry, John","Anderson, Roberts,McKee, Jump, Gibson, Gibbs n,","Roger & Clothier, Wm., Sarah, Hohn, Absolom",Kent,Murderkill,,Roads's Forest on Tidbury Creek,1797,7,43
+427,Survey,,,"Bowman, Heirs",Nathaniel,Kent,,,Cooper,1797,7,44
+428,Lease,Adams,John,Bradley,William,Kent,Mispillion,,,1797,7,45
+429,Courses,,,Carlisle,Shadrack & Manlove,Sussex,,,,1797,7,46
+430,Survey,,,Catts,Jn.o,Kent,,,Shockleys Choice,1797,7,47
+431,Survey,,,Clifton,Thomas,Kent,,,,1797,7,48
+432,Patent,,,Cowdery,Josiah,Sussex,Cedar Creek,,,1797,7,50
+434,Plot,,,Crapper,Zadock,Sussex,Cedar Creek,,Mill on Mispillion,1797,7,51
+435,Conveyence Bond,Lacey,William,Dodd,Jacob & Unicy,Sussex,Indian River,,Woolfs Den,1797,7,52
+436,Courses,,,Draper,Chas.,Sussex,,,,1797,7,53
+437,"Plot, Survey",,,Faucet, Smith,Kent,,,,1797,7,54
+438,Plot,,,Finsthwait,James,Kent,,,James Park,1797,7,56
+439,Warrant,,,Hill,Richard,Kent,Mispillion,,Hills Content,1797,7,57
+440,Survey,,,Jacobs,William,Kent,Mispillion,,,1797,7,58
+441,Plot,,,"Jacobs, dec'd",William & Speakman,Kent,,,,1797,7,59
+442,Survey,Polk,Daniel,Mason,Charles,,,,Susans Creek,1797,7,64
+443,"Plot, Courses",Collins,Francis,Murphey,John,Kent,,,Collins Purchase,1797,7,66
+444,Survey,,,"Polk, dec'd",Daniel,Kent,,,,1797,7,68
+445,"Plot, Survey",,,Sterfield & Brinkle,William M. &Benjamin,Kent,,,,1797,,
+446,Survey,,,"Shockeley, Richard, James","Elias, Negro, Isaiah",Kent,Mispillion,Milford,,1797,,
+447,Survey,Sipple,Waitman,Shockley,Richard,Kent,Mispillion,,Shockley's Choice,1797,7,71
+448,Survey,,,Simpson,John,Kent,,,Turkey Ridge,1797,7,72
+449,Survey,,,[Slauter],Stephen,Kent,Murderkill,,,1797,7,74
+450,Courses,,,Sorden & Lister,Mr. & Levi,,,,Richard's Addition,1797,7,75
+451,"Plot, Survey",,,Turner,Benjamin & Samuel,Kent,,,Turners Conclusion,1797,7,77
+452,Survey,,,Turner,George,Kent,,,,1797,7,78
+453,Courses,Willey,Waitman & John,Warner,Cloudsbrought,Sussex,,,Orphans Right,1797,7,79
+454,Plot,,,"Watson, Jr.",Bethuel,Sussex,,,,1797,7,80
+455,Plot,"Whiteley, Summers, Whilley","Ales., Thomas, AbrahamB.",Johnson vs Jump adm.,James vs Levin,Kent,,,"Whiteleys Adventure, Sailors Virture",1797(1743),7,61
+456,Courses,Bozman,Revel,Willey,Margaret,,,,,1797,7,82
+457,Plot,,,Anderson,Clother,Kent,Murderkill,,Anderson's Planes,1798,7,84
+458,Courses,,,Banning,John,Kent ?,,,,1798,7,85
+459,Plot,Rickards,Molton,Bradley,William,Kent,Mispillion,,,1798,7,87
+460,Deed,Shockley,Elais,Bradley,William,Kent,Mispillion,,,1798,7,88
+461,"Plot, Courses",,,Brinkle,William,Kent,Mispillion,Milford,,1798,7,89
+462,Survey,,,"Davis, Haslet, Lofland, Johnson","Aidlott, Jo.s, P., William",Kent ?,,,,1798,7,91
+463,"Plot, Survey",,,"Davis, Aydelott, Lofland","Isaac, Jo.s, Purnel",,,,,1798,7,92
+464,Survey,,,Filamon,John,Kent,,,,1798,7,93
+465,Courses,,,"Griffith, Owens","Sarah, David",Sussex,,,,1798,7,94
+466,Plot,,,Haslet,Joseph,Kent,,,,1798,7,95
+467,Survey,,,James,Isaiah,,,,,1798,7,96
+468,Courses,,,Jester,"Manuel, Elias, Joshua",Kent,,,,1798,7,97
+469,Survey,,,Jester,Jesse,Kent,Mispillion,,,1798,7,98
+470,Deed,,,Marriner,Thomas,Sussex,Indian River,,,1798,7,99
+471,Lease,"Brinkle, Brinkle","William, John","Oliver, Brinkle","Joseph, William",Kent,Mispillion,Milford,store house,"1798, 1818",7,100
+472,Plot,Brinkle,William,Oliver,"Joseph, William",Kent,Mispillion,Milford,,1798,7,101
+473,Deed,Williams,John,Oliver,Joseph,Kent,Mispillion,Milford,,1798,7,102
+474,"Plot, Courses",,,Pasley,Samuel,Kent,Mispillion,Milford,,1798,8,1
+475,"Plot, Survey",,,Saterfield, Wm. M.,,,,,1798,8,2
+476,Plot,,,Simpson,Benjamin & Thomas,Kent,Mispillion,,,1798,8,3
+477,Plot,,,"Shockley, Rickords","Elias, Molton",Kent,,,,1798,8,4
+478,Plot,,,Sorden,James,Kent,Mispillion,,forest,1798,8,5
+479,Deed,Turner,Charles,Swiggett,Henry,Kent,Mispillion,,forest,1798,8,6
+480,"Plot, Survey",,,Truitt,Hon. George,Kent,,,"Jones's Creek, Truitt's Pensensula",1798,8,7
+481,Survey,,,Turner,Charles,Kent,,,,1798,8,8
+482,Survey,,,Turner & Morriss,Jesse & Hezekiah,Sussex,,,,1798,8,9
+483,Plot,Turner,Jesse,White,William,,,,"Whites Meadow, Nutters Adventure"", Adams Adventure""",1798,8,10
+484,Courses,,,Williams & Shockley,John & Elias,Kent,,,,1798,8,11
+485,Courses,,,Wilson,William,,,,,1798,8,12
+486,"Plot, Courses",,,"Bradley, dec'd",William,Kent,Mispillion,,,1799,8,14
+487,Plot,Potter,Benjamin,Caverly,Peter,Kent,,,Cullens Branch,1799,8,15
+488,Deed,Crumpton,William,Chevalier,Peter,Kent,Mispillion,Milford,,1799,8,16
+489,"Plot, Survey",,,Collins,Henderson,Kent,Mispillion,Cullen Town,Brick House Farm,1799,8,17
+490,Deed,Rickards,Molton,Crompton,William,Kent,Mispillion,Milford,,1799,8,18
+491,Survey,,,Daniel & Hudson,William & Richard,Sussex,,,Stallion Head Neck,1799,8,19
+492,"Plot, Survey",,,Freeman,William,Kent,Mispillion,,Freemans Rest,1799,8,20
+493,Lease,Johnson,Whittington,Griffith,Joseph,,,St. Johns Town,,1799,8,21
+494,Courses,Pasley,Samuel B.,Haslet,Joseph,Kent,,,Swan Creek,1799,8,22
+495,"Plot, Survey",,,"Jackson, Heirs",Joseph,Kent,Murderkill,Canterbury,Irish Hill,1799,8,23
+496,"Plot, Courses",,,Laws,Clement,Sussex,,,Broadkill,1799,8,25
+497,Courses,,,"Murphey, dec'd",Jesse,Sussex,,Johns Town,,1799,8,26
+498,Deed,Collins,Elza,Oliver,Joseph,,,Milford,,1799,8,27
+499,Survey,,,Owens,Esther,Sussex,Cedar Creek,,,1799,8,28
+500,Survey,,,Palmore,Charles,Sussex,,,,1799,8,29
+501,Survey,Crumpton,William,Pramore's execs.,Alexander,Sussex,,,Mount Pleasant,1799,8,30
+502,Plot,Polk,Edw.d,Poor,Elizabeth,Sussex,,,,1799,8,31
+503,Survey,,,"Potter & Canerley, Seaney","---, Bryan",Kent,,,,"1799, 1806",8,32
+504,"Plot, Courses",Lofland,Isaac,Purden,Jn.o,Kent,,,Seaton,1799,8,33
+505,Plot,,,Revil heirs,John,Kent,,,,1799,8,34
+506,Plot,,,Short,Daniel,,,Milford,,1799,8,35
+507,Plot,,,Spence,"John, Patrick & Pierce",Kent,,,,1799,8,36
+508,Plot,Hall,William,"Sturat, Sr., dec'd",George,Kent,Mispillion,,Aron's Pleasure,1799,8,37
+509,Plot,,,"Steward, Hitchens, Clarkson, Marvel","George, Cesar, Henry, Adam",Kent,,,,1799,8,38
+510,"Plot, Courses",,,Truitt,George,Kent,,,Truitts Penensula,1799,8,39
+511,Bond,Hudson,Elijah,Adams,John,Kent,,,,1800,8,40
+512,Deed,Ralston,John,Bradley,Josias,Kent,Mispillion,,,1800,8,41
+513,Survey,,,"Catts, Fleming","John, Joseph",,,,,1800,8,45
+514,Plot,Potter,Benjamin,Clark,Joshua,Kent,Mispillion,,Springfield,1800,8,46
+515,Plot,,,Filamon,John,,,,,1800,8,47
+516,Deed,Laws & Aydetott,Nancy & Joseph,Fleming,Benaiah,Kent,Mispillion,,,1800,8,48
+517,Plot,,,"Hall, Manlove","John, George",Kent,Mispillion,,"Hall's Island, The Barrier",1800,8,50
+518,Survey,Pettigrew,,Houston,John,,,,,1800,8,52
+519,Deed,Laws,Henry,Hudson,Sallie E. (wid),Sussex,Cedar Creek,,Cedar Creek Neck,18??,8,53
+520,Survey,,,Lester,Levi,Kent,,,"The High Land, Greedington",1800,8,54
+521,"Plot, Survey",Dawson,John,Lyton,Shadrick,Caroline,,,Dawson's Discovery,1800,8,55
+522,Survey,,,"Mifflin, Heirs",Matthew,Kent,,,,1800,8,56
+523,"Plot, Survey",,,"Sipple, [Aidtotts]","Silvia, Joseph",Kent,,Milford,,"1800, 1794",8,58
+524,"Plot, Courses",,,"Taylor, Heirs",Jno.,,,Marsyhope,Great Island,1800,8,60
+525,"Plot, Survey",,,Turner,Benjamin,Sussex,,,Trumpabout,1800,8,61
+526,"Plot, Courses","Griffin, Clifton","Jn.o, Daniel",Turner,Benjamin,Sussex,,,"Quarter Place, Daniel's Adventure",1800,8,62
+527,Courses,,,Woodmansee,Asa,Kent,,,,1800,8,64
+528,Plot,,,Anderson Jr.,James,Kent,Mispillion,,Hains Glade,1801,8,65
+529,Deed,Layton,Lowder,Bradley,Josias,Kent,Mispillion,,,1801,8,66
+530,Plot,"Layton, Dill","Lowder, Abner",Bradley,Josias,Kent,Mispillion,Milford,,1801,8,67
+531,Deed,Lofland,Purnell,Bradley,Josias,Kent,Mispillion,,,1801,8,68
+532,Survey,,,"Callaway, Jr., Heirs",Peter,,,,,1801,8,69
+533,Survey,Potter,B.,Clark,Thomas,Kent,,,Springfield,1801,8,72
+534,Survey,,,Dill,Abner,,,,Layton's Puchase,1801,8,73
+535,Survey,,,Fleming,James & Jacob,,,,,1801,8,74
+536,"Plot, Courses",Dryden,William,Hickman,Joseph,Sussex,,,,1801,8,75
+537,Courses,,,Hickman,William & James,Sussex,,,,1801,8,76
+538,Division of Real Estate,,,"Jones, dec'd",Selathiel,Kent,Mispillion,,,1801,8,77
+539,Plot,,,"Jones, dec'd",Sebathiel,Kent,,,,1801,8,78
+540,Deed,Draper,Alexander,Latchem,Levin,Kent,Mispillion,,Saw Mill Range,1801,8,79
+541,Plot,,,Layton & Dill,Lowden & Abner,Kent,,,,1801,8,80
+542,"Plot,Survey",,,Marritt,John,Kent,,,,1801,8,81
+543,Survey,,,Riley,Ruth & Isaac,Kent,Murderkill,,Golden Thicket,1801,8,83
+544,Survey,,,Rogers,Daniel,Sussex,,,,1801,8,84
+545,Plot,,,Rogers,Daniel,Sussex,,,,1801,8,85
+546,Deed,Ralston,John,Ralston,Robert,Kent,Murderkill,,,1801,8,86
+547,Deed,White,John,White,Thomas,Kent,,,"Turkey Point, addition to Whites Marsh",1801,8,88
+548,Survey,Layton,Lowder,[           ],Charles,,,,,1802,9,1
+549,Survey,,,Burrough heirs,Warren,Sussex,Cedar Creek,,Mountdelilah,1802,9,2
+550,Order to View land by Orphans CT.,,,Cowen minors,George,Sussex,,,,1802,9,4
+551,Survey,Pritchett & Allen,,Clifton,N.,,,,,1802,9,5
+552,"Plot, Survey",,,Clothier Sr.,John,Kent,,Berry Town,,1802,9,6
+553,"Plot, Survey",,,Davis,Robert,Sussex,,,,1802,9,8
+554,Survey,,,Griffith & Willey,John & Margaret,Sussex,,,"Morgan's Folley, Beaverdam Neck",1802,9,10
+555,Plot,Richards,,Hopkins,,Sussex,,,,1802,9,11
+556,Courses,,,Horsey,Thompson,Sussex,,,,1802,9,13
+557,Survey,Debety,Solomon,Hudson,Richard,Sussex,,,,1802,9,14
+558,Plot,,,Killen,Henry,Kent,,,,1802,9,15
+559,Survey,,,Leverton,Gary,,,,,1802,9,16
+560,Plot,,,Marritt,John,Kent,,,Peahill,1802,9,17
+561,"Plot, Survey",,,"Nickerson, Laws, Blackiston","John, John Benjamin",Kent,,St. Jones Neck,,1802,9,18
+562,Survey,Davis,Isaac,Polk,Margaret,Kent,,,Fairfield & Wheatfield,1802,9,19
+563,Survey of Road,,,Rogers,Daniel,Sussex,Cedar Creek,,,1802,9,20
+564,"Plot, Courses",Layton,Lowden,Russom,William,Kent,,,,1802,9,21
+565,Plot,,,Smith,William,Kent,Murderkill,,,1802,9,22
+566,Plot,Davis,John,Shiperd,Edward,Sussex,,,,1802,9,23
+567,Courses,,,Taylor,Peter,,,,,1802,9,24
+568,Plot,,,Williams,Prissilla,Kent,Mispillion,,,1802,9,27
+569,Deed,Burton,Daniel,Cliften,Joseph,Sussex,,,,1803,9,28
+570,Survey,"Butler, Grayham, Hamilton","James, Sam.l, Wm.","Daniel, Richardson","Abraham, William",,,,,1803,,
+571,Plot,,,Dill,Abner,Kent,,,,1803,9,32
+572,Survey for Road,,,Fleming,Joseph,Kent,,,,1803,9,33
+573,Survey,,,Ford,James & John,Kent,Duck Creek,,,1803,9,34
+574,Courses,,,Grayham,George,Kent,,,Goldsberry Grove,1803,9,37
+575,Survey,,,Grayham & Hamilton,Samuel & William,Kent,,,,1803,9,38
+576,Courses,,,Frazier heirs,William,Kent,,,,1803,9,36
+577,"Plot, Survey",,,Jump,Purnel,Kent,,,The Downs,1803,9,40
+578,Survey,,,Lofland,Zadock,Sussex,,,,1803,9,41
+579,Plot,,,Mason,Daniel,Kent,Mispillion,,,1803,9,43
+580,Survey,Allen,Thomas C.,Mason,Daniel,Kent,,,,1803,9,44
+581,"Plot, Survey",Crumpton,William,Mason,Daniel,Kent,,,,1803,9,45
+582,Lease,Walton (n),Cato,Oliver,Joseph,Kent,Mispillion,Milford,,1803,9,47
+583,"Plot, Survey",,,Rickards,John & William,Sussex,,,,1803,9,48
+584,"Plot, Survey",,,"Ringold, Esq.",John,Kent,,,Duck Creek,1803,9,49
+585,"Plot, Survey",,,Wells,William H.,Kent,,Milford,,1803,9,51
+586,Courses,Stayton,Jehu,Stayton,"Amos, James",Kent,,,,1803,9,50
+587,Plot,,,Callaway,Sarah,Kent,,,,1804,9,54
+588,Deed,Evans,Robert,Collins,Zacheriah,,,George Town,,1804,9,55
+589,Courses,Ware,John,Davis,Isaac,Kent,,,St. Jones Creek,1804,9,58
+590,Survey,Huglett,Wm.,Dickerson,Jno.,Kent,,,Milford Neck,1804,9,59
+591,Courses,,,"Gullett, dec'd",John,Kent & Sussex,,,addition to Bradley's delight,1804,9,60
+592,Plot,,,Gullett,John of George,Kent,,,,1804,9,61
+593,Survey,Jester,Levi,Hilford,Robert,Kent,,,Hayfield,1804,9,63
+594,Survey,,,"Hughlett, Heirs",Thomas,Kent,,,,1804,9,64
+595,Deed,Collins,Thomas,Layton,Lowder,Kent,Mispillion,,,1804,9,65
+596,Deed,Collins,Thomas,Lofland,Purnel,Kent,Mispillion,,,1804,9,66
+597,"Plot, Courses",Collins,Thomas,Mason,Daniel,,,,,1804,9,67
+598,Plot,,,"Molliston, Heirs",Jonathan,Kent,,,,1804,9,69
+599,Plot,Shockley,Curtis,Morris,Dennis,Sussex,Cedar Creek,,,1804,9,70
+600,"Plot, Courses",Smith,David,Postles,Shadrach,Sussex,,,,1804,9,71
+601,Survey,Davis,Henry,Simpson,Thomas,Sussex,,,,1804,9,72
+602,Convayance Bond,Layton,Lowder,Smith,Salley,,,,,1804,9,74
+603,Survey,Stout,Jacob,Snow,James,Kent,,,,1804,9,75
+604,Plot,Tilton (negroe),Charles,Stroud,Samuel,Kent,,,,1804,9,76
+605,Survey,,,Truitt & Shockley,John & Curtis,,,,,1804,9,78
+606,Plot,,,Anderson Esq. & Grayham,Major & Isaac,Kent,,,,1805,10,1
+607,Plot,,,Biddle & Bassett heirs,Jacob & Richard,Kent,Mispillion,,,"1805, 1820",10,3
+608,Survey,,,"Booth, Heirs",John,Kent,,Milford,,1805,10,4
+609,Plot,Lofland,Purnel,Bradley,Nancy,Kent,,,,1805,10,5
+610,Survey,"Sudler, Spencer","Dr. Joseph, Sam.l","Caverly, Esq.",Peter,Kent,,,,1805,10,6
+611,Survey,,,Chambers,Ephram,,,,,1805,10,7
+612,Plot,Aydelott,Joseph,Davis,Isaac,Kent,,,,1805,10,8
+613,Plot,,,Debety,William,Sussex,Cedar Creek,,,1805,10,9
+614,Deed,Davis,Zedekiah,Dill,Benjamin,Kent,,,,1805,10,10
+615,Survey,Barber,Francis,Gorden,John,,,,,1805,10,12
+616,Survey,,,"Hurley, Booth","John, Waitman",,,,,1805,10,13
+617,Conveyence Bond,Layton & Sipple,Lowder & Caleb,Killen,Robert,Sussex,,,,1805,10,14
+618,Plot,,,Lofland,Purnel,Kent,,,,1805,10,16
+619,Will estract,,,Luff the Elder,Nath.l,Kent?,,,part of Aberdeen,1805,10,17
+620,Plot,,,"Mastin, Sr.","William, David, John",Kent,,,,1805,10,18
+621,Conveyance Bond,Layton & Sipple,Lowder & Caleb,Morris,Griffin & Elizabeth,Sussex,,,,1805,10,19
+622,Deed,Williams,John,Short,Daniel,Kent,,Milford,,1805,10,20
+623,Plot,Simpson,Reuben,Simpson,Robert,Kent,Mispillion,,,1805,10,21
+624,"Plot, Courses",,,Simpson,Thomas,Kent,,,,1805,10,22
+625,Survey,Harrington,Aaron,Wallace, John,,,,,1805,10,24
+626,Field Notes,"Harrington, Simpson","Aaron, Robert, Reuben","Wallace Simpson, Jump","John, Aaron, Robert, Levin",,,,,1805,10,23
+627,Plot,"Spencer (negroe), Pettigrew","Anthony, Richard",Wells,William H.,Kent,,Milford,,1805,10,26
+628,Plot,"Fisher, Young, Kelley, Thompson","Daniel, William, James, Wiulliam","Young, Heirs",David,Kent,Mispillion,,,1805,10,28
+629,Plot,,,"Clark, Esq.",Thomas,Kent,Mispillion,,,1806,10,29
+630,Survey,,,Deputy,William,,,,,1806,10,31
+631,"Division of Real Estate, Orphans Ct.",,,"Draper, dec'd",William,Kent,,,,1806,,
+632,Courses,Masten Jr.,William,Hollingsworth,Levi,Kent,,,,1806,10,34
+633,Deed,Poynter,Levin,Killen,Robert,Sussex,Cedar Creek,,forest,1806,10,35
+634,Courses,Whitaker,Joseph,Maxwell,Edmondson,,,,,1806,10,38
+635,"Survey, Note",Johnson,James,"Maxwell, Sena, Knock","Sarah, Bryan, Daniel",Kent,,,,1806,10,40
+636,Deed,Poynter Sr.,Levin,Morris,Griffith,Sussex,Cedar Creek,,,1806,10,41
+637,Lease,Williams,John of Reynear,Oliver,Joseph,Kent,,Milford,,1806,10,42
+638,Promisory Note,Potter,Benjamin,Potter,John,Sussex,,,,1806,10,43
+639,"Plot, Courses",,,Seaney,Bryan,,,,,1806,10,46
+640,"Plot, Survey",,,Townsend,Solomon,,,,Out Place,1806,10,47
+641,Deed,Webb,Sylvester,Walton,Nancy,Sussex,,,Rehoboth Neck,1806,10,48
+642,Survey,Orell,John,White,Samuel,Kent,,,,1806,10,49
+643,Deed,Potter,John,Rogers,"James, Thomas, Wise, Molton & Nancy",Sussex,,,,1806,10,44
+644,Plot,"Jones Jr., Morris, Anderson","Isaac, John, Major",Anderson,William,Kent,,,,1807,10,50
+645,Plot,,,Barker & Melvin,Ann & John,Kent,,,,1807,10,51
+646,Plot,,,Burroughs dec'd,Warren,Sussex,,,"Mount dililah, the Waller place",1807,10,52
+647,"Account, Survey",Carn,Cornilius,"Debety, Marrett","William, Jn.o",,,,,1807,10,53
+648,Survey,Purden,John,"Catts,Smith","Vincent, Wm.",Kent,,,,"1807, 1852",10,55
+649,"Plot, Survey",Purden,John,Deweese,David & Jesse,Kent,,,Fishing Creek,1807,10,56
+650,Plot,,,Dill,Abner,Kent,,Milford,,1807,10,57
+651,Plot,,,Killen,Henry,Kent,Mispillion,,Hunting Quarter,1807,10,58
+652,Deed,Booth,John,Kimmey,Levin,Kent,Mispillion,,forest,1807,10,59
+653,Bond,Purden,John,Lowery,Justice,Kent,,,,1807,10,61
+654,Survey,,,"Melvin, Barker, Melvin, Newell","Edmund, Ann, John, Peter",Kent,,,,1807,10,62
+655,Deed,Collins,Edward,Oliver,Samuel,Kent,Mispillion,Milford,,1807,10,63
+656,Plot,"Williams,  Dill","John, Abner","Oliver & Revill, Oliver","Samuel & John, Samuel",Kent,Mispillion,Milford,,1807,10,64
+657,Deed,Hudson,Elijah,Potter,John,Sussex,Cedar Creek,,,1807,10,65
+658,Plot,McKnitt,John,Purden,John,Kent,Mispillion,,Fairfield,1807,10,67
+659,Plot,Thrap,James,Turner,Jesse,Kent,Mispillion,,,1807,10,69
+660,Agreement,Pettiegrew,John,Biddle,Jacob,Kent,Mispillion,Milford,,1808,10,72
+661,Plot,,,Reed & Carter,,,,,,1808,10,75
+662,Survey,,,Clark & White,"Jehu, John & James",Kent,,,,1808,10,76
+663,Plot,Needles,Avery,Coombe,Samuel,Kent,Murderkill,Berrytown,,1808,10,77
+665,Plot,Lowery,Justice,Furby,Michel,Kent,,,,1808,10,81
+666,Plot,,,Hamilton,James,,Mispillion,,,1808,10,82
+667,Survey,,,"Hughlett, Edw.d","W.m, Andrew",,,,,1808,10,83
+668,Survey,,,Hunn,John,Kent,Murderkill,,,1808,10,84
+669,Plot,,,"Johnson, dec'd",James,,,,,1808,10,85
+670,Courses,Stayton,James,Johnson,John,,,,,1808,10,86
+671,Deed,Bradley,Nancy,Lofland,Purnel,Kent,Mispillion,,,1808,10,88
+672,Deed,"Henderson, Walton, Henderson","James, Isaac, Benjamin","Mason, Henderson, Walton","Joseph, Nancy, Priscilla",Kent,,,"the Improvement, Tub Mill","1808, 1821,1835",10,89
+673,Plot,,,Morgan,Evan,,Mispillion,,,1808,10,90
+674,Plot,,,Morgan,Thomas,,,,,1808-1858,10,91
+675,Lease,Collins,Thomas,Oliver,Samuel,Kent,Mispillion,Milford,,1808,10,92
+676,Plot,Collins,Thomas,Oliver,Samuel,Kent,Mispillion,Milford,,1808,10,93
+677,Deed,Brinckler,William,Shockly,Elias,Kent,,,"Cullens Branch, near Milford",1808,10,95
+678,Plot,Harrington,"Reuben, Daniel, John, Isaac",Stafford,James,Kent,,,,1808,10,96
+679,Articles of Agreement,Hudson,Elijah,Webb,Sylvester,Sussex,Cedar Creek,,,1808,10,97
+680,Plot of Road,,,Williams,John & Aaron,,,,,1808,10,98
+681,Plot,,,Winsmore,Thomas,Kent,Mispillion,Milford,,1808,10,99
+682,Survey,Douglas,Walter,Collins,Lemick,,,,,1809,11,1
+683,Letter,Davis Esq.,Isaac,Darrach,John,New Castle,,Port Penn,,1809,11,3
+684,Survey,,,Dehorty,John,,,,"Addition to Horse Ridge, Hazzard",1809,11,5
+685,Plot,,,Webb,Jacob & Dorman,Sussex,,,,1809,11,6
+686,"Deed, Plot",Purden,John,Draper,Alexander,Kent,Murderkill,,Saw Mill Range,1809,11,7
+687,Will,,,Hayes,Alexander,Sussex,Cedar Creek,,,1809,11,9
+688,Courses,,,Jester,Levi,Kent,,,Greedington,1809,11,11
+689,Plot,,,"Laws, dec'd",Joshua,Kent,Mispillion,,,1809,11,12
+690,Supreme Court,Pierce,William,Lewis,Evan,Kent,,,,1809,11,13
+691,Plot,,,"Luff, Heirs",Nathaniel,Kent,,,,1809,11,16
+692,Plot,Masten,Phillip & Stephen,"Masten, dec'd",Matthew,Kent,Mispillion,,forest,1809,11,19
+693,Deed,Collins,Thomas,Oliver,Samuel,Kent,Mispillion,Milford,,1809,11,20
+694,Deed,Dewaule,Martin,Oliver,Samuel,Kent,Mispillion,Milford,,1809,11,21
+695,Plot,Curry,Thomas,Owens,David,Sussex,,,,1809,11,22
+696,Survey,Curry,Thos.,Queen,David,,,,,1809,11,23
+697,Deed,Collins,Thomas,Shockley & Richards,Elias & Molton,Kent,,,,1809,11,26
+698,Deed,Oliver,Gallandit,Shockley,Elias,Kent,Mispillion,,,1809,11,27
+699,Deed,Brown,John,Sturgis,Daniel,Sussex,Cedar Creek,,,1809,11,28
+700,Survey,,,"Virden, Heirs",Peter,Kent,,Canterberry,,1809,11,29
+701,Survey,,,"Webb, dec'd",Dorman,,,,,1809,11,31
+702,Plot of Road,,,,,Sussex,Cedar Creek,,Fowlers Beach,1810,11,33
+703,Plot,,,"Bowman, dec'd",Nathaniel,,,,Kings Causeway Branch,1810,11,34
+704,Bond,Carlisle,William,Carlisle,Zachariah,Sussex,,,,1810,11,35
+705,Deed,Spencer,Samuel,Caverly,Peter,Kent,Mispillion,,,1810,11,36
+706,Deed,"Sipple, Owens & Rickards","Walker, James, Levin",Clayton,James,Kent,,,,1810,11,37
+707,Survey,,,Darrach,Jane,,,,near Smyrna,1810,11,38
+708,Courses,Murphy & Henderson,John & James,Davis,Isaac,,,,,1810,11,40
+709,Plot,,,Deweese,Cornelius,Kent,,,,1810,11,42
+710,Deed,Potter,John,Ennis,Levin,,Cedar Creek,,Neck,1810,11,43
+711,"Bond, Courses","Johnson, Davis, Turner, Lofland","James, William, Rueben, P.","GullettNeall,Clayton, Shackeley","Abraham, Ja.s, Elias",Kent,Mispillion,,,1810,11,44
+712,Conveyance Bond,Carlisle,William,Layton & Sipple,Lowder & Walker,Kent,,,,1810,11,47
+713,Plot,,,"Melvin, dec'd",John,Kent,,,Browns Neck,1810,11,49
+714,Deed,Collins,Thomas,Ralston,"James, Amy",Kent,Mispillion,,,1810,11,51
+715,Field Notes,Carter,Henry,Reed,William,,,,,1810,11,52
+716,"Plot, Survey",,,"Riggs Sr., Rickards","Isaac, Nath.l",,,,,1810,11,53
+717,Plot,,,Rumsey,Harriot,Kent,St. Jones,,,1810,11,54
+718,Deed,Clayton,James,Shockley,Elias,,,,near road leading from Milford to Quaker Meeting House,1810,11,55
+719,Deed,Brinckle,William,Shockley,Elias,Kent,,Milford,,1810,11,56
+720,Plot,,,Smith,William,,,,,1810,,
+721,Plot,,,Townsend heirs,William,Kent,Murderkill,,,1810,11,59
+722,Payments,,,"Whaley, Dawson","David & Levi, Zachariah",,,,,1810,11,61
+723,Deed,Brinckle,William,Williams,John,Kent,,Milford,,1810,11,63
+724,Plot,Petrerkin,Thomas,Williams,Spencer,Kent,Mispillion,,Neck,1810,11,64
+725,Deed,Carlisle,William,Carlisle Esq.,Zachariah,Sussex,,,Potter's Folley,1811,11,68
+726,"Plot, Survey",Clayton,James,Clark,William,Kent,,,,1811,11,69
+727,Plot,Jones,White,Clifton,Nathan,,,,,1811,11,70
+728,Survey,,,Collins & Fleming,James & Benaiah,,,,,1811?,11,71
+729,Plot,,,"Dallinar, Downs & Potter","Levin H., Henry & Benjamin",,,,,"1811,1824",11,72
+730,"Courses, Survey, Reciept",Davis,Elizabeth,"Davis, Gildersleve",Mary,Kent,Murderkill,Canterbery,,1811,11,74
+731,Survey,,,Fleming,Benaiah & Jacob,Kent,,,,1811,11,75
+732,Will,,,Hammond,Isaac,Sussex,,,,1811,11,77
+733,Courses,Pinawell,Mr.,Horsey,Thompson,Sussex,,,,1811,11,78
+734,Plot,Horsey,Thompson,Layton,Lowder,,,,Ross Tract & Gullett Tract,1811,11,79
+735,Deed,Layton,Lowder,Potter,Benjamin,Kent,Mispillion,,,1811,11,81
+736,Survey,,,Reed & Carter,,,,,,1811,11,82
+737,Plot,,,Rickards,George,Sussex,,,,1811,11,83
+738,Bond,Williams,John,Rickards,Matton,,,Milford,,1811,11,84
+739,"Plot, survey",Duprey,William,Shoemaker,William,Kent,,,,1811,11,85
+740,"Agreement, Supreme Ct.",Riley,Isaac,Virden,William & Matthew,Kent,,,,1811,11,86
+741,"Plot, Survey",Riley,Isaac,Virden,William & Matthew,Kent,Murderkill,,,1811,11,87
+742,"Plot, Courses",Allen,John,Clifton,Nathan,,,,,1812,12,3
+743,Survey,Taylor,William,Clifton,Nathan,Kent,,,,1812,12,4
+744,Deed,Collins Sr.,Thomas,Dewaell,Martin,Kent,Mispillion,Milford,,1812,12,6
+745,"Survey, Contract",Short,Edward,Henderson & Collins,James & James,Kent,Mispillion,,forest,1812,12,7
+746,Plot,Rickards,Molton,Henderson,James,Kent?,,,,1812,12,8
+747,Manumission,,"Rose, negro",Hilford,Nancy,Kent,,,,1812,12,9
+748,Plot,,,Lowber,Jonathan,Kent,,,,1812,12,10
+749,Conveyance Bond,Hudson,Henry,Metcalf,William & Thomas,Sussex,,,,1812,12,11
+750,Deed,Morris,Nimrod,Morris,Booz,Kent,Mispillion,,,1812,12,12
+751,Lease,Newcomb,John,Oliver,Joseph,Kent,Mispillion,Milford,,1812,12,14
+752,Survey,,,Riggs,Levi & Sam.l,Kent?,,,,1812,12,16
+753,Deed,Layton,Lowder,Rogers,James,Sussex,,,,1812,12,17
+754,Plot,Henderson,Rebea,"Simpson, Riggs","Reuben, David",Kent,Mispillion,Guinia Town,,1812,12,18
+755,"Plot, Survey",Taylor,William,Thomas,Daniel,Kent,,,,1812,12,19
+756,Plot,,,"Torbert, Brinkckle, Blackiston,Coombs ,Davis","Samuel, George, Sam.l, W.",Kent,,Cullin Town,,1812,12,20
+757,Deed,"Collins,Sen.r",Thomas,Williams,John,Kent,Mispillion,,,1812,12,21
+758,"Articles of Agreement, Deed","Torlbert, Robinson","Samuel, Peter","Yoe, Redden","Benjamin, James",Kent,Mispillion,,,"1812, 1821",12,15
+759,Plot,Smith,Thomas,Booth,Joseph,Kent,Mispillion,,,1813,12,25
+760,Deed,Neall,Samuel,Draper & Lofland,John & Heaviloe,Kent,Mispillion,,,1813,12,26
+761,Plot,,,Hudson,Elijah,Sussex,Cedar Creek,,,1813,12,27
+762,Survey,,,Jester Levi,,,,,,1813,12,28
+763,Bond of Conveyance,Potter,John,Lofland,Purnel,Sussex,Cedar Creek,,,1813,12,29
+764,Plot,"Starr, Stapleford, Rogers, negroe","James, Edward, Richard",Lofland,Purnell,,,Milford,,1813,12,30
+765,Deed,Eckles,Benjamin,Murphy,John,Kent,Mispillion,,,1813,12,32
+766,Deed,Brown & Thomas,John & William H.,Neall,Samuel,Kent,Mispillion,,,1813,12,33
+767,Deed,Brown,William,Polk,William,Sussex,,,,1813,12,35
+768,Deed,Potter,Benjamin,Spencer,Samuel,Kent,Mispillion,,,1813,12,36
+769,Plot,,,Taylor,George,Kent,Mispillion,,,1813,12,37
+770,Plot,Fisher,"Thomas, Samuel, Miers",Wynkoop,Benjamin,Sussex,Cedar Creek,,Farmers Delight,1813,12,38
+771,"Deed, Alienation Bond",Layton,Lowder,Boroughs,Nathan,Sussex,Cedar Creek,,,1814,12,39
+772,Survey,Riggs,Samuel,Clayton,James,Kent,,Cullin Town,,1814,12,40
+773,Survey,Godwin,Daniel,Collins dec'd,Thomas,Sussex,Cedar Creek,,Arons Pleasure,1814,12,41
+774,"Plot, Survey",,,Dalinar,Levin H.,Kent,,,Mill Road,1814,12,42
+775,Survey,,,Dawson,Isaac,Kent?,,,,1814,12,43
+776,Plot,Grayham,Hanson,Grayham,Emory,Kent,Mispillion,,,1814,12,45
+777,Plot,,,Hurlock,William,Kent,Murderkill,,,1814,12,47
+778,Plot,Gullett,John,Jump dec'd,Olive,Kent & Sussex,,,Double Pleasure,1814,12,48
+779,Plot,Riggs,David,,Mcgonigal heirs,Kent?,,,,1814,12,49
+780,Plot,,,Masten heirs,Hezekiah,Kent,,,"Home Farm,  Wingate Tract, Cablinglade",1814,12,50
+781,Survey,Jester,Levi,Polk,Margaret,Kent,Murderkill,,,1814,12,51
+782,"Plot, Survey",,,"Rogers, negroe",Richard,Kent,Mispillion,,,1814,12,52
+783,Plot,Morgan,Peter,Shoemaker,William,Kent,Mispillion,,,1814,12,53
+784,Articles of Agreement,Young,Nathan & Robert,Stockley,Elizabeth & Cornelius,Sussex,,,Slaughter Neck,1814,12,54
+785,Survey,Hemmons,Rhodes S.,Torbert,Samuel & Allen,Sussex,,,Haven Mills,"1814, 1851",12,55
+786,Deed,Burroughs,Nathan,Webb,Benjamin,Sussex,Cedar Creek,,,1814,12,61
+787,"Plot, Courses",Hipkins,Lebulon,Broadie,Thomas,,,,,1815,12,62
+788,"Plot, Certificate",Greer MD,Mark,Catts,John,Kent,,,Catt's Folly,1815,12,63
+789,Survey,Blackinston,George,Clayton,James,,,,state road from Milford to X roads,1815,12,64
+790,Survey,Morris,Robert,Clifton,Charles,,,,,1815,12,65
+791,Plot,Davis,Henry," Davis EsQ. Dec,d",Jehu,Kent,,,,1815,12,66
+792,Account,,,Davis,Nehemiah,,,,,1815-1817,12,67
+793,Plot,Swigate,William,Dillin,Henry,Kent,,,,1815,12,68
+794,Deed,Evans,Robert,Harris,Benton,,,Milford? Lot #165,,1815,12,70
+795,Deed,Carlisle,William,"Hudson, exc.",Daniel,Sussex,,,Potters Folley,1815,12,71
+796,"Plot, Survey",,,"Hudson, Ross, Spence","Henry, Edward, William",,,,,1815,12,72
+797,Plot,Davis,Sovern,Douglass & Neall,,Kent,,,,1815,12,69
+798,"Plot, Survey",Primrose,Elias,Primrose,Thomas,Kent,,,Mispillion Neck,1815,12,75
+799,Courses,Simpson,Reubin,Riggs,David,,,,,1815,12,76
+800,Deed,Collins,Edward,Shockley,Elias,Kent,Mispillion,,,1815,12,77
+801,Deed,Layton,Lowder,Smith,William,Sussex,Cedar Creek,,,1815,12,78
+802,"Bill of Sale, Survey",Johnson,James,"Stokley, Potter & Mitchell","cornelius, B. & Jn.o",Kent,,,,1815,12,81
+803,Deed,Stokeley,William & Cornelius,Stokeley,Elizabeth,Sussex,Cedar Creek,,,1815,12,82
+804,Deed,Potter,Benjamin,Talbott,Samuel,Kent,,Milford,,1815,12,85
+805,Conveyance Bond,Carlisle,William,Williams,Charles,,,,Porters Folley,1815,12,87
+806,Deed,Redden,John W.,Brinckle,Jos. B.,Kent,,Milford,,1816,12,88
+807,Deed,Potter,Benjamin,Clarke,William,Kent,Mispillion,,,1816,12,89
+808,Plot,,,Cramner heirs,Thomas,,,,,1816,12,90
+809,Deed,Potter,Benjamin,Davis,Isaac,Kent,Mispillion,,,1816,12,91
+810,Agreement,Hudson,Benjamin,Deputy,Soloman,Sussex,,,,1816,12,92
+811,Plot,,,"Hall, Jester, Smith","Winlock, Eli, William",Kent,,,,1816,13,1
+812,Deed,Hudson,John,Hudson,Henry,Sussex,Cedar Creek,,Slaughter Neck,1816,13,3
+813,Deed,Hudson,Elijah,Hudson,John,Sussex,Cedar Creek,,Slaughter Neck,1816,13,4
+814,Plot,Tatman,John,Laws dec'd,Outten,Kent,,,,1816,13,5
+815,"Plot, Survey",,,Lowber,Grace,Kent,Murderkill,Frederica,,1816,13,6
+816,Plot,,,Mason dec'd,John,Kent,,,,1816,13,7
+817,Plot,Broadway,James,Moore,Vincent,,,,,1816,13,8
+818,"Plot, Courses",Simpson,Rueben,Pollitt,Thomas,,,Williamsville,,1816,13,9
+819,Plot,,,Sturges,Daniel,Kent,Mispillion,,,1816,13,11
+820,Plot,,,Truitt,Joseph,Sussex,Cedar Creek,,,1816,13,13
+821,Plot,Deputy,Gabriel,Willey,William P.,,,,,1816,13,14
+822,Survey,,,"Hall, Masten","J.,  Nath.l",Kent,,,Williams Chance,1817,13,16
+823,Conveyance,Hudson,Elijah,Hudson,Job,Sussex,Cedar Creek,,,1817,13,17
+824,Deed,Johnson,Whittington,Johnson,John,Kent,Mispillion,,,1817,13,18
+825,List of Sales,,,Lowery dec'd,Hessey,,,,,1817,13,19
+826,Deed,Argo,Andrew,Radcliff,Samuel,Sussex,Cedar Creek,,,1817,13,21
+827,Petition for Appointment,,,Shockley,William,Sussex,Cedar Creek,,Justice of Peace,1817-1820,13,22
+828,Deed,Shockley,Elias,Sipple,Walker,Kent,,Milford,,1817,13,24
+829,Deed,Murroughs,Nathan,Webb,Benjamin,Sussex,,,Bowmans Branch,1817,13,25
+830,Plot,,,Fisher,Samuel,Sussex,Cedar Creek,,Timber Neck,"1818, 1851",13,27
+831,Plot,,,Hendrickson,Samuel,Kent,,,Mispillion Neck,1818,13,29
+832,Survey of Road,,,Reed,David,,,,,1818,13,36
+833,Deed,Johnson,Tilghman,Riggs,David,Sussex,Cedar Creek,,,1818,13,37
+834,Deed,Stapleford,Edward,Shockley,Elias,Sussex,,,,1818,13,39
+835,Valuation of lands,,,Carslile dec'd,Pemberton,,,,Venture,1818,13,31
+836,Plot,,,Gullett,Elizabetn,,,,,1818,13,32
+837,Deed,Walton,David,Jump,William,Kent,Mispillion,,,1818,13,33
+838,Arbitration Bond,Shaver,John,Layton,Lowder,Sussex,Cedar Creek,,,1818,13,34
+839,Arbitration Bond,Layton,Lowder,Shaver,John,Sussex,,,,1818,13,38
+840,Deed,Cowen,John & David,Shockley,William,Sussex,,,,1818,13,40
+841,Deed,Hill,Absolom,Shockley,William,Sussex,Cedar Creek,,,1818,13,41
+842,Plot,,,Smith,Betsy,Kent,,,,1818,13,42
+843,Plot,,,"Starr, Body, Walton","Jas., Waitman, W.",,,Cullen Town,,1818,13,43
+844,Plot,,,Yoe dec'd,Benjamin,Kent,,Milford,,1818,13,46
+845,Patent,,,Carlise Esq.,William,Sussex,,,Branch Lot,1819,13,47
+846,"Plot, Courses",,,Collins,Henderson,,,,,1819,13,48
+847,"Plot, Courses",,,Fleming,Matthew,Kent,,,Tower - hill,1819,13,49
+848,Courses,Graham,Isaac,"Graham, Buckmaster","Henson, Charles",Kent,,Marshyhope,,1819,13,50
+849,Courses,Grayham,Henson,Grayham,Emmory,Kent,Mispillion,,,1819,13,51
+850,"Plot, Courses",,,Hall,John Wood & Mary,Kent,,,,1819,13,52
+851,"Plot, Courses",,,"Hopkins, Layton, Stafford","Zebulon, Curtis, Jane, Joseph",,,,,1819,13,53
+852,Plot Courses,Anderson,Ezekiel,Kimmey,Charles,,,,,1819,13,54
+853,Plot,,,Lockwood,Samuel,,,Milford,,1819,13,55
+854,Deed,Hudson,Elijah,Lofland Esq.,Elias,Sussex,Cedar Creek,,,1819,13,56
+855,Deed,Clayton,James,Shockley,Elias,Sussex,Cedar Creek,,,1819,13,58
+856,Deed,Layton,Lowder,Shockley Esq.,Elias,Sussex,Cedar Creek,,,1819,13,59
+857,Deed,Dyott,Doct. Tho.s W.,Brown,John,Kent,Mispillion,,,1820,13,61
+858,Courses,Fleming,George,,Collins,,,,,1820,13,63
+859,Field Notes,,,"Fleming, Wood","Elias, Mary",,,,Mansion Place,1820,13,64
+860,"Plot, Courses",,,Griffith,"Joshua, Isaac",Sussex,,,,1820,13,65
+861,"Petition, Orphans Ct.",,,Gullitte,Alexander,Kent,,,,1820,13,66
+862,Plot,Harris,John,Harris,Richard S.,Kent,,,Goshen,1820,13,68
+863,Deed,Davis,Thomas,Haslet,Joseph,Sussex,Cedar Creek,,,1820,13,69
+864,Conveyance Bond,Lowry,Justus,Kane,Corneluis,Kent,Mispillion,,Neck,1820,13,71
+865,Deed,Fountain,William,Purnal,Thomas,Sussex,Cedar Creek,,,1820,13,74
+866,"Plot, Courses",Covington,John,"Reed,  Sheriff",John,Kent,,,,1820,13,75
+867,"Plot, Survey",Riggs,John,Riggs,David,Kent,Mispillion,,,1820,13,76
+868,"Plot, Survey",,,"Smith, dec'd",Jesse,Sussex,North West Fork,,,1820,13,77
+869,Plot,Brinckloe,John,Walton,Isaac,Kent,,,Tub Mill,1820,13,78
+870,"Plot, Courses",Masten,Wm.,Willoughby,John,,,,,1820,13,79
+871,Plot,Griffith,William,Carlisle Esq.,William,Sussex,,,,1820,14,2
+872,Plot,,,"Davis, Carpenter","Neheniah, Samual, Sally",Sussex,Cedar Creek,,Slaughter Neck,1820,14,6
+873,Deed,English,Samuel,Dyott MD,Thomas W.,Kent,,,,1821,14,7
+874,"Plot, Survey","Turner, Hoalston","Jehu, Benjamin","Eckles, Morris","Jn., Elijah",,,,,1821,14,8
+875,Plot,,,"Henderson, the elder, dec'd",James,Kent,,,Old tub Mill Place,1821,14,9
+876,Plot,,,Jarvis,Caleb,,,,Howard Land,1821,14,10
+877,Plot,,,Jordon dec'd,Andrew,Kent,Mispillion,,,1821,14,11
+878,Courses,Bonwell,Henry M.,Lockwood,Caleb,,,,,1821,14,12
+879,Deed,Tomlison,James,Raisins,James,Kent,Mispillion,,,1821,14,14
+880,Deed,Potter,Benjamin,"Saulsbury, sheriff",William,Kent,,,,1821,14,15
+881,"Plot, courses",,,Smith dec'd,Jesse,,,,,1821,14,18
+882,"Plot, Courses",Sorden,Anaritta,"Sorden, Rowland, Mifflin","James, Isaiah, Warner",Kent,,Marshyhope,"Newbern,  Swamp Place",1821,14,19
+883,Deed,Collins,Henderson,Starr sheriff,James,Kent,,Milford,,1821,14,20
+884,Courses,,,Turner,"Charles, Levisa",,,,,1821,14,21
+885,"Plot, Courses",Nutter,Wm.,Williams adm.,Spencer,Kent,,,,1821,14,23
+886,Survey,,,Wood,Mary,,,,Col. Wood Farm,1821,14,24
+887,Courses,,,Dorman,George,,,,,1822,14,27
+888,Deed,Clayton Esq.,John M.,Ellegood sheriff,William,Sussex,,,,1822,14,28
+889,Plot,Graham,Henson,Graham,Emory,,,,,1822,14,30
+890,Field Notes,,,Gullett,John,Kent & Sussex,,,,1822,14,31
+891,Deed,Argo,Andrew,Hayes,Alexander L.,Sussex,Cedar Creek,,The Fisher Place,1822,14,32
+892,Deed,Potter,Benjamin,Hynson,Mathew M.,Kent,,,,1822,14,33
+893,Survey,Sappe,Elijah,Jarvis,Caleb,Kent,,,,1822,14,35
+894,Deed,Williams,Reynear,Layton,Lowder,Kent,,Milford,,1822,14,36
+895,Plot,,,"Luff, Burley, Buckmaster","Nathaniel, James T., James S.",Kent,Mispillion,,Mispillion Neck,"1822, 1857",14,37
+896,Deed,Williams,Reynear,"Saulsbury, sheriff",William,Kent,,,,1822,14,40
+897,Deed,Argoe,Samuel B.,Argoe,Andrew,Sussex,Cedar Creek,,The Fisher Place,1823,14,42
+898,Survey,Johnson,Tilghman,Bryon dec'd,Shepherd,Sussex,,,,1823,14,43
+899,Will,,,Collins,"Thomas,Sen'r",,,,,1823,14,46
+900,Deed,Collins,Edward,Collins,Thomas,Kent,,Milford,,1823,14,47
+901,Deed,Cowen,John H. David,Cottingham,Joshua,Sussex,Cedar Creek,,,1823,14,49
+902,Letter,Metcalf,John,Davis,Thomas,Sussex,,George Town,,1823,14,50
+903,"Plot, Courses",,,Dewaell & Commercial Bank,,,,,,1823,14,51
+904,Lease,Johnson,Anna,Douglas,Walter,Kent,,,,1823,14,52
+905,Plot,,,Emerson,Jonathan,,,,Newbern,1823,14,53
+906,Request for Payment for Survey,,,General Assembley,,Kent & Sussex,,,,1823,14,54
+908,Plot,,,"Griffith , Collins","William ,Andrew",Sussex,,,,1823,14,55
+909,Plot,Williamson,Elijah,Hardesty,John,Kent,,,,1823,14,56
+910,Survey,,,Harrington,Isaac,Kent,,,Pond Neck,1823,14,57
+911,Plot,Argoe,Samuel B.,Hayes,Alexander L.,Sussex,,,Fisher Place,1823,14,58
+912,Deed,Hudson,Elijah,Maull sheriff,James,Sussex,Cedar Creek,,,1823,14,60
+913,Deed,Covington,John,Morris,Robert,Kent,Mispillion,,,1823,14,62
+914,Plot,,,Porter,John,Kent,Mispillion,,,1823,14,64
+915,Deed,Marvel,Adam,Pritchett,"Zachariah, Mary",Kent,Mispillion,,,1823,14,65
+916,Deed,Deputy,Joshua,Shaw,John,Sussex,Cedar Creek,,,1823,14,66
+917,Plot,,,Smith,Holiday,Kent,,,,1823,14,67
+918,Plot,,,Stayton,James,Sussex,Cedar Creek,Shawnee Town,,1823,14,68
+919,"Plot, Courses",,,Todd,William,Sussex,,,,1823,14,69
+920,"Plot, Survey",,,Turner (negroe),Abraham,Kent,,,Main Rd. from Guinia Town to Dover,1823,14,70
+921,Survey,Visit,Polly,Visit,Andrew,,,,,1823,14,72
+922,"Plot, Courses",Graham,"John , Samuel",Ward,Joseph,Kent,,,,1823,14,74
+923,Deed,Petertun,Thomas,Williams  (adm.John Williams,Reynear,Kent,,Milford,,1823,14,75
+924,Plot,,,Adams,Levin,Kent,,,,1824,15,1
+925,"Plot,Courses",,,"Barker,estate",John,Kent,,,,1824,,
+926,Deed,Reed,Elias,Belsland,James,Sussex,,Milton,,1824,15,4
+927,Courses,,,Bostick dec'd,Robert,Kent,,,,1824,15,5
+928,"Plot, Survey",,,Dorman & Finsthwait,Solomon & Elizabeth,Kent,,,,1824,15,10
+929,"Common Pleas, Court of",Evans,Robert,Harris,Benton,Sussex,,,,1824,15,12
+930,Plot,,,Hays dec'd,Joshua,Sussex,Cedar Creek,,,1824,15,13
+931,Courses,,,Henderson,Benjamin,Kent,,,,1824,15,14
+932,Plot,,,Mcolly & Lofland,T.P. & Nehemiah,Sussex,Cedar Creek,,Saw Mill Range,1824,15,17
+933,Deed,Carter,John,Marvel,Adam,Kent,Mispillion,,,1824,15,18
+934,Plot,,,Masten Jr.,Wm.,,,,,1824,15,19
+935,Courses,Short & Truitt,S. &---,May,T.,Kent,,,,1824,15,20
+936,Plot,,,Morris dec'd,Robert,Kent,,,,1824,15,21
+937,Courses,Johnson,James,Riggs,Isaac,Sussex,,,,1824,15,22
+938,Deed,Johnson,Tilghman,Riggs,David,Sussex,Cedar Creek,,,1824,15,23
+939,Deed,Collins,Henderson,"Saulsbury, Sheriff",Wm.,Kent,,Milford,,1824,15,24
+940,Courses,,,"Scott, heirs",John,,,,,1824,15,25
+941,"Codicil, Deed",Williams,Reynear,"Shockley, Mason & Davis","Mary, Daniel & Margaret L.",Kent,Mispillion,,Drapers Landing,1824,15,26
+942,Plot,,,Short & Truitt,S. & P.,Kent,,,,1824,15,27
+943,"Division of Land, Return of Orphan Ct.",,,"Smith, dec'd",John,Sussex,,,,1824,15,28
+944,Courses,,,"Vist, dec'd",Andrew,Sussex,,,,1824,15,29
+945,Deed,Argoe,Andrew,Argoe,Samuel B.,Sussex,Cedar Creek,,The Fisher Place,1825,15,30
+946,Deed,Fowler,William,"Carlisle, adm.",Celia,Sussex,Cedar Creek & Naticoke,,,1825,15,32
+947,Deed,Clarke,Zadok C.,Clarke,Matthew J.,Kent,,,near Clarks Old Saw Mill,1825,15,35
+948,Survey,,,Durborow,John,Kent,,,,1825,15,37
+949,Deed,Argo,Andrew,Fowler,William,Sussex,Cedar Creek,,Porters Folly,1825,15,38
+950,"Plot, Courses",,,"Hall, Mollineaux","William, Noble",Kent,,,"Tower Hill, Increase",1825,15,39
+951,Plot,,,"Hayes & Polk, Deputy","Purnal & Charles, Charles",Sussex,,,"Coverdales New-design, Naboth's Vinyard",1825,15,41
+952,"Plot, Courses",Bedwell,Jesse,Jackson,James,Kent,,,,1825,15,43
+953,Letter,Mulinex,Moble,Johnson,James,,,,,1825,15,44
+954,"Plot, Courses",,,Lowery,Justus,Kent,,Milford,,1825,15,47
+955,Plot,,,Lowery,Justus,Kent,Mispillion,,Mispillion Neck,1825,15,48
+956,Plot,,,Mollineaux,Noble,Kent,,,"Angleton"", Increase",1825,15,49
+957,Courses,Virden,John,Morris,Clement,,,,,1825,15,50
+958,Plot,,,Potter,Benjamin,Sussex,,,Cedar Creek,1825,15,52
+959,Regulation for a division line,,,Potter & Brinkloe,Benjamin & John,,,Milford,,1825,15,53
+960,Courses,,,Satterfield,William M.,,,,,1825,15,54
+961,Courses,,,Sherwood,Thomas,Kent,,,"Pearson's Delight,  Jones's Hurry",1825,15,55
+962,Plot,Steel,James,Shoemaker,J.,,,,,1825,15,56
+963,Field Notes,,,"Townsend, Stewart, Stewart","Cha.s, Aaron, John",,,,,1825,15,57
+964,Plot,"Harrington, Roe","Abner, Richard","Townsend, Stewart","Charles, Aaron, John",Kent,,,,1825,15,58
+965,Courses,,,"Whitacre, negroe",Charles & George,Kent,,,,1825,15,59
+966,Courses,,,Winsmore,Thomas,Kent,,,Peterkin Place,1825,15,61
+967,Survey,,Elizabeth's dower,Winsmore,Thomas,Kent,,,Mispillion Creek,1825,15,62
+968,"Plot, Courses",,,Bowman,Rebecca,Kent,,,,1826,15,65
+969,"Plot, Survey",,,Curry,Daniel,,,,Attawattacoquin,1826,15,66
+970,Deed,Williams,Reynear,"Fisher, sheriff",Thomas,Kent,,,,1826,15,68
+971,Book of Math Problems,,,Fleming,Charles T.,,,,,1826,15,69
+972,Letter,Lowery,Justus,Fossett,James,,,Milford,,1826,15,70
+973,Field Notes,,,Harris,Richard S.,,,,,1826,15,71
+974,Field Notes,Deal,Robert,"Hopkins, White","Fisher B., Curtis, Thomas",,,,,1826,15,72
+975,Deed,Argo,Andrew,Hudson,Daniel,Sussex,Cedar Creek,,,1826,15,73
+976,Plot,,,"Johnson, dec'd",Charles H.,Sussex,Cedar Creek,,,1826,15,74
+977,Deed,McCay,William,Lednum,Joseph,Kent,Mispillion,,,1826,15,75
+978,Plot,,,Livingston,John,Kent,Mispillion,,Mispillion Neck,1826,15,76
+979,Plot,,,Ludemun,Zadock,Kent,,,"Riley's Place,Home Place",1826,15,77
+980,"Plot, Field Notes",,,Molleston,[Jamimah],Kent,,,,1826,15,79
+981,Plot,Parsons,Benjamin,Parsons,Tomlinson,Kent,,,Milford Neck,1826,15,80
+982,"Plot, Survey",,,Polk,Charity & Sally,Sussex,,,"Charitys Venture,Bomans Branch",1826,15,82
+983,Plot,Walls,William,"Polk, dec'd",William,Sussex,Cedar Creek,,Naboth's Vineyard,1826,15,83
+984,"Plot, Field Notes",,,Townsend,Charles,Kent,,,,1826,15,85
+985,Plot,,,Turner,Jessa,,,,,1826,15,86
+986,Plot,,,Dehorty,Vincent,Kent,Mispillion,,Hog Range,1827,16,3
+987,Field Notes/Account Robert Thomas 1830,,,"Deputy, Johnson, Henry, Thomas","Gabriel, Purnel, B., Robert",,,,,1827,16,4
+988,Plot,,,Johnson,Purnel,Kent,Mispillion,,,1827,16,6
+989,Appointment of Quartermaster,,,Jump,William L.,,,,DE Militia Sixth Regiment,1827,16,7
+990,Survey,Dutton,Joseph,"Owens, Diwade","John, Martin",,,Milford,Shockley Hote.,1827,,
+991,Deed,Smith widow,Elizabeth,Potter,John,Sussex,,,,1827,16,8
+992,Bond,Young colored,Joseph,Riley,Lawrence & Sarah,,,,,1827,16,9
+993,Plot,"Fleming, Turner, Morgan","Nathan, Elizabeth, Evan F.","Turner, dec'd",Jesse,,,,,1827,16,10
+994,Plot,,,Slafford,And.w,Kent,Mispillion,,,1827,16,11
+995,Deed,Stapleford,Joshua W.,Truitt,William M. & Boarden H.,Kent,Mispillion,,,1827,16,12
+996,Letter,Lowery,Justice,Boon,John,,,Milford,,1828,16,13
+997,Plot,,,Booth & Dorman,Eliza & David,Kent,Mispillion,,Hubbard Place,1828,16,14
+998,Deed,Stapleford,Joshua W.,"Collins, sheriff",John,Sussex,Nanticoke,,,1828,16,15
+999,Plot,,,Hamilton,Joel,Kent,,,,1828,16,17
+1000,Deed,Oliver & Mason,Joseph G. & Daniel,Hardcastle,Garrett S.,Kent,,,,1828,16,18
+1001,Plot,,,"Harrington, negroe",Richard,Kent,Mispillion,,,1828,16,19
+1002,Deed,Layton,Caleb S.,Harris,Stephen M.,Sussex,,Georgetown,#14,1828,16,20
+1003,Plot,,,Layton,Lowder,Sussex?,,,,1828,16,21
+1004,Deed,Mason,Daniel,Oliver,Joseph,Kent,Mispillion,,,1828,16,22
+1005,Plot,Anderson,James C.,Vickory,Solomon,Kent,Mispillion,,,1828,16,24
+1006,Plot,,,Cropper,Jabez,,,Milford,,1829,16,26
+1007,Deed,Stapleford,Joshua M.,"Johnson, sheriff",Purnel,Sussex,,,,1829,16,27
+1008,Deed,Mason,Daniel,"Mastin, Sr.",John,Kent,Mispillion,,,1829,16,28
+1009,Deed,Mason,Dan.l,Maxwell,Adam,Kent,Mispillion,,,1829,16,29
+1010,Plot,Vinegard,Curtis,Potter,Benjamin,Kent,Mispillion,,,1829,16,30
+1011,Deed,Darby,John,Rickards,Philip,Sussex,Cedar Creek,,,1829,16,31
+1012,Plot,Currey,D.,Smith,David,Sussex,,,,1829,16,32
+1013,Petition Orphans Ct.,,,Barrett,Elijah,Kent,,,,1830,16,37
+1014,Deed,Lowrey,Justus,Brinckloe,Elizabeth C.,Kent,Milford,,,1830,16,38
+1015,Deed,Hudson,Elijah,"Johnson, sheriff",Purnal,Sussex,, Milford,,1830,16,39
+1016,Petition for Justice of the Peace,,,Jump,William S.,Kent,Mispillion,,,1830-1833,16,40
+1017,Articles of Agreement,,,"Layton, Hudson, McColley, Darby","Lowder, Elijah, Truston P., John M.",Sussex,Cedar Creek,,Cedar Creek Neck from May's Landing,1830,16,41
+1018,Letter,Potter Jr.,Benjamin,Layton,Caleb S.,,,,,1830,16,42
+1019,Survey,Short,Samuel,May,Thomas,,,,main road from Milford to Jester Crossroads,1830,16,43
+1020,Deed,Lowery,Justus,Oliver,Joseph G.,Kent,,Milford,Deweese Tract,1830,16,44
+1021,Survey,,,Paine,"Samuel, Capt.",,,Milford,,1830,16,45
+1022,Deed,Hudson,Elijah,Potter,Benjamin,Sussex,Cedar Creek,,,1830,16,46
+1023,"Inventory, Will",,,"Potter, dec'd",John,Sussex,Cedar Creek,,,1830,16,47
+1024,Bill of Sale,Potter,Benjamin,"Poynter, wid",Jane,Sussex,,,,1830,16,48
+1025,Survey,Johnson,James,Riggs,Isaac,Sussex,,,,1830,16,49
+1026,"Plot, Survey",Hall,Winlock,"Tumbleson, heirs",Richard,,,,Bowmans Marsh,1830,16,50
+1027,Deed,Cowen,John,Warren,Lodawich adm.,Sussex,Cedar Creek,,,1830,16,51
+1028,Deed,Dorman,Solomon,Williams,Rynear,Kent,Mispillion,,,1830,16,52
+1029,Articles of Agreement,,,"Argoe, heirs",Andrew,Sussex,,,,1830,16,53
+1030,Deed,Argoe,Samuel B.,Argoe,"Jorden, et al",Sussex,Cedar Creek,,Porter's Folly,1831,16,54
+1031,Deed,Cowan,John & David,Beckworth,Curtis,Sussex,Cedar Creek,,,1831,16,55
+1032,Deed,Lofland,Joseph S.,Cummins,John,Kent,,Cullin Town,,1831,16,57
+1033,Deed,Williams,William C.,Davis,Isaac,Kent,Mispillion,,,1831,16,58
+1034,Plot,"Fisher, Wilson","---, Curtis","Draper, dec'd",John,,,,,1831,16,59
+1035,Deed,Layton,Caleb L.,Evans,Robert,Sussex,Georgetown,,,1831,16,61
+1036,Deed,Prettyman,Paynter,"Mason, exec.",Daniel,Kent,,Milford,,1831,16,62
+1037,Deed,Argoe,Samuel B.,Poynter,Nathan,Sussex,Cedar Creek,,,1831,16,63
+1038,Deed,Potter,Benjamin,Williams,Reyner,Kent,,Milford,Tanyard,1831,16,65
+1039,Plot,,,Williams,Reyner,Kent,,Milford,,1831,16,66
+1040,Deed,Mason,Daniel,Davis,Isaac,Kent,Mispillion,,,1831,16,67
+1041,Plot,,,Davis,John,Kent,Mispillion,,,1832,16,68
+1042,Deed,Young,Joseph,Deputy,Sylvester,Sussex,,,Slaughter Neck,1832,16,69
+1043,Plot,Hammand,Isaac,"Hamilton,dec'd",Joel,,,,,1832,16,70
+1044,Deed,Harrington,Aron,"Harrington, heirs",Nathan,Kent,Mispillion & Milford,,,1832,16,71
+1045,Deed,Collins,Alexander H.,Jump,William,Kent,Mispillion,,,1832,16,72
+1046,Deed,Potter,Benjamin,Layton,Lowder,Kent,,Milford,Milford Mills,1832,16,73
+1047,Deed,Eubank,John D.,Mason,Daniel,Kent,,Milford,,1832,16,74
+1048,Lease,Williams,John,Mason,Daniel,Kent,,Milford?,,1832,16,75
+1049,Plot,,,Mason,Daniel,,,,,1832,16,76
+1050,Deed,Potter,Benjamin,Oliver,Galladette,Sussex,,,,1832,16,77
+1051,Plot,,,Postle,Clemment,,,,,1832,16,78
+1052,Courses,,,Potter,Benjamin,,,Milford,dwelling lot Hilford,1832,16,79
+1053,Survey,,,,,,,,"Horse Pond, Cat Tail Marsh",1832,16,80
+1054,Receipt,Layton,Lowder,Williams,William,,,,,1832,16,81
+1055,Plot,"Dewail, Williams","Martin, Reyner","Bradley, Lofland, Henderson, Cropper","William, Jas., Benj.n, Jabez",,,,,1833,16,82
+1056,Deed,Williams,Reynear,"Burton, sheriff",William,Kent,Milford,Cullen Town,Land of Nutter Gordy,1833,16,83
+1057,Plot,Dennis,Nehemiah,"Dennis, dec'd",William,Kent,Mispillion,,Brick House Farm in the Neck,1833,16,84
+1058,Plot,,,Hickman,John,Kent,,,Reville Land,1833,16,85
+1059," Plot, Survey",Williams,Reynear,"Lofland, Doct.",James P.,Kent,,,John Bradley Land,1833,16,86
+1060,Power of Attorney,Layton,Joshua S.,Oliver,Charles,Sussex,,,Guardian:Charlotte S. Kellum,1833,16,87
+1061,Deed,Layton,Caleb S.,Pepper,Gorge L.,Sussex,Broadkiln,,,1833,16,88
+1062,Plot,,,"Revel, dec'd",John,Kent,Milford,,,1833,16,89
+1063,"Deed, Plot",Williams,Reynear,Sudler,John R. & Emory,Kent,Murderkill,,The Thomas Green Land,1833,16,92
+1064,Survey,Potter,Col. Benjamin,Walton,William,Sussex,,,,1833,16,93
+1065,"Plot, Survey",,,"Williams, dec'd",Spencer,Kent,Mispillion,,,1833,16,94
+1066,"Bills, Receipts",,,Collins,Henderson,Kent,,,,1834-1855,17,1
+1067,Deed,Streets,William,Fositt,John,Kent,Milford,,,1834,17,2
+1068,"Plot, Courses",,,"Graham, Swiggett","David, Dr. Luther",,,,,1834,17,3
+1069,Bill,Davis,Thomas,Groves,Elsey,,,,,1834,17,4
+1070,Deed,Holland,Albert & David H.,Holland,John,Sussex,Cedar Creek,,Slaughter Neck,1834,17,5
+1071,Survey,,,Macklin,Curtis,Sussex,Cedar Creek & Naticoke,,the Molineaux Farm,1834,17,7
+1072,Deed,Mason,Daniel,Rickards,John of Jehu,Kent,Mispillion,,,1834,17,8
+1073,Deed,Rickards,John,Rickards,Nathan,Kent,Mispillion,,,1834,17,9
+1074,Deed,Townsend,Purnel,Townsend,Noah,Sussex,Cedar Creek,,,1834,17,10
+1075,Plot,,,"Booth, dec'd",John,Kent,Milford,Milford,,1834,17,11
+1076,Plot,,,"Booth, dec'd, Powell","John, Wm. & Nathaniel",Kent,Mispillion,,Hammontown Forest,1834,17,12
+1077,Plot,"Taylor, Dennis","Esther, Mariam","Bowman, dec'd",Nathanial,Kent,Mispillion,,Neck,1835,17,14
+1078,Plot,,,"Collins, Sr.",W. Edward,Sussex,Cedar Creek,,,1835,17,15
+1079,Deed,Causey,Peter F.,Davis,Henry,Sussex,Cedar Creek,,,1835,17,16
+1080,Guardian Release,Satterfield,Thomas,Finsthwrih,Mary S.,Kent,,,,1835,17,17
+1081,Deed,Darby,John M.,"Fisher, et al",Thomas,Sussex,,Milford,,1835,17,18
+1082,"Plot, Courses",,,Gosley,Sam.l,Sussex,,,Northwest Fork Branch,1835,17,19
+1083,Plot,,,Griffith,Chls C.,Sussex,,,,1835,17,20
+1084,Indenture,"Primrose, Darby","George & Rhoda, John M.","Henry, negro",John,Kent,,,,"1835,1839",17,21
+1085,Deed,Collins Sr.,Edward,"Hilford, wid",Sarah,Sussex,,,,1835,17,23
+1086,Plot,Taylor,David,Jump,Isaac,Kent,,,,1835,17,24
+1087,"Plot, Survey",,,Lofland,Soloman,Kent,Mispillion,,forest,1835,17,25
+1088,"Plot, Courses",,,"Mason, Lofland & Williams","Daniel, Doct. J.P., Spencer",,,,,1835,17,26
+1089,Deed,Layton,Caleb S.,Maull,Dr. George W.,Sussex,Broadkill,,,1835,17,27
+1090,Deed,Causey,Peter F.,McClyment,William Henry,Kent,Milford,,,1835,17,28
+1091,"Plot, Survey",,,Paradee,Caleb,Kent,Mispillion,,Marshy-hope forest,1835,17,29
+1092,Judgement Bond,Potter,Edmond,Potter,Benjamin,Sussex,,,,1835,17,30
+1093,Deed,Darby,John M.,Prettyman,"Paynter, Sarah",Kent,Milford,Milford,,1835,17,31
+1094,Deed,Causey,Peter F.,"Reynolds, sheriff",Robert M.,Kent,Mispillion,,,1835,17,32
+1095,Courses,"Reed, Wyatt","David, Sarah",Rowland,Jos. G.,Kent,Mispillion,,,1835,17,33
+1096,Courses,Wallace,John,Shockley,Elias,,,Milford,,1835,17,34
+1097,Deed,McColly,Truston P.,Smith,David of David,Sussex,Cedar Creek,,,1835,17,35
+1098,Plot,Radcliff,William H.,Taylor,Benjamin F.,Sussex,,,Shawnee,1835,17,36
+1099,Survey,,,"Tharp, Johnson","Wm., Geo.",,,,,1835,17,37
+1100,Plot,Fiddeman,Henry B.,Causey,Peter F.,Kent,Milford,Milford,,"1836, 1850",17,40
+1101,Deed,Darby,John M.,Davis,James B.,Kent,,Cullin Town,,1836,17,42
+1102,Deed,Carlisle,James G.,Draper,David,Kent,,,,1836,17,43
+1103,Deed,Darby,John M.,Eubanks,John D.,Kent,Milford,Milford,,1836,17,44
+1104,Deed,Williams,John,"Frame, sheriff",George,Sussex,Cedar Creek,,,1836,17,45
+1105,"Plot, Courses",Harrington,Rhoda,"Harrington, heirs",John,,,,,1836,17,46
+1106,"Plot, Courses",Candy,Abraham,Hays,Peter,Sussex,,,,1836,17,47
+1107,Deed,Hudson,Elijah,Hilford,Sarah,Sussex,Cedar Creek,,,1836,17,48
+1108,Deed,Darby,John M.,Johnson,Levi R.,Kent,,Cullen Town,,1836,17,49
+1109,Deed,Layton,Joshua S.,Layton,Caleb S.,Sussex,,George Town,,1836,17,50
+1110,Deed,Layton,Joshua S.,Maull,George W.,Sussex,Broadkiln,,,1836,17,51
+1111,Deed,Johnson,Levi R.,"Reynolds, sheriff",Robert M.,Kent,Milford,,,1836,17,52
+1112,Deed,Williams,John,Shockley,Mary R.,Sussex,Cedar Creek,,,1836,17,53
+1113,"Plot, Survey",,,"Williams, dec'd",R.,Kent,,,Milford Neck,1836,17,54
+1114,Plot,,,"Williams, dec'd",R.,Kent,Mispillion,,Davis lot,1836,17,55
+1115,Plot,"Layton, Rogers","Hon. Caleb S., Daniel","Layton, Esq.",Louder,Sussex,,,,1837,17,63
+1116,Deed,Darby,John M.,McCay,William,Kent,Milford,,,1837,17,64
+1117,Deed,Layton,Joshua S.,Pepper,Thomas,Sussex,Broadkiln,,,1837,17,66
+1118,Deed,Reed,J.,"Todd, adm.",H.,Kent,,,,1837,17,67
+1119,"Judgements, Superior Ct.",Heather,Horatio N.,"Waples, Tharp, McGluesy, Wolf, Darby, Heather, Cau","Wm., Wm., erasmus, Johm M., W., PF., David, J.B.",Kent,,,,1837-1841,17,68
+1120,Plot to regulate repair of streets,,,,,Kent,Milford,Milford,,1838,17,69
+1121,Deed,Hudson,Elijah,"Brinckloe, Esq.",John P.,Sussex,Cedar Creek,,,1838,17,70
+1122,Deed,Fleming,Charles T.,Causey,Peter F.,Kent,,,"Milford Neck, wharf",1838,17,71
+1123,Promisary Note,,,[Cacus],Hamilton,,,,,1838,17,72
+1124,Deed,Godwin,William,Dorman,Thomas,Kent,Mispillion,,,1838,17,73
+1125,Plot,"Godwin, Finsthwait","William, Mary",Dorman,Thomas,Kent,Mispillion,,,1838,17,74
+1126,Deed,Layton & Sipple,Joshua S. & Caleb B.,"Frame, shff.",George,Sussex,Broadkill,,,1838,17,75
+1127,Articles of Agreement,Shockley & Milles,Jacob & Herikiah,Layton,[Lowder],Sussex,,,,1838,17,76
+1128,Plot,,,Lofland,Mrs.,Kent,Milford,Milford,Bank lot deed history,1838,17,77
+1129,Deed,Mason,Daniel,Macklin,Elias,Kent,Mispillion,,,1838,17,78
+1130,"Plot, Title Abstract",Thompson,William,"Parsons, dec'd",Benjamin,Kent,,,,1838,17,79
+1131,Deed,Collins,Henderson,Passwaters,Mary,Sussex,Nanticoke,,,1838,17,80
+1132,Deed,Cirwithern,Caleb,Slockley,Woodman,Sussex,Cedar Creek,,Staughter Neck,1838,17,82
+1133,"Plot, Courses",Thompson & Mason,Wm. & Thompson,"Williams, dec'd",Reynear,,,,Milford Neck on Fishing Creek,1838,17,84
+1134,Deed,Williams,John,Causey,Peter F.,Sussex,,Flea Town,,1838,18,2
+1135,Deed,Potter,Benjamin,Chambers,Corry,Kent,Milford,,,1839,18,3
+1136,Plot,Winsmore,Robert,"Clark, dec'd",Thomas,,,,,1839,18,4
+1137,Deed,Davis,James B.,Darby,Johnson,Kent,Milford,Milford,,1839,18,5
+1138,Plot,,,Draper,Samuel,Sussex,,,,1839,18,6
+1139,Plot,,,"D[urrael], Causey, Burley","---, P.F., James F.",Kent,Mispillion,,near Milford,1839,18,7
+1140,Plot,,,"Hudson, Esq.",Henry,Kent,,,Bradly Land,1839,18,8
+1141,"Plot, Survey",,,Jester,James B.,Kent,,Williamsville,,1839,18,9
+1142,Authorization to locate vacant land,,,Laws,Alexander,Kent,Mispillion,,,1839,18,10
+1143,Deed,Lofland & Darby,Dr. James P. & John M.,Layton,Lowder,Kent,Milford,,,1839,18,11
+1144,Deed,Causey,Peter F.,Lowery,Justus,Kent,Milford,Milford,,1839,18,12
+1145,Plot,,,Morgan,Peter,Kent,Mispillion,,,1839,18,14
+1146,Deed,Darby,John M.,Potter,Benjamin,Kent,,,Milford Mill Property,1839,18,15
+1147,Plot,,,Riggs,David,Kent,,Williamsville,,1839,18,16
+1148,Deed,Ingraim,John of Jacob,Shockley,Lemuel B.,Sussex,Cedar Creek,,,1839,18,17
+1149,Deed,Ingram,Nathaniel,Shockley,Lemuel B.,Sussex,Cedar Creek,,,1839,18,18
+1150,Letter,Darby,John M.,Smith,A. [T.],Kent,Milford,,,1839,18,19
+1151,Deed,Collins,Henderson,Welch,Jane,Sussex,Nanticoke,,,1839,18,20
+1152,Deed,Mason,Daniel,Carlisle,Samuel G.,Kent,Milford,,,1840,18,25
+1153,Survey,Hammersley,Thomas R.,Causey,P.F.,,,,,1840,18,26
+1154,Survey,Daniel,Nehemiah,Hammersley,Tho.s R.,Sussex,,,,1840,18,30
+1155,Plot,,,"Hammond, dec'd",Edward,Kent,Mispillion,,,1840,18,31
+1156,Deed,Collins,Henderson,Jones,Gibson,Sussex,Nanticoke,,,1840,18,32
+1157,Plot,Stayton,William H.,Layton,Lowder,Sussex,Cedar Creek,,,1840,18,33
+1158,Deed,Mason,Daniel,Rickards,Barbary,Kent,Mispillion,,,1840,18,34
+1159,Plot,,,"Short, dec'd",Samuel,,,,,1840,18,35
+1160,Deed,Layton,Joshua L.,Sipple,Caleb B.,Sussex,Broadkiln,,,1840,18,36
+1161,Plot,,,Stayton,Wm. H.,Sussex,,,,1840,18,37
+1162,"Plot, Survey",,,Truitt,George,Kent?,,,,1840,18,38
+1163,Deed,Burton,Benjamin,Watson,Curtis L.,Sussex,Cedar Creek,,"Stockley Farm, Hickman Farm",1840,18,39
+1164,Plot,Eubanks,William W.,Eubanks,John D.,Kent,,Cullen Town,Dark and Dismal Patent,1841,18,41
+1165,Plot,,,Fleming,Nathan,Kent,Mispillion,,,1841,18,42
+1166,Deed,Lofland,Purnel,Harrington & Lofland,Samuel M. & Ann,Kent,Milford,Milford,,1841,18,44
+1167,"Plot, Courses",,,Jester,Joshua,Kent,Mispillion,,,1841,18,45
+1168,Survey,Eubanks,Wm. W.,Manlove,Matthew,Kent,,,Milford Neck,1841,18,46
+1169,Plot,,,Masten,William,Kent & Sussex,Mispillion & Northwest Fork,,,1841,18,47
+1170,Letter of administration,,,"Potter, dec'd",Elizabeth,Sussex,Cedar Creek,,,1841,18,48
+1171,Deed,Lofland,James P.,Shockly,Lemuel B.,Sussex,Cedar Creek,,Cedar Neck,1841,18,49
+1172,Survey,,,Wooten,Henry,,,,,1841,18,50
+1173,Lease,Collins,David,Darby,John M.,Kent,,,Dutton Saw Mill,1842,18,51
+1174,Deed,Davis (Sen.r),Nehemiah,Davis,Robert W.,Sussex,,,Slaughter Neck Marshes,1842,18,52
+1175,Deed,Cirwithen,Caleb,Draper,Alexander,Sussex,Cedar Creek,,Slaughter Neck,1842,18,53
+1176,Deed,Davis,Thomas,Draper,Samuel,Sussex,Cedar Creek,,,1842,18,54
+1178,Release of Dower,Causey,Peter F.,Fleming,Charles T.,Kent,Milford,Milford,property of Reyner Williams dec'd,1842,18,55
+1179,Deed,Potter,Benjamin,Lofland,Purnel,Kent,Milford,Milford,,1842,18,57
+1180,Survey,,,Tharp Esq.,W.,Sussex,Cedar Creek,,Holly Swamp,1842,18,60
+1181,Plot,,,"Williams, dec'd",Aaron,Kent,,,,1842,18,61
+1182,Plot,Mitchell,James R.,"Carlisle, dec'd",Pemberton,Sussex,Cedar Creek,,,1843,18,62
+1183,Lease,Brown,John of John,Jackson,Thomas M.,Kent,Mispillion,,Sordend Farm,1843,18,65
+1184,Lease,Thompson,William,Jackson,Thomas M.,Kent,Milford,,Commean Farm,1843,18,66
+1185,Lease,,,"Jackson, Warren","Thomas M., Mitchell",,,Milford?,,1843,18,67
+1186,Plot,Quillen,John,"Mason, dec'd",Daniel,Kent,Milford,,Winsmore Tract,1843,18,68
+1187,Deed,Ingram,Nathan,Riley,Nehemiah,Sussex,Cedar Creek,,,1843,18,69
+1188,Survey,Hall,John M.,Short,John,Kent,Milford,,Mispillion Neck,1843,18,70
+1189,Plot,,,"William, dec'd",Aaron,Kent,,,Milford Neck,1843,18,72
+1190,Survey,Warren,Mitchell,Causey,Peter F.,Kent,Milford,Milford,,1844,18,74
+1191,Lease,Argoe,John,Griffith,Potter,Kent,Milford,Milford,,1844,18,75
+1192,Lease,Brown,John,Griffith,Potter,Kent,Mispillion,,,1844,18,76
+1193,Deed,Cain,Major,Griffith,Potter,Kent,Mispillion,,,1844,18,77
+1194,Lease,Davenprot,Noah B.,Griffith,Potter,Kent,Milford,,,1844,18,78
+1195,Lease,Davis,Zedekiah,Griffith,Potter,Kent,Milford,,,1844,18,79
+1196,Lease,Eubanks,John D.,Griffith,Potter,Kent,Milford,Milford,,1844,18,80
+1197,Lease,Kenton,William,Griffith,Potter,Kent,Milford,,,1844,18,82
+1198,Lease,Lofland,John W.,Griffith,Potter,Kent,Milford,Milford,,1844,18,83
+1199,Lease,McNatt,"Mariah, Harrielt, Elijah",Griffith,Potter,Kent,Milford,Milford,,1844,18,84
+1200,Lease,Purnel,Isaac,Griffith,Potter,Kent,Milford,,,1844,18,85
+1201,Lease,Thomas,John of Dan.l,Griffith,Potter,Kent,Milford,Milford,,1844,18,86
+1202,Lease,Thompson,William,Griffith,Potter,Kent,Milford,,,1844,18,87
+1203,Lease,Truitt,Lemuel C.,Griffith,Potter,Kent,Milford,,,1844,18,88
+1204,Lease,Vineyard,Curtis,Griffith,Potter,Kent,Milford,Milford,,1844,18,89
+1205,Lease,Wilson,"Janet, James, Elisha",Griffith,Potter,,,,,1844,18,90
+1206,Financial Statement,Curry & Davis,,Heithers,Horatio N.,,,,,1844-1853,18,91
+1207,Deed,Young N.,Daniel,Ingraham,Nathanial,Sussex,Cedar Creek,,,1844,18,92
+1208,Lease,Argo,John,Jackson,Thomas,,,,,1844,18,93
+1209,Deed,Truitt,Lemuel,Jackson,Thomas,Kent,Milford,Milford,,1844,18,94
+1210,Deed,Harrington,John,Morris,John H.,Kent,Milford,,,1844,18,95
+1211,Plot,Duverse,Cornelius,Polk,Charles,Kent,Milford,,,1844,18,96
+1212,Plot,,,Rickards,Lydia,Kent,Milford,Milford,,1844,18,97
+1213,Plot of Road,,,,,Kent,Milford,,Short's Mill to Milford,1844,18,98
+1214,Deed,Deputy,Solomon,Taylor,John,Sussex,Cedar Creek,,,1844,18,99
+1215,Plot,Tatman,James C.,Darby,John M.,Kent,Mispillion,,,1845,19,6
+1216,Estate Paper,,,"Dorman, dec'd",Thomas,,,,,1845-1847,19,7
+1217,Plot,Graham,Nathaniel & Robert,Graham,Isaac,,,,,1845,19,8
+1218,Lease,Nutter,Clement H.,"Griffith, Potter","Potter,Edmund",Kent,Milford,Milford,,1845,19,9
+1219,Survey,Harrington,William & Nimrod,Harrington,Benjamin,Kent,,,,1845,19,10
+1220,Lease,Sipple,Caleb,Layton,Joshua L.,Sussex,,Georgetown,,1845,19,11
+1221,Notice of Sheriffs Sale,,,"Owens, dec'd",Dr. John,Kent,Milford,,,1845,19,13
+1222,Superior Ct.,Adkins adm.,George P.,[Owens],John,Kent,,,,1845,19,14
+1223,Lease,Owens,Joshua,Owens,Mary,Kent,Milford,Milford,,1845,19,15
+1224,Estate Papers,,,Potter,Benjamin,Kent,,,,1845,19,16
+1225,Bond,Stayton,James,Ratcliff,Samuel,Sussex,,,,1845,19,17
+1226,Deed,Layton,Joshua S.,Rench,Matthew,Sussex,Broadkiln,,,1845,19,18
+1227,Deed,Davis,James B.,Starr,Elizabeth,Kent,,,Davis Red House Farm,1845,19,19
+1228,Survey,Revel,William F.,Warren,Mitchell,Sussex,,,,1845,19,21
+1229,Bond,Thomas wid.,Jane,Burley,James T.,Kent,,,,1846,19,23
+1230,Deed,Johnson,Nathaniel H.,Carlisle,James,Sussex,Cedar Creek,,,1846,19,24
+1231,Plot,Shockley,Wilson,Causey,Peter F.,Sussex,Cedar Creek,,,1846,19,26
+1232,Survey,Teas,John,Causey,P.F.,Kent,Milford,Milford,,1846,19,27
+1233,Survey,Sipple,Capt. Thomas,Chamberlain,Lewis,Kent,Milford,Milford,,1846,19,28
+1234,Order,,,Collins,Henderson,,,,,1846,,
+1235,"Plot, Survey",,,Collins,William,Kent,Milford,,,1846,19,30
+1236,Deed,Young,Joseph,Davis,Thomas,Sussex,Cedar Creek,,,1846,19,31
+1237,Tavern License,,,Finsthnart,James,Kent,Milford,Williamsville,,1846,19,32
+1238,"Plot, Deed",Lewis,Rufus,"Jester, Causey",Peter F.,Kent,Milford,Milford,,1846,19,33
+1239,Plot,,,"Jester, dec'd",Elizabeth,Kent,Milford,Milford,,1846,19,34
+1240,Plot,,,Layton,Lowder,Sussex,Cedar Creek,,Isaac Hammond Tract,1846,19,35
+1241,Plot of Road,,,,,Kent,Mispillion,,Milford Neck,1846,19,36
+1242,Release of Ground Rent,Causey,Peter F.,Oliver,Joseph,Kent,Milford,Milford,,1846,19,38
+1243,Deed,Watson,Curtis S.,Potter,Benjamin,Sussex,Cedar Creek,,,1846,19,39
+1244,Plot,Anderson & Graham,,Smith,Manlove,,,,,1846,,
+1245,Field Notes,,,"Tharp & Griffith, Davis","W. & Wm., Henry",Kent & Sussex,,,,1846,19,41
+1246,Plot,,,"Williams, dec'd",Wm. C.,Kent,,,Cullen Town Road,1846,19,45
+1247,Deed,Morrell,James F.,Bennett,John,Sussex,Broadkiln,Milton,,1847,19,46
+1248,Deed,Williams,John,Causey,Peter F.,Kent,Milford,Milford,,1847,19,47
+1249,Courses,Griffith,John,"Clifton, Bowers","---, John",,,,Bowers Venture,1847,,
+1250,Plot,,,Davis,Zadekiah,Kent,,,,1847,19,51
+1251,Lease,[Fosett],John,Fleming,Charles T.,Kent,Milford,Milford,Whellwright shop,1847,19,52
+1252,Lease,Fowler,Noah B.,Fleming,Charles T.,Kent,Milford,,Anderson Farm,1847,19,53
+1253,Lease,Godwin & Co.,,Fleming,Charles,Kent,,,Esther Hooper Wharf & Granery on Misipillion Creek,1847,19,54
+1254,Lease,Johnson (negroe),Levin,Fleming,Charles T.,Kent,,,road from Milford to Brick House Causway,1847,19,55
+1255,Lease,Lekite,Christopher S.,Fleming,Charles T.,Kent,,Cullen Town,,1847,19,56
+1256,Lease,Morgan,William,Fleming,Charles T.,Kent,Milford,,,1847,19,57
+1257,Lease,Palmer,Leven,Fleming,Charles T.,Kent,Milford,Milford,Pergatory,1847,19,58
+1258,Lease,Potter (negroe),Cezar,Fleming,Charles T.,Kent,,,Hazlett land,1847,19,59
+1259,Lease,Purnel (Negroe),Isaac,Fleming,Charles T.,Kent,Mispillion,,,1847,19,60
+1260,Lease,Scott,Robert,Fleming,Charles T.,Kent,Milford,,New Wharf Farm,1847,19,61
+1261,Lease,Sharp,Peter,Fleming.,Charles T.,Kent,Milford,Milford,,1847,,
+1262,Lease,Sipple,James D.,Fleming,Charles T.,Kent,Milford,,Carmean Farm,1847,19,63
+1263,Lease,Smith,John,Fleming,Charles T.,Kent,Mispillion,,,1847,19,64
+1264,Lease,Wilson,Charles,Fleming,Charles T.,Kent,Milford,Milford,,1847,19,65
+1265,Courses,,,"Griffith, dec'd",William,Sussex,,,"Shaver Place, Poynter or Rachel Debety Place",1847,19,67
+1266,Courses,,,Griffith,William,Sussex,,,Clifton's Folley,1847,19,68
+1267,Plot,,,"Griffith, dec'd",William,Kent,,,Darby's Corner,1847,19,69
+1268,"Plot, Courses",,,"Griffith, dec'd",William,Kent & Sussex,,,,1847,,
+1269,Plot,,,"Griffith, heirs",W.,Kent,Milford,Milford,,1847,,
+1270,Plot,,,Griffith & Stayton,William & Amos,Kent & Sussex,,,,1847,19,72
+1271,Survey,,,"Griffith, dec'd",William,Kent & Sussex,,,,1847,19,73
+1272,Deed,,,Layton,Caleb S.,Kent,Mispillion,,,1847,19,74
+1273,Deed,Deputy widow,Elizabeth,McColley,Truston P.,Sussex,Cedar Creek,,,1847,19,76
+1274,Plot,Hammon,Eli F.,Mason,Daniel,Kent,Milford,,,1847,19,77
+1275,Plot,,,"Montgomery, Nathan","Eleanor, Spencer",Kent,,,My Delight,1847,19,78
+1276,"Plot, Survey",,,"Potter, dec'd",Benjamin,Kent,Milford,Milford,,1847,19,80
+1277,Survey,Bowers,,Potter,Benjamin,Kent,Milford,Milford,lots,1847,19,81
+1278,Courses,Meloney,Elisha,Raughley,Shadrack,Kent,,,"Hog harbor, Bruffits lot, Newbourne, Rawleys Paradise",1847,19,82
+1279,Plot,,,"Ross, Rust","W., Clement",Kent,,,"Ross Mill Seat, Fair Play, Ross' Choice",1847,19,83
+1280,Plot,,,Rust,Peter,Kent,,,,1847,19,84
+1281,"Plot, Courses",Watson,C.S.,Sharp,Job,Sussex,,,Strip,1847,19,85
+1282,"Plot, Courses",,,Shaver & Layton,,,,,,1847,19,86
+1283,Plot,McColley & Adkins negroe,Truston P. & Priscilla,"Shiveliar, negroe",Dublin,Kent,Milford,Milford,,1847,19,
+1284,Courses,,,"Spence, dec'd",John,Sussex,,St. Johns Town,,1847,19,90
+1285,Plot,,,"Spence, dec'd",Nathan,Sussex,,,,1847,,
+1286,Field Book,Griffith,Joshua,Stayton,J. Wesley,,,,,1847,19,93
+1287,Plot,Coulter,Wm. V.,Watson,C.S. & B.,Sussex,Cedar Creek,,,1847,,
+1288,Administrative Account,,,"Booth, Darby",,,,,,1848,20,1
+1289,Plot,,,Causey,Peter F.,Kent,,,,1848,20,2
+1290,Deed,Causey,Peter R.,Cropper,Jabez M.,Kent,Milford,Milford,,1848,20,4
+1291,Plot,,,"Cropper, heirs",Molton,Kent,,,,1848,20,5
+1292,Plot,,,"Darby, dec'd",John M.,Kent,,Williamsville,,1848,20,6
+1293,Plot,,,Dorman,Tho.s,,,,,1848,20,7
+1294,Lease,Calhoun,John C.,Fleming,Charles T.,Kent,Milford,,,1848,20,10
+1295,Lease,Hollis,John,Fleming,Charles T.,Kent,,Cullen Town,,1848,20,11
+1296,Lease,Lindeman & Twig,Joseph L. & John,Fleming,Charles T.,Kent,Milford,Milford,,1848,20,12
+1297,Lease,Marvel,Lemuel H.,Fleming,Charles T.,Kent,Milford,Milford,,1848,20,13
+1298,Lease,Reesse,David,Fleming,Charles T.,,,"Milford, near",,1848,20,14
+1299,Lease,Stephens,Ceaser R.,Fleming,Charles T.,Kent,Milford,Milford,Purgatory,1848,20,15
+1300,Lease,Thomas & Jones,Daniel & David H.,Fleming,Charles T.,Kent,Milford,Milford,,1848,20,16
+1301,Plot,,,"Hall, dec'd",Purnel,Kent,Milford,Milford,,1848,20,17
+1302,Plot,,,Johnson,John,Kent & Sussex,,,,1848,20,18
+1303,Plot,McColley & Johnson n,Joseph O. & David,"Lofland, Dr.",James P.,Kent,Milford,,,1848,20,19
+1304,Plot,Meloney,Elisha,Rawley,Shadrach,Kent,,,,1848,20,22
+1305,Plot,,,Spencer,John,Sussex,,St. John's Town,,1848,20,23
+1306,Deed,Currey & Davis,Daniel & Nehemiah,Taylor sheriff,Alexander J.,Kent,Milford,,,1848,20,24
+1307,Plot,,,Tharp,William,Kent,Mispillion,,John Whaley Land,1848,20,25
+1308,Survey,Turner N,James,"Thompson, Capt.",William,Kent,,,Clark Land,1848,20,26
+1309,Deed,Mason,Daniel,Walker,Jonas D.,Kent,Milford,Milford,,1848,20,28
+1310,Plot,Linderman,Joseph L.,Causey,Peter F.,Kent,Milford,Milford,,1849,20,29
+1311,Lease,Brown,John,Fleming,Charles T.,Kent,Mispillion,,,1849,20,30
+1312,Lease,McCaulley,Andrew,Fleming,Charles T.,Kent,Milford,Milford,Wharf & Grannery,1849,20,31
+1313,Lease,Murphey,Caleb,Fleming,Charles T.,Kent,,"Milford, near",,1849,20,32
+1314,Lease,Stewart,John,Fleming,Charles T.,Kent,Milford,Milford,,1849,20,33
+1315,Lease,Still,David,Fleming,Charles T.,Kent,Milford,Milford,Purgatory,1849,20,34
+1316,Lease,Walls,David,Fleming,Charles T.,Kent,Milford,,Anderson Farm,1849,20,35
+1317,Lease,Walton,David,Fleming,Charles T.,Kent,Milford,Milford,,1849,20,36
+1318,Plot,,,Hall,William,Kent,Milford,,Neck,1849,20,37
+1319,"Judgement, Superior Ct.",Hickman,John,"Hopkins, Sr.",John,Kent,,,,1849,20,38
+1320,"Plot, Survey",,,"Jester, Black","Joseph, George",Kent,Milford,,Mispillion Neck,1849,20,39
+1321,Letter,"Fleming, Currey, Porter","C.T., Daniel, Wm.",Layton,[Charles],,Milford,,,1849,20,41
+1322,Contract,Davis & Curry,Nehemiah & Daniel,Pettyjohn,Levin,,,,,1849,20,43
+1323,Plot,Quillen,Mary W.,Quillen,William,Kent,,,widow dower,1849,20,44
+1324,Plot,,,Starr,Araminta,Kent,Milford,Milford,,1849,20,45
+1325,Statement of Payment,,,Stayton,David & James P.,,,,,1849,20,46
+1326,Plot,,,,,,,Milford,,1850,20,48
+1327,Plot,,,"Anthony, dec'd",Benjamin,Kent,,,New Bern,1850,20,50
+1328,Plot,Adkins,George & John W.,Causey,P.F.,Kent,Milford,Milford,,1850,20,51
+1329,Deed,"Owens, et al",William Henry,"Collins, Sen.",Henderson,Kent,,,,1850,20,53
+1330,Plot,,,"Cropper, dec'd",Molton,Kent,,,,1850,20,54
+1331,Plot,,,Davis & Potter,T.J. & Benjamin,Sussex,Cedar Creek,,,1850,20,55
+1332,Plot,Presbyterian Church Trustees,,Draper & Masten,Rachel B. & William,,,,So. Milford,1850,20,57
+1333,Lease,Lindeman & Grier,Joseph L. & George S.,Fleming,Charles T.,Kent,Milford,Milford,,1850,,
+1334,Lease,Sharp,Peter,Fleming,Charles T.,Kent,Mispillion,,,1850,20,59
+1335,Survey,Fiddeman,H.B.,Fleming,P.,Kent,Milford,Milford,,1850,20,61
+1336,Statement of Land Dispute,Arnold & Hoffman,Jacob & Adam,Fulweiler,Mary Mifflin,,,,,1850,20,62
+1337,Plot,Bennett,Joseph S.,"Green, Dr., heirs",Mark,Kent,Murderkill,Berry Town,,1850,20,63
+1338,Deed,Scott,Eliza A.,Hall,Henry J.,Kent,Milford,Milford,lots & Henry Smith Farm,1850,20,64
+1339,Correspondence,Curry & Davis,Daniel & Nehemiah,Hazzard,John,Sussex,,Milton,,1850,20,65
+1340,Plot,,,"Hil, dec'd",Levin,Kent,,,,1850,20,66
+1341,Plot,,,Houston,Clement,Sussex,Cedar Creek,,Joseph Walton's Alottment,1850,20,68
+1342,Plot,,,James & Mitchell,Isaiah,Kent,Milford,Milford,,1850,20,69
+1343,Plot,,,Jester,Eli,Kent,,,Milford Neck,1850,20,70
+1344,Plot,,,"McColley, Carlisle & Revel","T.P., ---",Sussex,,,,1850,20,71
+1345,Plot,,,"McKnitt, dec'd",John,Kent,,,,1850,20,72
+1346,Deed,Davis,Henry,Marvel,Adam,,Milford,,,1850,20,73
+1347,Plot,,,"Mitchell,Dr.",James R.,,Milford,,"Wm. Saxton Mill Pond, Bridgetown",1850,20,74
+1348,Statement,,,Pettyjohn,Levin,,,,Curry & Davis,1850,20,75
+1349,Contract,Curry & Davis,Daniel & Nehemiah,Pettyjohn,Levin,,,,Sloop Mary,1850,20,76
+1350,Article of Agreement,Gray,Joseph,Pettyjohn,Levin,Sussex,Broadkiln,,,1850,20,77
+1351,Field Book,,,Potter,Benjamin,Kent,,,,1850,20,79
+1352,Plot,,,Potter,Benjamin,Kent,,Cullen Town,,1850,20,80
+1353,Plot,,,Potter,Benjamin,Kent,,,Hazlett land,1850,20,81
+1354,Plot,,,Potter,Benjamin,Kent,Milford,Milford,"Purgatory, wharves & granaries, millpond strip, Spencer, Turner lots",1850,20,82
+1355,Plot,,,Potter,Benjamin,Kent,,,Dalliner land,1850,20,83
+1356,Plot,,,Potter,Benjamin,Kent,,,"New Wharf, Winsmore farm",1850,20,84
+1357,Plot,,,Potter,Benjamin,Kent,,,"Reason Place, Springfield",1850,20,85
+1358,Plot,,,Potter,Benjamin,Kent,,,Sorden land,1850,20,86
+1359,Plot,,,Potter,Benjamin,Kent,,,Carmean farm,1850,20,87
+1360,Plot,,,Potter,Benjamin,Kent,,,John Hall's Island,1850,20,88
+1361,Plot,,,Potter,Benjamin,Kent,,,next Milford Mil,1850,20,89
+1362,Plot,,,Potter,Benjamin,Kent,,,Isaiah James & Mitchell lots,1850,20,90
+1363,Plot,,,Russell,Robert,,,,Broadkiln Neck,1850,20,91
+1364,Deed,Davis,James B.,Starr,Elizabeth,Kent,Milford,,,1850,20,92
+1365,Plot,,,"Williams, dec'd",R.,Kent,Milford,,"Brick house farm, Milford Neck",1850,20,93
+1366,Plot,,,"Brinkloe, Stratton","John, Thomas",Kent,,,"Longfield, Fairfield, Springfield",1851,21,2
+1367,Deed,Burdick,Royal S.,Causey,Peter F.,Sussex,Cedar Creek,,,1851,21,4
+1368,Survey,,,Clark,Robert H.,,,,Thorn Point Hotel & Marsh on the Bay,1851,21,6
+1369,Plot,Rust,Clement,"Collins, dec'd",Thomas,Kent,,,Fairfield,1851,21,7
+1370,Plot,"Currey & Davis, Palmer","---, Solomon",Deputy,Zacheriah,Sussex,Cedar Creek,,,1851,21,9
+1371,Plot,,,Draper,Samuel & Radcliff,Sussex,Cedar Creek,,Neck,1851,21,10
+1372,Deed,Davis,James B.,Eubanks,John D.,Kent,Milford,,,1851,21,12
+1373,Plot,,,Fleming,Charles T.,,,Milford,,1851,21,14
+1374,Lease,Henderson,Benjamin,Fleming,Charles T.,,,,Hazlett Land,1851,21,15
+1375,Lease,Hudson,Asa,Fleming,Charles T.,,,,"Spencer lot, near Milford",1851,21,16
+1376,Lease,Jackson,Thomas M.,Fleming,Charles T.,Kent,,Milford,,1851,21,17
+1377,Lease,Smith,Risdon B.,Fleming,Charles T.,Kent,Mispillion,,,1851,21,18
+1378,Lease,Walton,William & David E.,Fleming,Charles T.,Kent,Milford,Milford,Isaiah James Property,1851,21,19
+1379,"Plot, Survey",Causey,Peter F.,Griffith,William,Kent,,,Haven Mills,1851,21,21
+1380,Plot,,,Hammon,Rhodes S.,Kent,Milford,Milford,,1851,21,22
+1381,Plot,Watson,Jacob,"Holeger, negro",Moses,Sussex,Cedar Creek,,,1851,21,23
+1382,Probate,,,"Owens, dec'd",Mary,Kent,,,,1851-1853,21,25
+1383,Supreme Court,Collins,Henderson,Owens,William H.,Kent,,,,1851,21,26
+1384,Plot,Paisley,Henry,Paisley,Samuel,Kent,Milford,,,1851,21,27
+1385,Survey,Owens,Elizabeth,"Potter, dec'd",Benjamin,Kent,Milford,Milford,,1851,21,28
+1386,Survey,,,Russel,Robert,Sussex,,,Prime Hook Neck,1851,21,31
+1387,Plot,Johnson,Rhoda Ann,Stayton,John W.,Sussex,Cedar Creek,,near Tea Town,1851,21,32
+1388,"Plot, Survey",,,Steward dec'd,Isaac D.,Kent,Milford,,John Davis Land,1851,21,33
+1389,Plot,"Truitt, Bowers","Joseph S., John","Potter, Gibson","Benjamin, James",Kent,Milford,Milford,,1851,21,29
+1390,Note,Warren,William,Abbot,John,Kent,Milford,Milford,,1852,21,35
+1391,"Plot, Survey",Fowler,William,Adkins & Thompson,G.S.& John W.,Kent,Milford,,Milford Neck,1852,21,37
+1392,Plot,Raughley,Shadrack,Causey,Peter F.,Kent,Milford,,,1852,21,38
+1393,Deed,Morris,Charles W.,"Clark, et al",Henry N.,,,,Brown Branch,1852,21,40
+1394,Plot,"Downs, Harrington","Henritta, S.M.","Clark, Parvis","Mary Ann, John T.",,,,,1852,21,41
+1395,Letter,Layton,Judge,Collins,Henderson,Kent,Dover,Dover,,1852,21,42
+1396,Survey,Fowler,Susan & Sarah,Curry,Daniel,,Milford,Milford,,1852,21,44
+1397,"Plot, Survey",,,"Davis, Jr.",Nehemiah,Sussex,Cedar Creek,,,1852,21,45
+1398,Deed,Curry,Daniel,"Davis, Jr.",Nehemiah,,"Milford, Cedar Creek","Milford, Georgetown",,1852,21,46
+1399,Plot,,,Deputy,Soloman,Sussex,,,,1852,21,47
+1400,Plot,,,Ennis,Benjamin B.,Kent,Milford,,Mispillion Neck,1852,21,48
+1401,Conveyance,Carpenter,Isaac,Eubanks,John D.,Sussex,,,,1852,21,49
+1402,Plot,,,"Fitsjarrell, dec'd",George,Kent,Milford,,,1852,21,50
+1403,Lease,Lofland,Isaac W.,Fleming,Charles T.,Kent,Milford,Milford,Purgatory,1852,21,51
+1404,Lease,Quail,James,Fleming,Charles T.,Kent,Mispillion,,,1852,21,52
+1405,Lease,Wyatt,James J.,Fleming,Chrales T.,Kent,Milford,,Anderson Farm,1852,21,54
+1406,Survey,,,Fowler,Warren,Kent,Milford,,,1852,21,55
+1407,Plot,,,Harrington,Samuel M.,Kent,Mispillion,,Clarks Old Saw Mill Farm,1852,21,56
+1408,Plot,,,Hudson & Walls,Henry & William,Sussex,Cedar Creek,Milford,wharfs,1852,21,57
+1409,Will,,,"King, dec'd",Robert,Kent,,,,1852,21,58
+1410,Field Book,,,"Lofland, Dr., dec'd",James P.,Kent & Sussex,,,,1852,21,59
+1411,Field Notes,,,"Lofland, Dr. dec'd",James P.,Kent,,,Little Creek Farm,1852,21,60
+1412,Field Book,,,"Lofland, Dr., dec'd",James P.,Sussex,Cedar Creek,,Neck,1852,21,61
+1413,Plot,,,"Lofland, Dr., dec'd",James P.,Kent & Sussex,,,,1852,21,62
+1414,Deed,Draper,Lemuel,Manlove,Moses,Sussex,Cedar Creek,,,1852,21,63
+1415,Plot,,,"Mason, dec'd",Daniel,Kent,Milford,,,1852,21,64
+1416,"Plot, Survey",,,M.E. Church,,Kent,Milford,Milford,"4th,North & 3rd Sts.",1852-1880,21,65
+1417,Plot,,,Pointer,Nathaniel,,,,,1852,21,66
+1418,Contract,Curry,Danile,Stayton,David B.,,,,,1852,21,67
+1419,Mortgage,"Cowgill, Wilson, Woodall","Ezekiel, Ed. W., John",Stevenson,John A.,Kent,Dover,Dover,Quaker Meeting Lot,1852,21,68
+1420,Plot,Soay,Samuel,"Thompson, Fleming","Capt. Wm., Charles T.",Kent,,,Brick House Farm,1852,21,69
+1421,Plot,Cannon,Lewis,"Torbert, Gen.",A.T.A.,Kent,,,,1852,21,70
+1422,Probate,,,"Walton, dec'd",David,Kent,,,,1852,21,71
+1423,Plot,,,Walton?,,,,,,1852,21,72
+1424,Survey,"Holland, Davis","D.H., Thomas","Camp[      ], Davis",John,Kent,Milford,Milford,,"1853, 1864",21,75
+1425,Survey,,,Causey dec'd,Peter F.,Sussex,,,,1853,21,77
+1426,Deed,Carpenter,Isaac,Causey,Peter F.,Kent,Milford,Milford,,1853,21,78
+1427,Deed,Davis,James B.,Carpenter,Isaac,Kent,Milford,Milford,,1853,21,79
+1428,Deed,Davis,James B.,Carpenter,Isaac,Sussex,,,,1853,21,80
+1429,"Plot, Survey",Walker,James,Clark,Jehu,Kent,Mispillion,,George's Purchase,1853,21,83
+1430,Deed,Argoe,James W.,Curry,Daniel,Sussex,Cedar Creek,,near Shawney Town,1853,21,84
+1431,Survey,Eubank,John D.,Fleming,Charles T.,Kent,,,near Cullin Town,1853,21,86
+1432,Lease,Hoskins,Thomas,Fleming,Charles T.,Kent,Milford,Milford,Purgatory,1853,21,87
+1433,Lease,Ridgeway,Jacob,Fleming,Charles T.,Kent,Milford,Milford,,1853,21,88
+1434,Plot,,,Hickman,Nathaniel,Kent,Mispillion,,,1853,21,89
+1435,Plot,,,Hollowell & Lease,George & John,Sussex,Cedar Creek,,Isaac Carpenter Land,1853,21,90
+1436,Plot,,,Houston,Liston A.,Kent,Milford,,,1853,21,91
+1437,Letter,Collins,Henderson,Owenz,Wm. H.,Kent,Milford,,,1853,21,94
+1438,Plot,,,Potter,Benjamin,Kent,,Cullen Town,,1853,21,95
+1439,Plot,,,"Shock, Rev. & Vinyard", Charles & Curtis,Kent,Milford,,,1853,21,96
+1440,Plot,Burdick,Royal S.,Adkins neg.dec'd,"Boaz, Wm.",Kent,Milford,Milford,,1854,22,1
+1441,Lease,Dempster,Alexander,Causey,Peter F.,Kent,Milford,,,1854,22,2
+1442,Reciept,,,Fleming,Charles T.,Kent,,,,1854,22,3
+1443,Lease,Bell,Aaron W.,Fleming,Charles T.,Kent,,,,1854,22,4
+1444,"Warrant, Supreme Ct.",Eubanks,John D.,Fleming,Charles T.,Kent,,,,1854,22,5
+1445,Deed,Mitchell,James R.,Fleming,Charles T.,Kent,Milford,Milford,,1864,22,6
+1446,Field Notes,,,Harrington,S.M.,,,,,1854,22,7
+1447,Deed,Davis,John S.,Ingram,Nathaniel,Sussex,Cedar Creek,,,1854,22,8
+1448,Letter,Collins Sr.,Andrew,Layton,[C        ],Kent,Dover,Dover,,1854,22,9
+1449,Plot,Shockley n & Stuart Dr.,Jacob & William,Paisley,William,Kent,Milford,,,1854,22,10
+1450,Plot,Bowers,John,Potter,Benjamin,Kent,Milford,Milford,,1854,22,11
+1451,"Plot, Survey",,,"Primrose, Capt.",George,Kent,Milford,Milford,,1854,22,12
+1452,Field Notes,Shakespeare,William M.,Tharp,William,Kent,Mispillion,,Steam saw mill & graveyard of George Fleming,1854,22,13
+1453,Survey,,,Watson,C.S. & B.,Sussex,Cedar Creek,Milford,,1854,22,14
+1454,Survey,Clendaniel,Jehu,"Watson, Lofland & Parsley","C.S., James & Fleetwood & S.",,,Milford,,1854,22,15
+1455,Plot,Donovan,Thomas,"Davis, Capt.",Isaac,Sussex,Cedar Creek,,,1854,22,22
+1456,Lease,Webb,Mitchel A.,Fleming,Charles T.,Kent,Milford,,Anderson Farm,1855,22,23
+1457,Plot,Mitchell Dr.,James R.,Hatfield,Wm.,Sussex,Cedar Creek,,,1855,22,24
+1458,Bond,Collins,David W.,Heavelow,Solomon,,,,,1855-1866,22,25
+1459,Letter,Fleming,C.T.,Johnson,W.,,,Cedar Town,Timber Neck,1855,22,26
+1460,"Plot, Survey",,,"Mitchell, Doct.",J.R.,Sussex,Cedar Creek,,"Pleasant Grove, Hatfield farm",1855,22,27
+1461,Plot,,,Primrose,Thomas,Kent,Milford,,Mispillion Neck,1855,22,28
+1462,Bond,,,Williams & Collins,John & James B.,,,,,1855,22,29
+1463,Deed,Currey,Daniel,Causey,Peter F.,Kent,Milford,Milford,New Church Lot,1865,22,30
+1464,Deed,Davis,Nehemiah,Causey,Peter F.,Kent,Milford,Milford,,1856,22,31
+1465,Lease,Eccleston & Stapleford,John H. & Wm.,Fleiming,Charles T.,Kent,Milford,Cullen Town,Mill Pond Strip,1856,22,34
+1466,Lease,Merideth,Peter S.,Fleming,Charles T.,Kent,Mispillion,,,1856,22,35
+1467,Deed,Greer,Mary G.,Godwin,Daniel C.,Kent,Milford,Milford,,1856,22,36
+1468,Letter,Johnson,Nathiel H.,,,,,,,1856,22,37
+1469,Plot of Road,,,,,Kent,Mispillion,,,1857,22,39
+1470,Plot,,,Clark,Zador,Kent,,,,1857,22,40
+1471,Survey,,,Fleming?,Charles T.,,,,Burley Farm,1857,22,41
+1472,Plot,Layton & Griffith,Lowder & Lofland,Jester,James M.,Sussex,Cedar Creek,,,1857,22,42
+1473,Plot,Sapp,William,Layton,C.S.,Kent,Milford,,,1857,22,43
+1474,Plot,,,"Layton dec'd, Harrington","Lowder, Jonathan",Kent,Milford,,,1857,22,44
+1475,Plot,,,Lofland,Isaac,Kent,Milford,Milford,,1857,22,45
+1476,Deed,Steele,James,Lore,Eldad,Kent,Milford,,Mispillion Neck,1857,22,46
+1477,Bond of Indementy,Currey,Daniel,Sturart M.D. & Sorden,William W. & John,Kent,Milford,,,1857,22,47
+1479,"Plot, Survey",Mills,Ricards,Culbreth,William,Kent,Milford,,Mispillion Neck,1858,22,52
+1480,Lease,Hollis,John,Curry,Daniel,Kent,Milford,,,1858,22,54
+1481,Deed,Davis,George S.,Davis,Thomas J.,Sussex,Cedar Creek,,,1858,22,55
+1482,Sheriff's Sale Notice,,,Deputy,Elizabeth,Sussex,Cedar Creek,,,1858,22,56
+1483,Survey,Harrington,James,Finthwait,James,Kent,Mispillion,,,1858,22,57
+1484,Survey,,,Finthswait,Jonathan,,,,,1858,22,58
+1485,Estate Papers,,,Hall dec'd,Winlock,,,,,1858,22,60
+1486,Survey,,,Hall,A.N.,Kent,Milford,,Banning Land,1858,22,61
+1487,Survey,,,Harrington,S.M.,,,,"Clark purchase, School House Branch",1858,22,63
+1488,Field Notes,,,Harrington,S.M.,,,,,1858,22,64
+1489,Account,Hall,H.J.& R.[L],Henry & White,,,,,for J & B Railroad,1858,22,67
+1490,"Plot, Deed",Macklin,Obediah,"Jester dec'd, McColley","Thomas, James H.",Kent,Milford,,Mispillion Neck,1858,22,68
+1491,Survey,,,Lofland,Purnel,Kent,Milford,Milford,Davis House Lot,1858,22,70
+1492,Plot,Hall,R.J &R.C.,McColly,A.J.,Sussex,,,"Cedar Creek Branch, Vist Farm",1858,22,71
+1493,Plot,,,McColly,Joseph O.,Kent,Milford,,Doughlass Mill,1858,22,72
+1494,Courses,,,Richard,James,Sussex,Nanticoke,,,1858,22,74
+1495,Deed,Curry,Daniel,Stockley shff,Charles C.,Sussex,Cedar Creek,,,1858,22,75
+1496,Survey,Abbott,William W.,Truitt,Joseph S.,Kent,Milford,,,1858,22,77
+1497,Plot,,,Watson dec'd,Beniah,Sussex,,,Saw Mill Farm,1858,22,80
+1498,Bond,Jefferson,Sarah R.,Williams,John,Kent,,,,1858,22,81
+1499,Assessment of School Districts,,,,,Sussex,,,School District #5 and #116,1859,22,82
+1500,Deed,Davis,P.T.,Cirwirthine,J.,Sussex,,,,1859,22,83
+1501,Plot,,,Collins,John W.,Kent,,,,1859,22,84
+1502,"Promisory Note, Payment Vouchers",,,Currey,Daniel,,,,,1859,22,85
+1503,Plot,,,Dill,Abner,Kent,,,,1859,22,86
+1504,Survey,Dorman,Thomas H.,Harrington,David,Kent,Mispillion,,Browns Neck,1859,22,87
+1505,Deed,Currey,Daniel,Hellins,Jacob,Sussex,Cedar Creek,,,1859,22,89
+1506,Courses,,,Mitchell,Ja.s R.,Sussex?,,,J & B Railroad north side,1859,22,90
+1507,Plot,,,"Mitchell, Currey","James R., Daniel",Kent,,,"Ludenham Land, Collins Farm",1859,22,91
+1508,Condemned Land,Henderson,Benjamin,Michell,James R.,Kent,,,Joseph Mason's Mill or Tub Mill,1859,22,92
+1509,Plot,Walton,George,Purnel,Thomas M.,Sussex,,,Big Pond land,1859,22,93
+1510,Plot,,,Watson (dec'd) heirs,Bethuel,Sussex,Cedar Creek,Milford,So. Milford,1859,22,95
+1511,Probate,,,Williams,John,Kent,,,,1859,22,98
+1512,Deed,Campbell,Charles,Causey,Peter F.,Kent,Milford,Milford,,1860,23,1
+1513,Survey,Collins Jr.,Henderson,Causey,Peter F.,Kent,Milford,Milford,Milford Hotel Lot,1860,23,2
+1514,Plot,,,Cowen,John & David,Sussex,Cedar Creek,,,1860,23,3
+1515,letter,Fleming,Mr.,Dorman,T.H.,Kent,,Harrington,,1860,23,6
+1516,Plot,Thistwood,David B.,Fleming,Benjamin T.,Kent,,Clark Corner or Harrington Station,,1860,23,7
+1517,Power of Attorney,Collins,Henderson,Hall,Draper,Kent,Milford,,,1860,23,9
+1518,Will Extract,,,Hall,Winlock,Kent,,,,1860,23,10
+1519,Deed,,,Hammer & Taylor,John & Robert F.,Sussex,Cedar Creek,,,1860,23,11
+1520,Plot,,,Junction & Breakwater Railroad,,,,,,1860,23,12
+1521,Bond,Currey,Daniel,Prettyman,Joshua,Sussex,Cedar Creek,,,1860,23,13
+1522,Plot,,,"Stayton, Collins, Stayton, Buell","Thomas C., John A., John W., Roland",Kent & Sussex,,Staytonville,,1860,23,14
+1523,Letter,Johnson,Nathaniel H.,Johnson,[Brrlman],[P.Z.],,,Rocky Hill,1861,23,15
+1524,Lease,Laws,Joshua,Curry,Daniel,,,,Burdick Farm,1861,23,16
+1525,Plot,,,Jester dec'd,Major W.,Sussex,Cedar Creek,,,1861,23,17
+1526,Sale Receipts,,,Morgan Jr.,Uriah T.,,,,,1861-1863,23,18
+1527,"Plot, Survey",Harvey,Alexander R.,Truitt,Joseph S.,Kent,Milford,Milford,,1861,23,19
+1528,Lease,Hall,Henry J. & Robert,Currey,Daniel,,,,,1862,23,20
+1529,Lease,Hinsly,Bernhand,Currey,Daniel,,,,Walnut St.,1862,23,21
+1530,"Plot, Survey",,,Currey & Merriken,Daniel & Richard N.,Kent,Mispillion,Marshyhope,Gum Island,1862,23,22
+1531,Lease,Morgan Jr.,Uriah,Currey,Daniel,,,,Elizabeth Depty Farm,1862,23,23
+1532,Deed,Davis,Thomas J.,Davis,Robert H.,Sussex,Cedar Creek,,,1862,23,24
+1533,Deed,Davis Sen.,Robert H.,Davis,Thomas J.,Sussex,Cedar Creek,,,1862,23,25
+1534,Agreement,Stayton,William H.,Johnson,Pamelia A.,Sussex,Cedar Creek,,,1862,23,26
+1535,Deed,Curry,Daniel,Lewis,Jacob F.,Kent,Milford,Greensville,,1862,23,27
+1536,Letter,Curry,Mr.,Marly,John,New Castle,,,,1862,23,28
+1537,"Agreement, Survey",Shoemaker,Spencer,Stayton,Wm. H.,Sussex?,,,near Bowman's Branch,1862,23,29
+1538,Indenture,Currey,Mahala Jane & Wm.,Currey,Dan.l,,,,,1863,23,30
+1539,Letter,,,Carrey,A.,Sussex,,Greenwood,,1863,23,31
+1540,Plot,Frame,Robert,Currey,Daniel,Kent,Milford,Milford,tannery,1863,23,32
+1541,Payment Account,,,Laws,Joshua,,,,,1863-1865,23,33
+1542,Letter,Biggs,Mr.,Marly,John,New Castle,,,,1863,23,34
+1543,Letter,Curry,Mr.,Marly,John,,,Hairs Corner,,1863,23,35
+1544,Deed,Henson,John S.,Ratcliff,Nutter,Sussex,Nanticoke,,,1863,23,36
+1545,Receipt,Laws,Joshua,Currey dec'd,Daniel,,,,,1864,23,38
+1546,Deed,Currey,Daniel,Pennewill shef.,John C.,Kent,Milford,Milford,,1864,23,40
+1547,Account,"Currey, Hon.",Dan.l,Reed,James H.,,,,,1864,23,41
+1548,Survey,Coate,William M.,Richards,S.C.,Sussex,,,,1864,23,42
+1549,Letter,Fleming,Charles T., Tharpe,Wm.,Kent,Dover,Dover,,1864,23,43
+1550,Letter,Fleming,C.T.,Clements,[Jn. J.],Kent,Murderkill,Camden,,18[65],23,47
+1551,Plot,Stewart,Franklin R. & David R.,Jones & Luce,,Sussex,Cedar Creek,,,1865,23,48
+1552,Account,,,Luce,Lewellyn A.,,,Milford,,1865,23,49
+1553,Survey,McNair,John,Postles,"James, Margaret",,,,,1865,23,50
+1554,Deed,Curry,Mary E.,Sharp,"Benaiah, Mary",Sussex,Cedar Creek,,,1865,23,51
+1555,Deed,Davis Ng.,Henry,Young Sn.,Joseph,Sussex,,,,1865,23,52
+1556,Plot,,,Boardman,George N.,Kent,Milford & Mispillion,,,1866,23,54
+1557,Plot,Weingartner,Jacob,Davis,Nehemiah,Kent,Milford,,,1866,23,56
+1558,Plot,,,"Harrington, Dorman, Fleming, Clifton",,Kent,,,Harrington Station,1866,23,58
+1559,Plot,"Yardley, VanVorst","---, C.","Henderson, Anderson","Benj.n, J.F.",Kent?,,,,1866,23,60
+1560,"Annual Report to Chancery, Court Order",,,Fleming,Charles T.,,,,Potter Estate,1866,23,61
+1561,Plot,,,Risler,George W.,Sussex,,,,1866,23,63
+1562,Plot,Dickenshied & Steinman,John B. & Henry C.,Stayton,Thomas C.,Sussex,Cedar Creek,Staytonville,Holly Swamp,1866,23,64
+1563,Courses,,,Torbert & Mitchell,,,,,,1866,23,65
+1565,Plot,,,Griffith dec'd,Daniel B.,Kent,Milford,Milford,,1867,23,69
+1566,Plot,,,"Harris, Gen.",Levi,Kent,Milford,,,1867,23,70
+1567,Assignment of Mortgage,Mott,Smith,Hoxie,Abisha S.,Kent,,,,1867,23,71
+1568,Plot,Gregg Gen.,David McM.,Jackson,Franklin,Kent,Milford,,,1867,23,72
+1569,Plot,,,Townsend,Charles,Kent,,,,1867,23,73
+1570,Plot,,,Yardley,Joseph,Kent,Milford,,,1867,23,74
+1571,"Plot, Survey",,,Harris,Levi,Kent,,,,"1868,1890",23,77
+1572,Plot,,,Davis,Hetty & Jas.B,Kent,Milford,Milford,,1869,23,80
+1573,Survey,,,Owen,Aaron,Kent,Milford,,,1869,23,82
+1574,Plot,Gilmore,Robert H.,Preston,Wm.,Sussex,Cedar Creek,Shawney Cross Roads,,1869,23,83
+1575,Plot,,,Paisley,Samuel,Kent,,,on road from Milford to New Wharf,1870,23,84
+1576,Plot,Richards,Jas.,Penniwell,Sinieon,Sussex,,,,1870,23,85
+1577,Plot,,,Young & Shockley,Nathan & Robinson,Sussex,,,Slaughter Branch,1870,23,86
+1578,Deed,Betts,Isaac,Betts,Edward D.,Sussex,Cedar Creek,,Selby Sharp Farm,1871,23,88
+1579,Plot,,,Calhoun dec'd,Peter,Sussex,Cedar Creek,,,1871,23,89
+1580,Deed,Vaulse,Wm. T.,Causey,Wm F.,Sussex,,Milford,,1871,23,90
+1581,Plot,,,Davis,Jas. B.,,,,,1871,23,91
+1582,Plot,VanVorst,Cornelius,Lyndon,Caleb,Kent,Milford,,Bell Farm,1871,23,93
+1583,Survey,,,Morton,A.F.,Kent,Milford,,,1871,23,94
+1584,Deed,Mills Jr.,David,Shockley,Elias & Sarah,Sussex,Cedar Creek,,"Cedar Neck, The Black Farm",1871,23,95
+1585,Articles of Agreement,Barker,Robert,Wales,Blake,Kent,Milford,,,1871,23,96
+1586,Deed,Mitchell,Elizabeth,Davis,James B.,Kent,Milford,Milford,,1872,23,97
+1587,Letter,Fleming,Charles T.,Bates,Dale,Kent,Mispillion,,,1873,23,98
+1588,Plot of new road,,,,,Sussex,Cedar Creek,Milford,Church Ave.,1873,,
+1589,Plot,,,Reynolds,Myers,Sussex,,,Prime Hook Neck,1873,23,101
+1590,Mortgage,Broadkiln Hd. Building & loan of Milton,,Short & Britting,"William, Mary & Elizabeth",Sussex,Cedar Creek,,,1873,23,102
+1591,Courses,,,May,Johnathan,Sussex,,,,1874,24,4
+1592,Plot,,,Paisley,Samuel,,,,High Hill along Mispillion Creek,1874,24,5
+1593,Letter,Davis,T.J.,Clark,H.,,,Milford,,1875,24,7
+1594,"Order to value land, Orphans Ct.",,,Coston minor,Harry,Kent,,,,1875,24,8
+1595,Courses,,,Harrington,Samuel M.,Kent,,Harrington,,1875,24,9
+1596,Survey,,,Hill,Joshua H.,,,,clear of graveyard,1875,24,10
+1597,Plot,Pierson & Reedy,Nelson J. & James,Jester dec'd,John R.,Kent,Milford,Milford,,1875,24,11
+1598,Plot,,,Barber,H.,Sussex,Cedar Creek,Milford,,1878,,
+1599,"Judgement Docket, Superior Ct.",Baily,J.S. & Thom C.,Jump,Anna,,,,concerning land of Nathan Payanter,1878,24,18
+1600,Lease,Pettigtrew,John,"Oliver, Wells","Samuel, William",,,Milford,,1878,24,19
+1601,Plot of lease,Anderson & Anthony,Wm. H. & N.G.,Potter Estate,,Kent,Mispillion,,,1878,24,20
+1602,"Plot, Survey",,,"Torbert, Gen.l",,Kent,,,Heister Farm,1878,24,21
+1603,Deed,Deputy,James H.,Truitt sherriff,Beniah W.,Sussex,Cedar Creek,,near Milford,1878,24,22
+1604,Plot,,,Wallace dec'd,John,,,Milford,,1878,24,23
+1605,Deed,Fowler,Susan,Currey,Daniel,,,Milford,,1879,24,24
+1606,Deed,Deputy,Benjamin B.,Deputy & Humphries,Elizabeth & Thomas,,,,Thorn Point,1879,24,25
+1607,Plot,,,"Depot,Junction,Breakwater",,Sussex,,Milford,So Milford,1879,24,26
+1608,"Plot, Survey",,,"Marshall, Dr.",G.W.,,,Milford,Old Bank Lot,1879,24,27
+1609,Deed,Dubois,John,Miles,Charles M.,Sussex,Cedar Creek,,,1879,24,28
+1610,Survey,,,Odd Fellows Cemetery Lots,,,,Milford,,1879,24,29
+1611,"Plot, Payments",,,"Prettyman, Watson","Wm. J., Joseph",,,,,1879,24,30
+1613,List of Property Owners,,,,,,,Milford,,1880,24,32
+1614,Plot,,,Betts dec'd,James C.,Sussex,Cedar Creek,Milford,,1880,24,33
+1616,"Plot, Survey",,,Harris,Levi,Kent,,,Old Savannah Church lot,1880,24,37
+1617,Plot,,,Hill,Henry,,,,,1880,24,38
+1618,Survey,Collins,Thomas,Oliver,Joseph,Kent,Milford,Milford,Jim Town,1880,24,39
+1619,Plot,,,"Shockly, Layton, Hall, Collins, Lofland","Elias, Lowder, ann P., Edwar or James R., M.G.",Kent,,,,1880,24,41
+1620,Plot,,,Betts,Wm. H.,Kent & Sussex,,Milford,,1881,24,42
+1621,Plot,Hall & Smith,"J.C., & Job",Fleming,C.T.,,,,,"1881,1883",24,43
+1622,Plot,,,Hook,Thomas,Kent,Milford,Milford,,1881,24,44
+1623,Plot,,,Mills dec'd,David,Sussex,Cedar Creek,,The Lofland Farm,1881,24,45
+1624,Plot,,,Mills dec'd,David,Sussex,Cedar Creek,,the Fountain Farm,1881,24,46
+1625,Plot,,,VanVorst,W.B.,Kent,Milford,,,1881,24,47
+1626,Plot,,,Betts,Wm. H.,Kent,Milford,,,1882,24,48
+1627,Plot,Town Commissioners,,Davidson,C.W.,Kent,Milford,Milford,,1882,24,51
+1628,Plot,,,Deputy,James H.,Sussex,Cedar Creek,,Stapleford Branch,1882,24,52
+1629,Plot,,,Hall, Ann P.,Kent?,,,,1882,24,53
+1630,Deed,Argo,Andrew,Hayes,Alexander L.,Sussex,Cedar Creek,,The Fisher Place,1882,24,54
+1631,Plot,,,Smith,John B.,Kent,Milford,Milford,Jim Town,1882,24,55
+1632,Description,,,,,,,,Solar System,1882,24,56
+1633,Plot,,,Truitt,Isaac,,,Milford,,1882,24,57
+1634,Articles of Agreement,Mastain,Hesekiah,Clark,Robert,Kent,Milford,,,1883,24,59
+1635,Plot,,,Dickerson,Burton,Sussex,Nanticoke,,,1883,24,60
+1636,"Plot, Survey",,,Rickards,Frank,Kent?,,Milford,,1883,24,62
+1637,Plot,Dickerson,Burton,Sharp,W.W.,,,,,1883,24,63
+1638,Outside Allowance Accounts,,,Trustee of the Poor?,,Kent,,,,1883,24,64
+1639,Arbitration Bond,,,"Fleming, Steward","Charle T., John",,,Milford,,1884,24,65
+1640,Plot,Fleming,Charles T.,Mitchell,Elizabeth,Kent,Milford,Milford,,1884,24,66
+1641,Plot,,,,,Kent,Milford,Milford,"Front & 2nd Sts., Walnut & North Sts.",1885,24,68
+1642,Lease,"Burton, n",Henry,Fleming,Chalres T.,Kent,Milford,Milford,,1885,24,69
+1643,Plot,,,Jenkins,Silas T.,Kent,,,Tub Mill,1885,24,70
+1644,Survey,,,"Taylor, Hall","John, C.J.",,,Milford,,1885,24,71
+1645,Deed,Davis,Thomas M.,Davis adm.,Thomas J.,Sussex,Cedar Creek,,,1886,24,72
+1646,Letter with Account,Richards,Mr.,Davis,T.J.,,,Milford,,1886,24,73
+1647,Lease,Jones,Edward,Draper,George H.,Sussex,Cedar Creek,,the Townsend Farm,1886,24,74
+1648,Description,,,FlemingFamily Cemetery,,Kent,,Farmington,,1886,24,75
+1649,Plot,Fisher,Shirmizer,Shakespeare,"Wm. M,",Kent,,,Steam Saw Mill,1886,24,76
+1650,Deed,Dutton et al,Wm. H.,Cole,Harvey M.,Sussex,,Lincoln,Trustees of M.E. Church,1887,24,77
+1651,Deed,Shockley,Netta J.,Derickson et al,Nelia J.,Sussex,Cedar Creek,,,1887,24,78
+1652,Articles of Agreement,Tomlinson,Hester A.,Tomlinson & Burton,Wm.B.& Daniel R.,Kent,Milford,,,1888,24,79
+1653,Plot of New Road,,,,,Kent & Sussex,,Milford,,1889,24,80
+1654,Deed,Davis,Thomas J.,Hyer,annie Bell,Sussex,Cedar Creek,Milford,,1890,24,81
+1655,Plot,,,May,Draper,Sussex,,,,1890,24,82
+1656,Letter of Testamentary,,,Truitt dec'd,Mary E.,Sussex,,,,1891,24,84
+1657,Testamentary Account,,,Davis dec'd,Thomas J.,Sussex,,,,1889-1900,24,86
+1658,Deed,Simpson,William I.,Davis et al,William P.,Sussex,Cedar Creek,,Campbell Farm,1905,24,88
+1659,Probate,,,Davis dec'd,Mary Jane,,,Milford,,1906-1908,24,89
+1660,Newspaper Clipping,,,"Boyce, Moore, Moore","Hon. William H., John Bassett, Col. Enoch",,,,,1914,24,91
+1662,Plot,Cowen,George,Wynkoop,Benjamin,Sussex,,,,"1772,1825",5,37
+1663,Courses,,,"Oliver, Duprey","Joseph, William",Kent,,,,1795,7,21
+1664,Superior Ct.,"Truitt, Hendrixson, Graham","Peter, Nancy, Nathaniel",Curry & Davis,Daniel & Nehemiah,Kent,,,,1843- 1845,,
+1665,Deed,Walton,George,Walton,William,Sussex,Cedar Creek,,,1724,4,63
+1666,"Plot, Courses",Watson,curtis S.,Watson's heirs,Bethuel,Sussex,Cedar Creek,,Browns Choice,1859,,
+1667,Bond,Sharp,William W.,Truitt,George W.,Sussex,Nanticoke,,,1884,,
+1668,Apprentice Indenture & Transfer,Fleming,Bayard,Dorman,Thomas,,,,,1840,,
+1669,Deed,Young,Nathan & Robert,Stokley,Mary,Sussex,Cedar Creek,,,1818,,
+1670,Plot,,,,,,,,,"1783,1807",5,61
+1671,Will,,,,,Kent,Milford,,,1846,19,22
+1672,Survey,John,Cross,"Muncy, Harrington & Earle, Murray, Sipplington","Nath.l, J. & RT., Tho.s, ---",,,,"Improvement, Bridge Town, [Louys] Chance",ND,,
+1673,Certificate for License,,,Curry & Davis,Daniel & Nehemiah,Kent,,,,1840,,
+1674,Bond,Poynter,Rattleff,Sturgis,Shadrack,Sussex,,,,ND,,
+1675,Survey,,,,,,,,,1805,,
+1676,Indenture,Harry,Negro,Handy,Truston,Sussex,,,,"1814,1817,1828",,
+1677,Courses,,,Crapper,Levin,Kent,,,,ND,1,92
+1678,Survey,,,Dehorty,John,,,,Turkey Point,1740 original,,
+1679,Plot,,,Wood,Mary,Kent,Mispillion,,,1811,11,88
+1680,Plot,,,Winsmore,Thomas,Kent,,,,1825,15,63
+1681,Grant,,,McKnitt,William,Kent,Mispillion,,,ND,,
+1682,Plot,,,McKnitt,James,Kent,Mispillion,,forest,1792,6,6
+1683,Payment Voucher,"Maull, Rench, Layton","G.W., M., C.S.",Pepper dec'd,W.,,,,,1838,,
+1684,Plot,,,"Oliver, Bowman, Brown, Miller","Levi, John, Israel, Shepherd",Sussex ?,,,,1795,,
+1685,Plot,,,Jester dec'd,William,,,,,ND,,
+1686,Plot,Spence,Samuel,Collins,William & Thomas,Sussex,Cedar Creek,,,1797,,
+1687,Bond,Hayes,Manlove,Fisher,Joshua,Sussex,,,,1795,7,11
+1688,Survey,Harrington,Aron,Tharp,John,Kent,,,Mount Pleasant,1802,,
+1690,Deed,Clark,Robert H.,Hemmons,Rhodes S.,Kent,Milford,Milford,,1866,,
+1691,Bond,Furbey,Michael,Jarrelld,Jonathan,Kent,Mispillion,,,"1797, 1805",,
+1692,Plot,,,McNatt heirs,Joseph & William,,,,,1813,,
+1693,Plot,McKnitt,John,McKnitt,William,,,,,1797,7,63
+1694,Plot,,"Betsey, Juliann, Major, Joseph, William, Richard",McKnatt,Joseph,Kent,,,,1821,,
+1695,"Plot, Survey",,,McNatt,Major,Kent,,,,"ND, !765",,
+1696,"Courses, Survey",Layton,Joshua S.,Pepper,Thomas,,,,,1837,,
+1697,Plot,,,McNatt,Major,Kent,,,Home Place,1809,,
+1698,Deed,Dawson,Labdiel,Mastin,John,,,,Marshehope Branch,ND,3,32
+1699,Plot,,,McNatt dec'd,Major,Kent,Mispillion,,,1815,,
+1700,Plot,,,Charles,Levin,Kent,,,,ND,1,73
+1701,"Plot, Courses",,,Chambers,John & Sam.l,,,,,ND,,
+1702,"Plot, Courses",,,Chairs,Joseph,Kent,,,Horsehead forest,ND,,
+1703,Plot,Lopes,Anthoney,Causey,Peter F.,Sussex,Cedar Creek,Milford,,1855,,
+1704,Plot,,,,,Kent,Milford,,Shock Farm,1865,,
+1705,"Plot, Courses",Draper,Lemuel,Adkins,George S.,Kent,,,,1865,23,45
+1706,Plot,,,Wilson,William,Kent,,,,1798,8,13
+1707,Plot,Watson,Curtis S.,Watson estate,C.S. & B.,Kent,,,"Downs land, Masons land wharf",1858,,
+1708,Plot,Watson,Curtis S.,Watson,C.S. & Bethuel,Sussex,,,Red house,1859,,
+1709,Plot,,,Watson,C.S.,Sussex,,,Walton farm,1859,,
+1710,Plot,,,"Wheeler, Waller, Reynolds","John, John, Henry",,,,,"1746, original",,
+1711,Plot,,,Walker,John,Kent,,,,ND,4,30
+1712,Plot,,,Walker dec'd,Caleb,Kent,Mispillion,,,1847,19,94
+1713,Plot,"More, Rev.",Gaylord L.,Walton,George,Kent,Mispillion,,,1843,,
+1714,Plot,,,Ward,Joseph,Kent,,,,1823,,
+1715,Plot,,,watson heirs,B.,Sussex,Cedar Creek,Milford,,1859,,
+1716,Plot,Little,Archabald D.,Causey,Peter F.,Kent,Milford,Milford,,1874,24,3
+1717,Plot,"Causey, Torbert,Gen.l, Vanorst","Peter F., A.T.A., cornelius","Jisher, Causey, Torbert","Philip A., Peter F., A.T.A.",Kent,Milford,,Fisher Farm,1866,,
+1718,Plot,Causey Jr.,Peter F.,Causey Sr.,Peter F.,Sussex,Cedar Creek,Milford,,1868,,
+1719,Plot,Barber,Hiram,Causey,Peter F.,Sussex,Cedar Creek,Milford,,1867,23,67
+1720,Plot,Raughley,Shadrack,Causey,Peter F.,Kent,Milford,Milford,,1852,21,39
+1721,Survey,Grier,George S.,Causey,Peter F.,,,Milford,Foundry,1877,,
+1722,"Plot, Bond","Watson, Truitt","Curtis S., Thomas H.","Causey, Gray","Peter F., William P.",Kent,Milford,Milford,"Wharf, grannery, pottery",1845,,
+1723,Plot,,,cusey,Peter F.,Kent,Milford,Milford,building lots,1853,,
+1724,Bond,Clayton,James,Henderson,James,Kent,Mispillion,,,1810,11,45
+1725,Plot,,,"Henderson, Clayton","James, James",Kent,,,"Saw Mill Rande"", Longfield",1810,,
+1726,Plot,,,Darrah,Jane,Duck Creek,,,,1809.1810,,
+1728,Deed,Revill,William F.,Warren,Mitchell,Sussex,Cedar Creek,,,1845,19,20
+1729,"Plot, Courses",Sorden,William,Mason,Elias,Kent,,,,1795,,
+1730,Deed,Walton,William [L.],Bowman,John,Sussex,Cedar Creek,,,1716,,
+1731,"Deed, Survey",Hammersley,Thos. R.,Watson,Joseph,,,Milford,,1829,,
+1732,Survey,Henderson,James,Manlove,Jonathan,Kent,,,Lovelong Point,1806,,
+1733,Plot,,,"Davis, Cirwithen, Draper","N., I., H.C.",Sussex,,,Slaughter Creek,ND,,
+1734,Deed,Black,George,Walton,George,Sussex,,,,1782,5,60
+1735,"Courses, Bill",,,"Eckles, Duprey","Johnson, John W.",,,,"City Auction, footman and [Cas] auction",1794,,
+1736,Deed,Johnston,Peter,Ireland,Samuel,,,,,1786,5,71
+1737,Deed,Burton,Benjamin,Williams,William C.,Sussex,Cedar Creek,,,1829,16,34
+1738,Certificate of Survey,,,Spencer Sen.,Will,Sussex,Cedar Creek,,"Jeseyas Choise, Spencers Hall""","1685, 1755",,
+1739,Deed,Chance,Spencer,Spencer,Ebenezer,Sussex,Cedar Creek,,,1769,5,25
+1740,Plot,,,Catts,John,Kent,,Bright Town,,1800,,
+1741,Survey,,,Williams,R.,,,,Clark Land,ND,,
+1742,Deed,Johnson,Tilghman,Webb,Ester,Sussex,Cedar Creek,,,1826,15,87
+1743,Plot,,,,,,,,,ND,1,8
+1744,"Plot, Courses",,,,,,,,,ND,,
+1745,Survey,,,"Clark Dr., Noel","R.A., Luther E.",Kent,Milford,Milford,,1882,,
+1746,Plot,"Virden, Virden","Peter,Sam.l","Carpenter, Virden dec'd","William, Peter",Kent,Murderkill,Canterberry,,1809,,
+1747,Plot,,,Harrington,Aaron,Kent,,,,1800,8,51
+1748,Plot,Fisher,Nancy & Elizabeth,Fisher dec'd,John,Sussex,,,,"1808, original",,
+1749,"Plot, Survey",Davis,Neh.,"Davis, Townsend dec'd","R.W., Purnal",,,,Hickory Point,"1851, 1863",,
+1750,"Bond, Plot","Carlisle, Watson","Pemberton, Isaac","hudson adm, Polk","Lucrecy, Joshua",Kent,Milford,Milford,,ND,,
+1751,Plot,Davis,Nehemiah,Causey,Peter F.,Kent,Milford,Milford,building lots,1856,22,32
+1752,"Deed, Plot",Stayton,David B.,"Johnson, Davis","Nathaniel, N.",Sussex,Cedar Creek,,Mifflin Land,1868,,
+1753,Deed,Young,Nathan & Robert,Stockeley,Cornelius,Sussex,Cedar Creek,,,1815,,
+1754,"Deed, Lease",Roberts,Robert D.,"Hooper, McColley","Ester, Truston P.","Kent, Sussex",Cedar Creek,Milford,,1851,,
+1755,"Agreement, Orphans Ct.",,,Stockeley dec'd,Joseph,Sussex,,,,1815,,
+1756,Plot,"Hazzard, Watson","John A., Curtis S. & Bethuel",Draper dec'd,John R.,Sussex,Cedar Creek,Milford,,1848,,
+1757,Deed,Deputy,Elizabeth,Carpenter,John,Sussex,Cedar Creek,,,1846,19,25
+1758,Release from Settlement,,,Martin estate,Sarah A.,,,,,1891,24,83
+1759,Plot,,,Curry,Daniel,Sussex,Cedar Creek,,Shawneylands,1855,,
+1760,Survey,Watson,Curtis & Bethael,Smith,David,Sussex,,,Strif,1847,,
+1761,Plot,,,"Allen, Clifton, Pritchet","John, Nathan, Zachariah",Kent,,,,1808,10,70
+1762,Plot,Williams,Rynear,"Sudler & Sudler, Dr.",Emory & John R.,Kent,Murderkill,Berry Town,the Thomas Greenland,1831,,
+1763,Plot,"Watson, Pierce, Deputy, Ingram, Watson, Park","W.m, Wm., J.H.,R.W., Wm.","Davis Jr., Clendanniel",Wm. & John,Sussex,Cedar Creek,,Neck,"1808, 1850, 1889",,
+1764,Certificate,Lowrey,Justice,Bank of Caroline,,Kent,,,Beswick Farm,1830,,
+1765,Plot,,,Draper Esq.,Lemuel,Sussex,,,Slaughter Neck,1867,,
+1766,"Plot, Survey",,,White,Edward,Dorchester,,,Graiseing Planes,1761,5,15
+1767,Survey,"Harrington, Harrington, Harrington Jr.","William, Nimrod, Benj.",Harrington,Benjamin,,,,,ND,,
+1768,Plot,,,Draper heirs,Samuel & Radcliff,Sussex,,,,1851,,
+1769,Plot,"Watson, Clark","C.S. & B., Wm","Davis, Dallinar","Henry, Levin H.",Kent,,,,1824,,
+1770,Plot,,,Stayton & Griffith,Amos & William,Kent,,,,1847,19,92
+1771,Plot,,,Banning,John,Kent,,,,ND,1,36
+1772,"Courses, Plot",,,Barwick,Soloman,Kent,,Marshyhope,,1798,,
+1774,Plot,,,Barnhill,David,Kent,Murderkill,,"forrest, David's Lot",1748,,
+1775,"Plot, Courses",Lewis,Daniel,"Parradee, Bell, Shaw","Stephen, Jno., Henry",Kent,,,Meeting House lot,1804,,
+1776,Plot,Carpenter,John Case,Whitely Esq. & Trevers,William & Matthew,Kent,,,,1821,,
+1777,"Plot, Courses",,,Berry,Peter L.,,,,,ND,,
+1778,Plot,,,Beswick,Curtis B.,,,,Home Farm,ND,,
+1779,Plot,,,Biddle,Jacob,Kent,,,,1805,10,2
+1780,"Plot, Courses",Truitt,George,Biddle,Jacob,Kent,,,,1795,,
+1781,Plot,Harrington & Booth,Reuben & Joseph,"Barker, Adams","Thomas, William",Kent,Mispillion,,"Neck, New Wharf",1813,,
+1782,Contract,"Niles, Dr.",Andrew,Curry,Daniel,,,,Deputy Farm,1864-1865,,
+1783,Plot,Barber,Hiram,Causey,F. & G.W.,Sussex,Cedar Creek,,,1867,,
+1784,Song,,,Liberty Tree,,,,,,1877,,
+1785,Letter of Attorney,Johnson,James,Simpson,Reuben,Sussex,Cedar Creek,,,1817,13,23
+1786,Probate Papers,,,Davis dec'd,Thomas M.,Sussex,Cedar Creek,,,1895,24,85
+1787,Superior Ct. Condemnation,,,Junction & Breakwater RR,,Kent,,,,1858,,
+1788,"Plot, Survey",,,"Clifton, James, James","Nathan, Benona C., John C.,",Kent,,,Neighbourly Kindness,ND,,
+1789,Survey,"Bradley, Adams","Wm., Levin",Mason,Joseph,,,,,"1792,18[ ]4",,
+1790,Survey,,,Ralston,George & Robert,,,,,1851,,
+1791,Convayance Bond,Poynter,Rattliff,Sturgis,Shadrack,,,,,1783,5,65
+1792,Plot,Sipple,Elijah,Gorden,James,Kent,,,,ND,,
+1793,Plot,,,Hughlett,William,Kent,Mispillion,,,ND,,
+1794,Newspaper Clippings,,,"Palmer, Gen.",William J.,,,,,1909,,
+1795,Plot,Truitt,Sam.l,Davis,Isaac,Kent,,,,1777,5,50
+1796,Deed,Williams,Reynear,Peterkin,Thomas,Kent,Mispillion,Milford,,1822,14,38
+1797,Deed,Cowen,George,Pierce,William,Sussex,,,,1783,5,64
+1798,Plot,Carter,Ephairm,Davis & Layton,Isaac & Lowder,Kent,,,,1806,,
+1799,Plot,,,Ford & Griffins & Wadkins,"James & John, William & P.",Kent,Duck Creek,,,1803,,
+1800,Plot,,,Carlisle,M.R.,Sussex,Cedar Creek,Milford,,1880,,
+1801,Plot,Currey,Daniel,Causey,Peter F.,Sussex,Cedar Creek,,Mill Creek Mills,1851,,
+1802,Plot,Adkins,Boaz,Mason,Daniel,Kent,Milford,,,1842,,
+1803,"Plot, Courses","Burdick, McColley","Royal S., Andrew J.","Causey, Burdick","Peter F., Royal S.",Sussex,,,mill,"1850,s",,
+1804,Plot,"Watson, Capt.",Joseph,Burdick,Royal S.,Sussex,Cedar Creek,,,1883,,
+1805,Plot,,,"Burrows dec'd, Martin","William(Warren), William",Kent,Mispillion,Quaker Town,,1798,,
+1806,"Plot, Courses",Burroughs,Warren,"Poynter, Junior",Levin,Sussex,Cedar Creek,,,1807,,
+1807,Plot,Burton,Dan.l,Clifton,Jo.s,Sussex,,,,1803,,
+1808,"Plot, Courses",Butler,James,Daniel,William,Sussex,,,,1803,,
+1809,"Plot, Courses",Cahal,Archibald,Smith,Holiday,Kent,,,,1821,,
+1810,Plot,Cannon,Constantine,Adams,Roger,Kent,Mispillion,,forest,1773,5,40
+1811,Plot,Harrington,Samuel M.,"Winsmore, Parves","Robert, John",Kent,Mispillion,,Clark's old Saw Mill Farm,"1839,1844,1853",,
+1812,"Plot, Courses",Herrington,Aaron,Jester,John,Kent,,,,1794,,
+1813,Plot,"Sipple, Capt.",John,Carlisle,Manlove R.,Sussex,Cedar Creek,Milford,,1853,,
+1814,Deed,Hudson,Elijah,Brinckloe Esqr.,John P.,Sussex,Cedar Creek,,,1837,,
+1815,Plot,"Burton alias Shockley, Negroe",John H. alias Zed,Carpenter,R.M.,Kent,Milford,Milford,Dewaile house lot,1880,,
+1816,"Plot, Courses",Carter,Ephraim,Davis,Isaac,Kent,,,,1804,9,57
+1817,Plot,,,Cain,Daniel & Hasty,Kent,Mispillion,,,1827,,
+1818,Plot,Curry,Daniel,Cropper,Jabez H.,Sussex,Cedar Creek,Milford,,1852,,
+1819,Plot,,,Riley dec'd,Sarah,,,,lot #2,1833,,
+1820,Plot,Tharp Sen.r heirs,William,Downs,Wm.,Kent,Mispillion,,"forest, Mary's Choice","1745, 1833",,
+1821,"Plot, Courses",Townsend,Theadore,Carpenter & DeWaele,Robert M.,Kent,Milford,Milford,,1880,,
+1822,Plot,,Watson,B.,,,,,Long-Branch Tract,ND,,
+1823,Plot,"Carpenter, Lofland, Harris","Isaac, Joseph S., Levi",Davis,James B.,Kent,Milford,,,"1851.1852,1867",,
+1824,Plot,"Stuart heirs, Davis","Aaron & John, James",Wood dec'd,John,Kent,Milford,,,1847,,
+1825,"Plot, Courses","Callaway, Morres","Peter, Charles",[Z]engin,John,,,,,ND,,
+1826,"Plot, Courses",,,Callaway dec'd,Levin,Kent,Mispillion,,,1841,,
+1827,Plot,Cannon,Clement,Wilson,Samuel,,,,,ND,4,45
+1828,Plot,,,,,Kent,,,"The Improvement, Angleford, Bridgetown, Gooseberry, Springfield, Longfield, Fairfield, Saw Mill Ran",1850,,
+1829,"Plot, Courses",Barber,Hiram,Causey,P.F.,Sussex,Cedar Creek,Milford,steam saw mill,1874,,
+1830,Courses,,,Cary,Nehemiah,Sussex,,,,1802,9,3
+1831,Plot,,,Catts,John,Kent,Mispillion,,,1801,8,70
+1832,"Plot, Courses",,,Catts,John,Kent,,,,1800,,
+1833,"Plot, Courses",,,Fearns,John,,,,,ND,,
+1834,"Plot, Courses",,,"Purden, Devaul, Dill & Williams",,,,,,ND,,
+1835,Plot,,,Earle,Richard T.,Kent,,,,ND,,
+1836,Plot,,,McColley,T.P.,,,,Bald Eagle,ND,,
+1837,Plot,Cowen,George,Wynkoop,Benj.n,,,,,1772,5,38
+1838,Plot,,,"Mastin Jr., Morgan, Clifton vs Ross","John, Jonathan, Nathaniel vs Charles",Kent & Sussex,,,"Adams's Manor, Fairplay","1776, original",5,47
+1839,Deed,,,Davis,Isaac,Kent,,,,1792,,
+1840,Survey,,,Barker,Thomas,,,,,1793,6,13
+1841,Plot,,,Cobner,Comfort,Kent,Mispillion,Milford,,1795,7,8
+1842,Courses,,,"Turner, Darling","Benj.n, [Widow]",,,,,1795,,
+1843,"Plot, Courses",Clifton Jr. dec'd,Thomas,"Faucet, Hill","Smith, Arthur",,,,Neighbourly Kindness,1797,,
+1844,"Plot, Courses",,,Sipple,Thomas,Kent,,,,1797,,
+1845,Deed,,,Jones,Isaac,Kent,,,Hazard,1799,,
+1846,Survey,"Carter, Carter","Epraim, Noah","Sipple, Carter","S., Epraim",Kent,,,,"1800,1801",,
+1847,Survey,,,Marritt,Hn.o,,,,,1801,,
+1848,"Plot, Courses",Plok,Edw.d,Elliot,Isaac,,,,,1802,,
+1849,Survey,,,Closer(Clothier)Sen.,John,Kent,,,,"1753, 1802",,
+1850,Survey,,,Taylor,Peter,,,,,180[2],,
+1851,Survey,,,Hopkins,Robert,,,,,1802,9,12
+1852,Plot,Collins,Tho.s & Edward,Mason,Daniel,Kent,,,,1804,,
+1853,Survey,"Wamley, Taylor","Mr., Peter",Burchnill,Wm.,,,,,1808,,
+1854,Survey,,,Willaby(Willabough),John,Kent,,,,1805,,
+1855,Survey,"Booth, Morgan","John, Thomas","Turner dec'd, Chadawick","Charles, Samuel",,,,,"1781,1807",5,58
+1856,Plot,,,Furbee dec'd,Michael,Kent,,,,1814,,
+1857,"Plot, Courses",,,Pratt the elder,George,Kent,Mispillion,,,1815,,
+1858,Plot,,,Clifton,Pemberton,Sussex,,,Truitt place,1818,,
+1859,Survey,,,Murphy,Shadrack,,,,Cleargains,"1794, 1818",,
+1860,Survey,James,Benona C.,"Clifton, Saulsbury, Hopkins, Hardesty","Nathan, John, Fisher B., John",,,,,1823,,
+1861,"Plot, Courses",,,Cordrey,Curtis,Kent,,,,1824,,
+1862,Plot,,,Cordery,Noble,Kent,Mispillion,,,1828,16,16
+1863,Deed,A.,J.W.,H.,R.,Sussex,Cedar Creek,,,1841,,
+1864,Plot,Coalscott Esq. Dec'd,Eli,Gullett dec'd,Alexander,Kent,Mispillion,,,1842,,
+1865,Plot,Cowen,John & David,Harrington,Hester,Sussex,,,,1843,,
+1866,Plot,"Clendaniel, Jester","Samuel, Mary","Sharp, Betts","Selby, J.",,,,Betts Mill,1844?,,
+1867,Plot,,,Clifton(Cliffen),William,Kent,Mispillion,,"forest, Addition to Morgan's Folly",1847,19,50
+1868,Plot,,,"Causey, Mason, Crapper","Peter F., Daniel, Molton",Kent,,,division line,1848,,
+1869,Plot,Cropper,Henry,Currey,Daniel,Kent,Milford,,,1853,21,85
+1870,Plot,Collins,James B.,Crumpton,John,,,,Crumpton Farm,1855-1856,,
+1871,"Plot, Courses",Danile,Elias M.,Watson,C.S.,Sussex,,,,1856,,
+1872,Superior Ct. Judgement,Hollis,John,Curry,Daniel,Kent,,,,1858-1861,,
+1874,Plot,,,"Davis, Causey, Watson, Fiddeman, Davis, Lowery","Nanthaniel, P.F., Bethuel, H.B., Jas. B., J.",Kent,Milford,,"Board Yard, Pottery, Wharf lot, hotel",1869,,
+1876,Plot,Fowler,Warren & Wm.,Adkins,G.S.,Kent,Milford,,Milford Neck,1852,,
+1877,Survey,,,Kimmey,James,Kent,,,,1825,15,45
+1878,Probate,,,Davis dec'd,Mary J.,Sussex,,,,1907,,
+1879,Plot,Young,Robert,Lowber dec'd,Matthew,Kent,Murderkill,Frederica,,1809,,
+1880,"Plot, Courses",Williams,Elijah,Fountain,David,,,,,1811,,
+1881,Survey,Meloney,Elisha,Raughley,Shadrack,,,,,1848,20,21
+1882,Plot,Soay,Samuel,Fleming,Charles T.,Kent,,,Brick House Farm division line,1852,,
+1883,Plot,,,Fiddaman,Philip D.,Kent,,,,ND,,
+1884,Courses,,,Peterkin,Elizabeth,Kent,,Cullin Town,,1797,,
+1885,Survey,,,,,,,,Walkers Branch from RR,1858,,
+1886,Survey,Owens,Frederic J.,Morris,Charles W.,Kent,Mispillion,,,1858,,
+1887,"Plot, Survey",,,Harrington,S.M.,Kent,Mispillion,,,1858,,
+1888,Plot,,,Watson,Jesse,Sussex,,,,1810,11,60
+1889,Plot,Webb,Sylvester,Walton,Nancy,Sussex,Lewes & Rehobeth,,Neck,1805,,
+1890,Survey List,,,,,,,,"Morgan's Folly, Addition to Morgan's Folly, Good Neighbour Hood, Hurley's Purchase,Griffith's Glory,",1847,19,66
+1891,Survey,,,Mitchell,Widow dower,,,,,1826,,
+1892,Plot,"Radcliff, Sipple, Causey, Causey","John W., P.F.","Griffith, Radcliff, Sipple col., Carpenter","Wm., Wm. H., John Isaac",Sussex,Cedar Creek,,,"1871,1873",,
+1893,Plot,"Gilchrist, Kendall, Draper, Gray, McNair","James B., C.C., L., Wm., John",Causey,John W.,Sussex,,,,"1868,1869",,
+1894,Plot,Truitt,George,Catts & Pennewill,Thomas &David C.,Sussex,Milford,,Mispillion Neck,1855,,
+1895,"Plot, Survey",,,Bishope,Henry,Sussex,,,,1725,,
+1896,Deed,Jountaine,William,Plok,Charles,Sussex,,,,1820,,
+1897,Plot,"Taylor, Dohgerty & [Sor    }","John, Hames & Thomas",Galloway Esq.,[Peter],Kent,Mispillion,,New Bern,1762,5,18
+1898,Bond,Carlisle Esq.r,William,Rhoads,Nancy,Sussex,Cedar Creek,,,1816,,
+1899,Plot,Williams,Betty,Sturgis,Shadrack,,,,,1794,6,76
+1900,"Plot, Courses",,,argoe,Andrew,Sussex,,,,1824,,
+1901,Plot,,,Cain,William,Kent,Mispillion,,,1806,10,30
+1902,"Plot, Courses",,,Cane,Hasty,Kent,,,,1821,,
+1903,Plot,Catts,Vincent,Catts,John,Kent,Mispillion,,Vincents Purchase,1800,,
+1904,Plot,"Bill, Philps","James H., Richard H.","Collins, Bill","Thomas, JamesH.",Kent,,,,1866,,
+1905,Plot,"Dennis, Beswick, Lowery, Truitt,","Margaret, George, J., Hetty, Eleanor, Ann",Beswick dec'd,Geroge,Kent,Mispillion,,Increase,1811,,
+1906,Tax List (Assessment),,,,,Sussex,Cedar Creek,,,1869,,
+1907,Plot,,,Deputy,Sol,,,,,ND,,
+1908,Deed,Young,Nathan & Robert,Stokeley et al,William,Sussex,Cedar Creek,,,1815,,
+1909,Plot,Causey,P.F.,"Banning, Causey","George W. , John W.",Sussex,Cedar Creek,,,1873,,
+1910,"Plot, Courses",,,Cain of Hasty,John,Kent,Mispillion,,,1843,,
+1911,Plot,Draper,H. Clay,Draper dec'd,Alx.,,,,,1848,,
+1912,Plot,,,Dutton dec'd,Joseph,Sussex,Cedar Creek,Milford,Mill seat,1842,,
+1913,Survey,Hill Jr.,Robert,"Henderson, Draper, Hill Sn.","James, Avery, Robert",Kent,,,,1794,,
+1914,Plot,,,Prettyman dec'd,Neh.,,,,,1866,,
+1915,"Plot, Courses",Dorsey,Wm. N.W.,"Hitchens n, Turner n, Porter n.","Sarah, Isaac, Solomon",Kent,Milford,,,1859,,
+1917,Plot,Sharp & Scott,Jessa &Thos,Dick[ir]son,Josiah,,,,,1850,,
+1918,Plot,"Milford, Town of",,Darby,[            ],,,Milford,,1836,,
+1919,Plot,,,Dorman heirs,George,Kent,,,,1827,16,5
+1920,Will,,,Lewis,Stephen,Kent,,,,1810,11,48
+1921,Will,,,Oliver,Galladette,Kent,Milford,Milford,,1846,19,37
+1922,Will,,,Yoe,Benjamin,Kent,Mispillion,Milford,,1812,,
+1923,Will,,,Coulter,Corneluis,Sussex,,Milton,,1855,,
+1924,Supreme Ct.,"Richardson, Jones, Benson, Lewis, Ash","John, Prudence, Elij.a, John, Edw.d","Smith, Dehorty","Richard, John",Kent,,,,1809,,
+1925,Petition to Orphan'sCt.,,,Callaway,Mary,Kent,Mispillion,,,ND,,
+1926,Bond,,,,,,,,,,,
+1927,Bond,Darby,John M.,Mason & Fisher,Charles & Philp,Kent,Milford,Milford,,1839,,
+1928,Bill of Sale,Darby,John M.,Dutton,Jacob D.,,,,negro woman Rachel,1831,,
+1929,Administrative Bond,,,Johnson dec'd,Nathaniel H.,Sussex,Cedar Creek,,,1878,24,17
+1930,Bond,,,Redden dec'd,John,Kent,Milford,,,1880,,
+1931,"Plot, Courses",,,Wix,William,Kent,Mispillion,Marshyhope,,1822,,
+1932,Survey,Wix,Wm.,Byns,Wm.,Dorchester,,,forrest Range,1822,,
+1933,Courses,,,Wood dec'd,John,Kent,Mispillion,,Hayfield,1828,,
+1934,Plot,Woodmansee,Asa,"Freeman, Williams","William, Reynear",Kent,Mispillion,,Freeman's Rest,1800,,
+1935,Courses,,,Winsmore,Thomas,Kent,,,,1825,15,60
+1936,"Plot, Coourses",,,Wooten,Henry,,,,,ND,,
+1937,Plot,"Tharp, Collison, McNatt, Woodall","Wm., Wm., John M., Isaac, Wm.","Griffith, Thrap, Collison","Wm., John M. Isaac",Kent & Sussex,,Heron Town,,"1851, 1852",,
+1938,Plot,,,Cain,Eli,Kent,Mispillion,,Dolphin Hill,1822,,
+1939,"Plot, Lease",Williams,Robert H.,Coats,Rachel E.,Sussex,Cedar Creek,Milford,,1882,,
+1940,"Plot, Bond",Williams,John,Sturgis,Shadrack,Sussex,Cedar Creek,,,1794,6,74
+1941,Plot,,,Booth,John,,,,,1840,18,23
+1942,"Plot, Courses",Williams,Jn.o,Bowman,Thomas,Kent,,,,1796,,
+1943,Plot,Booth,john,Jarvis dec'd,[Joseph],,,,,1835,,
+1944,Plot,,,"Boyer, Denning et al","Littleton, John H.",Kent,Milford,Milford,"between 3rd & 4th, Church & North Sts.",1858,,
+1945,Plot,,,,,,,,White Marsh,1847,,
+1946,Plot,,,Bowman,Nathaniel,Kent,Mispillion,,Neck,1792,,
+1947,"Plot, Courses",,,Leverton dec'd,Gary,,,,,1805,,
+1948,Plot,"Minner, Hill","Nimrod, Joshua H.",Mason,Daniel,Kent,Milford,,,1849,,
+1949,Plot,"Currey & Davis,Richards","---, James",Lofland of Jesse,John S.,Sussex,Cedar Creek,,,"1847,1850",19,75
+1950,Deed,Cowen,John & David,Hill et al,Robert,Sussex,Cedar Creek,,,1850,,
+1951,Survey,Collins,Henderson,Fleming,P.,,,,,1850,20,60
+1952,"Plot, Bill",Shockley,John,"United School District, Cirwithen",Isaac & Phillip,Sussex,,,,"ND, 1866",,
+1953,"Plot, Courses",,,"Bowman, Anderson","Thomas, Rueben",Kent,,,,1793,,
+1954,Plot,"Bozman, Griffith, Bozman","Revel, Isaac, Revel","Willey, Bosman, Griffith","Margaret, Revel, Isaac",Sussex,,,Croneys Jolley,"1797, 1799",,
+1955,Plot,,,Watson,"C.S., B.",Sussex,,,"Big Pond, Walton & Clendaniel land",1859,,
+1956,Plot,"Brinckle et al, Mifflin","Benjamin, Martha",Miflin & Satterfield,Mathew & William M.,Kent,Mispillion,,,"1797, 1800",,
+1957,"Plot, Survey",,,Brown,Daniel,Kent,Murderkill,,Fromes Elsworth,1804,,
+1958,Plot,,,Brown,John,Kent,,,,ND,,
+1959,Courses,"Truitt, Biddle","Geo., Jacob",Caldwell,Timothy,Kent,,,,1795,,
+1960,Plot,,,Black,George,Kent,Milford,,Milford or Mispillion Neck,1853,21,74
+1961,Plot,,,Taylor,Esther,Kent ?,,,,1810,,
+1962,Field Book,,,Tharp & Lord,Wm. & Robert,,,Heron Town,,1857,,
+1963,Plot,"Whitacre, negroe, GW, Whitacre","Cox Jurnior, White, Whitely","George, GW, George & Charles","John, John, William",Kent,,,,1825,,
+1964,Plot,,,Townsend,Stephen,Kent,,,,ND,4,21
+1965,Plot,Bowman,Rueben,Lowder,Isaac,Kent,Milford,Milford,neck,1848,,
+1966,Letter of Attorney,Johnson,James,Johnson,Mary Ann & Polly,Kent,Mispillion,,,1797,,
+1967,Plot,,,Bowen dec'd,William,,,,Golden-Mine,1817,,
+1968,"Plot, Courses",,,Bowen,John,,,,Bowens Venture,1847,19,48
+1969,Plot,,,Bostick dec'd,Robert,Kent,Mispillion,,,1824,,
+1970,Plot,"Booth, Booth","Waitman, Joseph","Tomlin, London Co., Prendergost","John, Patrick",,,,,1815,,
+1971,Plot,,,Booth,Sarah J.,,,,,ND,,
+1972,Plot,"Saterfield, Booth","Thomas B. & Nathaniel, John","Mason, Burton shiff.","Daniel, William",Kent,Milford,,,ND,,
+1973,Plot,,,Cannon dec'd,Clem.t,Kent,Mispillion,,,ND,,
+1974,Plot,,,Booth dec'd,John,,,,,ND,,
+1975,Plot,,,Buckmaster,Charles,Kent,,,,ND,1,59
+1976,Plot,,,Bowman,Henry,Kent & Sussex,,,Saw Mill Range,1851,,
+1977,Plot,Whaley,Daniel & James,Whaley dec'd,John,,,,,1835,,
+1978,Plot,,,Wells,William H.,Kent,Mispillion,Milford,,1791,5,104
+1979,Plot,"Rickards, Williams, Cahall, Harrington, Green, Pet","Molton, Jno., John R., M., A.T., Jno., John",Wells esq.r,William Hill,Kent,Milford,Milford,"Wharf, Stable","1803,1846,1878",,
+1980,Plot,"McKnatt, McKnatt","Levin, Dan.l","Scott, Brown","Rebecca, John",Kent,Mispillion,,,1828,,
+1981,Plot,,,White,John,Kent,,,,ND,,
+1982,Letter,Davis Esq.,T.J.,Hazzard,Jno. C.,Sussex,,Milton,,1876,,
+1983,"Plot, Courses",,,Bowman dec'd,Nathan,Kent,Mispillion,,,1812,,
+1984,Plot,,,Harrington,Aaron,Kent,Mispillion,,,1818,13,28
+1985,"Plot, Deed","Wamsley, Harrington","Rob.t C., Benjamin","Burchnell, Douglass & Wheatley","William, Walter & John",Kent,Mispillion,,,"ND, 1808",,
+1986,Plot,"Brown, Hall","John, Sarah",Brown,Joshua,Kent,Murderkill,,,1811,,
+1987,Plot,,,Boothe,John,,,,Hammon Land,ND,,
+1988,"Plot, Lease","Houston, Causey","Clement, John W.",Potter Estate,,,,,Fisher land,"1850, 1865, 1875",,
+1989,Plot,,,White dec'd,William,Kent,Murderkill,,Furbee farm,ND,,
+1990,Plot,"Barwick, Wilson","James, Sarah, Louisa, Arrianna, George, Margaret",Wilson estate,Robert,,,,,ND,,
+1991,"Plot, Bill","Wilson, Risher, Wilson","Elizabeth, James C., Charles","Turner, Fisher, Fisher","Rueben, John C., James C.",,,Milford,,"1848, 1851",,
+1992,Plot,,,Williams,Wm. C.,Kent,Milford,Milford,,1846,19,42
+1993,Plot,,,Williams dec'd,Wm. C.,Sussex,Cedar Creek,,,1846,19,43
+1994,Plot,,,Williams dec'd,Wm. C.,Kent,Milford,Milford,"wharf, granary, stables",1846,19,44
+1995,Plot,Williams,Sarah,Manlove,George,Kent,Milford,,"Neck, Barrier","ND, 1793",,
+1996,Plot,"Causey, Williams, Dennis","Peter F., Reynear, James","Sipple, Causey","Caleb H., Peter F.",Kent,Milford,,Mispillion Neck,1833,,
+1997,Plot,,,"Williams, dec'd",R.,Kent,,,,1836,17,58
+1998,Plot,,,Williams dec'd,R.,Kent,,,,1836,,
+1999,Plot,Boothe dec'd,John,Hickman estate,Nicholus,Kent & sussex,,,,1804,,
+2000,"Plot, Courses",Booth dec'd,John,Wroten,James,Kent,,,,1835,,
+2001,Plot,,,Williams dec'd,R.,Kent,Milford,Cullen Town,,1836?,,
+2002,Plot,,,Williams dec'd,R.,,,,Neal Lot,1836?,,
+2003,Plot,,,Williams dec'd,R.,Kent,Milford,Milford,Granery & Stables,1836,,
+2004,"Photograph, Newspaper Clipping",,,Davis,Hester Shockley,Kent,Milford,Milford,"Potter House, new mill",ND,,
+2005,Marriage Contract,Davis,Thomas J.,"Clements Esq., Burton",Thomas & Mary M.,Kent,,,,1856,,
+2006,Deed,Davis,"William P., AnnaY., Benjamin F., Herman S.",Davis,Robert P.,Sussex,Cedar Creek,,,1901,,
+2007,Plot,"Harrington, MColley, Dickson & Culbreth, Mills","James, Jas. H., Rickards","Bowman dec'd, Dickson & Culbreth",Nathaniel,Kent,Mispillion,,Neck,1858,,
+2008,Plot,,,Warren,Sam.l,Kent,,,,ND,,
+2009,Plot,,,Fiddeman,H.B.,Sussex,Cedar Creek,,,1851,,
+2010,"Plot, Courses","Wyatt the younger, Howard heirs, Jarvis","Moses,Absolom, Caleb","Wyatt the edler, Wyatt","Moses, Moses",Kent,,,,1809,,
+2011,Letter,Curry,Daniel,Cooke & Co.,Jay,,,,Washington D.C.,1864,,
+2012,Warrant,,,Wheeler,William,Sussex,Cedar Creek,,,"1756, 1767",5,7
+2013,Promissory Note,Currey,Dan.l,Hufty,George W.,,,,Philad.a,1860,23,8
+2014,Deed,Walton,Georg,Black,John,Sussex,Cedar Creek,,Neck,1772,5,33
+2015,Bond of Conveyance,Reiley,William,Reed,John,Sussex,,,,1800-1807,,
+2016,"Plot, Survey",,,Bell,Thomas,Sussex?,,,,1780,5,53
+2017,Letter,White Esq.,Edw.d,Stayton,Wm.,,,,,1794,,
+2018,Survey of Road,,,,,Kent,Murderkill,,from Milford to Frederica,1879 (1796),,
+2019,Survey,Smith,Holiday,"Vinson, Barwick","Eliah, Eliah",,,,,1823,,
+2020,Survey,,,Caldwell,John,,,,,1820,13,62
+2021,Plot,,,,,,,,Lane's Venture,1826,,
+2023,Account,,,"PetyJohn, currey & Davis, Welch","L., N.D.",,,,,1849,,
+2024,Court Papers,Gaylor Vs Darby,James vs John M.,Booth dec'd,John,Kent,,,,1840,,
+2025,Letter of Attorney,Mason to Fleming,Daniel to Charles T.,Pain dec'd,Samuel,Kent,,,,1845,,
+2026,Letter of Attorney,Jester to Oliver,Susannah to Joseph G.,West dec'd,David,Sussex,,,,1834,,
+2027,Opinion,,,Vinson dec'd,Daniel,,,,,ND,,
+2028,Plot,Matthews & Layton heirs,Joseph & Joshua S.,Fleming,Charles T.,Sussex,,,"Pathalia, Cypress Hall",1858,,
+2029,Field Book,,,"Booth Esq., Clifton","John, Scyron",,,,,"1820, 1826",,
+2030,Survey,"Bowman, Tomlin","Nathan, Anthony","H[omn], Bowman","Nath.l, Nathan",,,,,"1795, 1812",,
+2031,Field Book,,,Polk & Brinckloe,,,,,,1825,,
+2032,Field Book,Eldridge to Morgan,MS. To Evan,"Manlove, Cain, Eliott, Douglass, Anderson, James","Wm., William, Edw.d, Walter, Ezekiel, Daniel",,,,,"1806, 1808",,
+2033,Field Book,"Harrington, Morris, Burroughs","Isaac, Elijah, William","Morriss, Manlove, Mason","Nimrod, Matthew & John, Charles",,,,Morris's folly,1823,,
+2034,Field Book,Furbee,Jon.a,"Sipple, Harrington dec'd","Elijah, Sam.l",,,,,"1783, 1820",,
+2035,Field Book,,,Beswick dec'd,George,,,,,1825,,
+2036,Field Book,,,Porter dec'd,John,Kent,Mispillion,,,1823,,
+2037,Survey of Road,,,Fisher,Rich.d,Kent,,,Marhyhope to Greensborough,1822,,
+2038,Survey,,,Smith dec'd,Holiday,Kent,Mispillion,,,ND,,
+2039,Field Book,"Sipple, Mott, Smack, Moore","John, samuel, [Mvinniny], V.","Hughes, Bishop, clark, Battell, shff","Griffith, Sarah, Hugh, c.",Kent,Murderkill,Frederica,,1825,,
+2040,Field Book,,,"Darrha, Darrah dec'd, Peterson","[Jane}, Isaac, Israel",,,,,"1809, 1810",,
+2041,Field Book,James,Benona C. & John C.,Clifton dec'd,Nathan,,,,Neighbourly Kindness,1823,,
+2042,Survey,,,Travers,Matthew,,,,,1818,13,45
+2043,Survey,,,White Esq.r & Cannon,William & Clement,,,,,1810,,
+2044,Survey,,,,,,,,,1818,,
+2045,Survey,Arrosmith,Thomas,"PA LandCo., Hendrickson?",Sam.l,,,,,1818,,
+2046,Survey,Clayton,James,Caverly,Peter,,,,,1807,,
+2047,Field Book,Hopkins,James,Coomb,B.,Kent,,,,1823,,
+2048,Field Book,Haslet,John,"Com[pa],Henderson",Benjamin,,,,,1824,,
+2049,Field Book,,,Collins,Andrew,,,,,1821,14,5
+2050,Field Book,,,"Lofland, Johnson",Tho.s,Kent,Mispillion,,,1820,,
+2051,Survey,,,Houston & Hduson,Joseph,,,,,1816,,
+2052,Field Book,,,Molleston,Jonathan,Kent,Mispillion,,,1786,5,77
+2053,Supreme Ct.,Riley,Isaac,Virden,William & Matthew,Kent,,,,1810,,
+2054,Plot,,,Davis,Mary,Kent,Murderkill,,,1811,11,73
+2055,Deed,Carlisle Esq.,William,James& Rogers,Thomas W. &Molton C.,Sussex,Cedar Creek,,,1822,,
+2056,Grant,Shoemaker & Bowman,William & Sarah,State of DE,,Kent,Mispillion,,Bowmans Discovery,1801,,
+2057,Plot,Causey,Peter F.,Pennewell & Sipple,Robert O. & Caleb,Kent,Mispillion,,Neck,ND,,
+2058,Grant,Sturgess,Daniel,State of DE,,Sussex,,,Double Purchase,1796,,
+2060,Survey,Smith,Holiday,"Vinson, Barwick","Eliah, Eliah",,,,,1823,,
+2062,Plot,,,,,,,,Lane's Venture,1826,,
+2063,Chancery Ct.?,Hays,Curtis,Hays,Richard,Sussex,Cedar Creek,,,179?,5,95
+2064,Account,,,"PetyJohn, Currey & Davis, Welch","L., N.D.",,,,,1849,,
+2065,Court Papers,,,Booth dec'd,John,Kent,,,,1840,,
+2066,Letter of Attorney,Fleming,Charles T.,"Mason, Pain dec'd","Daniel, Samuel",Kent,,,,1845,19,12
+2067,Letter of Attorney,Oliver,Joseph G.,"Jester, West dec'd","Susannah, David",Sussex,,,,1834,,
+2068,Opinion,,,Vinson dec'd,Daniel,,,,,ND,,
+2069,Plot,Matthews & Layton heirs,Joseph & Joshua S.,Fleming  T.,Charles T.,Sussex,,,"Pathalia, Cypress Hall",1858,,
+2070,Field Book,,,"Booth Esq., Clifton","John, Scyron",,,,,"1820, 1826",,
+2071,Survey,"Bowman, Tomlin","Nathan, Anthony","H[omm], Bowman","Nath.l, Nathan",,,,,"1795, 1812",,
+2072,Field Book,,,Brinckloe & Polk,,,,,,1825,,
+2073,Field Book,"James, Morgan","Daniel, Evan","Anderson, Eldridge, Manlove, Cain, kEliott, Dougla","Ezekiel, Ms, Wm., william, Edw.d, Walter",,,,,1806 -1808,,
+2074,Field Book,"Harrington, Morris, Burroughs","Isaac, Elijah, William","Morriss, Manlove, Mason","Nimrod, Matthew & John, Charles",,,,Morris's folly,1823,,
+2075,Field Book,Furbee,Jon.a,"Sipple Harrington, dec'd","Elijah, Sam.l",,,,,"1783, 1820",,
+2076,Field Book,,,Beswick dec'd,George,,,,,1825,,
+2077,Field Book,,,Porter dec'd,John,Kent,Mispillion,,,1823,,
+2078,Road,,,Fisher,Rich.d,Kent,Mispillion,,Marshyhope to Greensborough,1822,,
+2079,Survey,,,Smith dec'd,Holiday,Kent,Mispillion,,,ND,,
+2080,Field Book,"Sipple, Mott, Smack, Moore","John, Samuel, [Mvinniny], V.","Hughes, Bishop, Clark, Battell","Griffith, Sarah, Hugh, C.",Kent,Murderkill,Frederica,,1825,,
+2081,Field Book,,,"Darrah, Darrah dec'd, Peterson","[Jane], Isaac, Israel",,,,,"1809, 1810",,
+2082,Field Book,,,"Clifton dec,d, James, James","Nathan, Benona C., John C.",,,,Neighbourly Kindness,1823,,
+2084,Survey,,,White Esq. & Cannon,William & Clement,,,,,1810,,
+2085,Survey,"Arrosmith, Hendrickson?",thomas Saml.,PA Land Co.,,,,,,1818,,
+2086,Survey,Clayton,James,Caverly,Peter,,,,,1807,,
+2087,Field Book,Hopkins,James,Coomb,B.,Kent,,,,1823,,
+2088,Field Book,Haslet,John,"Londaon Com[pa], henderson & Hatfield",Bnjamin & John,,,,,1824,,
+2089,,,,,,,,,,,,
+2090,Field Book,,,"Lofland, Johnson",Tho.s,Kent,Mispillion,,,1820,,
+2091,Survey,,,Houston & Joseph,,,,,,1816,,
+2092,Field Book,,,Molleston,Jonathan,Kent,Mispillion,,,1786,,
+2093,Supreme Ct.,Riley,Isaac,Virden,William & Matthew,Kent,,,,1810,,
+2095,"Note, Survey",Truitt,Joseph,"Hutchson, Hazzard","James, George & Jacob",Sussex,,,,"1793, 1794",,
+2096,Plot,"Vanvorst & Torbert, Gen",Cornelius & A.T.A.,anderson,John F.,,,,,1866,,
+2097,Field Book,Laws,Outten,Nickerson,Jn.o,Kent,,,,1803,,
+2098,Survey,,,"Neal, Dewaul",sam.l & Martain,,,,,1812,,
+2099,Survey,,,Harriss,Rich.d,,,,,1809,,
+2100,Plot,"Clark, Potter","Thomas, Benjamin","Clark, dec'd",Joshua,Kent,Mispillion,,,1801,,
+2101,Deed,Collins,Thomas,Shockley,Elias,Kent,Mispillion,,,1809,11,24
+2102,Plot,Watson,Bethuel & Curtis,Collins,Uncy,Sussex,Cedar Creek,,,1845,19,5
+2103,Courses,,,Caldwell,John,Kent,,,,1793,6,16
+2104,Deed,Davis,Thomas,Young,Nathan,Sussex,,,,1814,,
+2105,"Plot, Courses","Layton, carter","Lowder, Ephraim",Davis,Isaac,Kent,Mispillion,,,"1804, 1806",,
+2106,"Plot, Courses",,,Caldwell,Jn.o,,,,,ND,,
+2107,Survey,,,Willey,Absalom,,,,,1769,5,26
+2108,Plot,Anthony,Benjamin,Nowell,Samuel,Kent,Mispillion,Marshyhope,,ND,3,53
+2109,Deed,Young,Nathan & Robert,Stokeley,William & Cornelius,Sussex,,,,1815,,
+2110,Survey,,,McColley,T.P,Kent?,,,,1824,,
+2111,Deed,Johnson l,William(of Samuel),Oliver,Joseph,Kent,Mispillion,Milford,,1787,5,80
+2112,"Plot, Courses",,,Williams,John,Kent,Mispillion,,"Neck, Partnership",1800,,
+2113,Field Book,Lowber,Matthew,"Meirs, Green, Lowber dec'd","John, Thomas, Jonathan",,,,,1811,,
+2114,Field Book,"Masten Jr., Smith, , Brown, Masten, Hollingsworth","William, Thomas, Thomas, William, Levi","Wheatley, Hollingsworth, Smith, clampet, Shields","Alexander, Levi, Daniel, Henry, Archabald",Kent,Mispillion,,,"1790, 1806.1811",5,98
+2115,Survey,,,"Miffin, Owen & Taylor","Sally, Matthew & T.",,,,,1817,,
+2116,Survey,,,McNatt,Major,,,,,1809,11,17
+2117,Field Book,Seney(Seaney),Bryon,Kersey,Moses,,,,,"1785, 1809",5,72
+2118,Survey,Banning & Tilton,Jn.o & James,"Barratt shff, Strouid","Phillip, Sam.l",,,,,1804,,
+2119,Field Book,,,Harrington,Benjamin,Kent?,,,,1825,,
+2120,Survey,,,Downs,Henry,,,,,1824,15,11
+2121,"Survey, Note",Johnson estate,Whittington,"Douglass, Carlisle esq","Walter, Wm.",,,,,1821,,
+2122,Field Book,,,Davis & Green,,Kent,,,,1808,,
+2123,Field Book,,,Chair dec'd,Joseph,,,,Mill Tract,1825,,
+2124,Field Book,,,Clayton dec'd,James,Kent,,,,1821,,
+2125,Field Book,,,Mitchell,John,Kent,,,,1826,15,78
+2126,Survey,Graham negro,Anthony,"Lewis, Pritchett & James","---, Benona C.",,,,,1822,,
+2127,Field Book,Todd,Levin,Nutter,William,,,,,1810,11,50
+2128,Field Book,,,Rickard estate,Levin,,,,"Danville, Doulbe Purchase, Addition to Little Meadow, [Losard] gain, Jinishing Stroke, Defence, P",1826,,
+2129,Field Book,,,Clark,Zadok C.,,,,,1824,15,7
+2130,Field Book,,,Maxwell dec'd,Nimrod,,,,,1806,,
+2131,Survey,,,"Furbee & Williams, Clark","Michael & Aaron, John",,,,,1808,,
+2132,Field Book,Tharp,William,Sipple,Moses,,,,,1804,9,73
+2133,Field Book,,,Lowery,Justus,,,,,1825,15,46
+2134,Field Book,,,Rowland,Isaiah,Kent,Mispillion,Marshyhope,,1806,,
+2135,Survey,,,,Walker heirs,John,,,,1809,,
+2136,Field Book,,,Dewise heirs,Cornilius,,,,,1810,11,41
+2137,Accounts,,,Currey & Carlisle,,,,,,1860's,,
+2138,Field Book,,,"Harrington, Hon.",Samuel M.,Kent,Mispillion,,,1858,,
+2139,Field Book,Pierce,Wm.,Lewis,Evan,,,,,1808,10,87
+2140,"Bond, Survey","Hayes, Truitt","Alexander, Sam.l","Johnson, Davis","James, Isaac","Sussex, Kent",,,,"ND, 1797",,
+2141,Field Book,,,Rickard estate,Levin,,,,"Danville, Double Purchase, Addition Little Meadow, [Losard] gain, Jinishing Stroke, Defence, Partn""",1826,,
+2143,Field Book,,,Maxwell dec'd,Nimrod,,,,,1806,,
+2144,Survey,,,"Furbee & Williams, Clark","Michael & Aaron, John",,,,,1808,,
+2147,Field Book,,,Rowland,Isaiah,Kent,Mispillion,,Marshyhope,1806,10,45
+2148,Survey,,,Walker heirs,John,,,,,1809,11,30
+2149,,,,,,,,,,,,
+2150,Field Book,,,Harrington,Samuel M.,Kent,Mispillion,,,1858,,
+2152,"Bond, Survey","Hayes, Truitt","Alexander, Sam.l","Johnson, Davis","James, Isaac",Sussex & Kent,,,,"ND, 1797",,
+2153,Survey,,,"Blackiston, Spear & Griffin","E., [S.] & William",Kent,,,,ND,,
+2154,Survey,,,Rickards,Levin & John,,,,,1808,,
+2155,Accounts,,,Collins,Mary [I. Or J.],,,,,1845-1847,19,3
+2156,Survey,,,Lober dec'd,Matthew,,,,,1809,,
+2157,Field Book,,,Hickman dec'd,Nicholas,Kent,,,,1823,,
+2158,Survey,Cox Sr.,John,Lowber Sr.,Peter,,,,,"1794, 1796, 1809",,
+2159,Field Book,,,Herd heirs,Joseph,,,,,1809,11,10
+2160,Will,,,Henderson of James,Rebekah,Kent,,,,1820,,
+2161,Field Book,,,Hudson dec'd,Joseph A.,,,,,1853,,
+2162,Field Book,,,Tatman,John,,,,,1816,13,12
+2164,Survey,,,Johnson & Jump,James & Levin,,,,,1793,,
+2165,Plot,,,Cannon & White,,Kent & Sussex,,,,ND,,
+2166,Plot,,,Stayton,James,,,,,ND,4,10
+2167,Plot,,,Williams,Ezekiel,,,,,1789,5,94
+2169,Deed,,,"Luff, Anderson","Calab, William",,,,,ND,,
+2170,Bond,Furbey,Michael,Jarrelld,Jonathan,Kent,Mispillion,,,"1797, 1805",,
+2171,Deed,Adams,Levin,Manlove,William,Kent,,,,1757,5,8
+2172,Plot,,,Boothe heirs,John,Kent,Mispillion,,,1835,,
+2173,Plot,,,Stewart,Aaron,Kent,Mispillion,,Forest,1750?,5,1
+2174,Plot,,,Barker,John,,,,Dix place,1808,,
+2175,Bond,Poy[      ],Rattleff,Sturgis,Shadrack,Sussex,,,,ND,,
+2176,Plot,Bozman,Revel,Willey,Margaret,,,,Croneys Jolley,ND,,
+2177,Plot,,,Rowland,Isaiah,Kent,,,,ND,3,79
+2178,"Plot, Survey",Cirwirthen,Caleb,Stockley,Woodman,,,,,1838,,
+2179,"Survey, Bond",,,Shockley,"Elias, James",,,Milford,,1793,,
+2180,Plot,,,Depray,,Kent,,,,ND,,
+2181,Plot,,,"Denny, Lorber & Ganoe",Thomas,Kent,,,,ND,,
+2182,Deed,Johnston,Peter,Ireland,Samuel,,,,,1786,,
+2183,Plot,,,Black,George,Sussex,,,,1812,12,1
+2184,,,,Darrah heirs,Jane,,,,,ND,,
+2185,Courses,Aydelott,Jos.,Bradley,Josias,Kent,,,,ND,,
+2186,Plot,,,Wood,John,Kent,,,,1820,,
+2187,Deed,Sturgess,Daniel,Sturgess,Shadrack,Sussex,Cedar Creek,,,1795,7,26
+2188,Field Book,,,Harrington,S.M.,Kent?,,,,1858,,
+2189,Field Book,Taylor,Stephen D.,Riggs,Ezekiel,,,,,1809,,
+2190,Book,,,Pierce's Memorandum & Account Ella's Scrap Book,,,,,,1874,,
+2191,"Field Book, Accounts",,,Rickard,Frank,Kent,,Milford,,"1883,1859",,
+2192,Survey,Rickards,John,Barratt sheff,And.w,Kent,,,,ND,,
+2193,Deed,,,Clark,Henriatta,Kent,Mispillion,,,1831,16,56
+2194,Accounts,,,Currey,Daniel,,,,,1855-1863,,
+2195,Accounts,,,Currey & Carlisle,,,,,,1860's,,
+2196,Price Quote,Stuart Dr. & Wiatt,W.W. &James,Bennett & Tharp,John & William,Kent,Milford,Milford,,1853,,
+2197,Courses,,,,,,,,,ND,,
+2198,Plot,,,Morris,Dennis,Sussex,,,,1794,6,63
+2200,Probate,,,McKnitt dec'd,John,,,,,ND,,
+2201,"Plot, Courses","Nutter, the younger",James,Nutter the elder,James,Kent,Mispillion,Marshyhope,,1813,,
+2202,Plot,,,Rowland,Isaiah,Kent,,,,ND,,
+2203,Deed,smith,,,,Kent,Mispillion,,,ND,1,5
+2204,Bills,J & B Railroad,,Curry,Daniel,Sussex,Rehoboth,,Neck,1860,,
+2205,"Book, Leases",,,,,Kent & Sussex,,Milford,,ND,,
+2206,Field Book,"Taylor, Riggs, Henderson, Goldsborough","Stephen D., David. Rebecca, Charles","Riggs, Riggs, Rooss, Ross, Hudson","Ezekiel,Stephen D., David, Ann, Edward, Henry",,,,,"1791,1809, 1811,1812",5,102
+2207,Book,,,"Pierce's Memorandum & Account Book, Ellas Scrap Bo",,,,,,1874,,
+2208,,,,,,,,,,1795,,
+2209,Plot,,,Rowland,Isaiah,Kent,,,,ND,,
+2210,"Courses, Plot",,,,,,,,,ND,,
+2211,"Plot, Courses",,,,Wm. & Edw.d,,,,,1789,5,89
+2213,Plot,,,Morris,Dennis,Sussex,,,,1794,6,63
+2214,Probate,,,McKnitt dec'd,John,,,,,ND,,
+2215,Survey,Rickards,John,Barratt sheff (Wm. Drapers heirs),And.w,Kent,,,,ND,,
+2216,"Plot, Courses",Nutter the younger,James,Nutter the elder,James,Kent,,Marshyhope,,1813,,
+2217,Plot,,,,,,,,Townsend Farm,ND,,
+2218,Plot,,,Condon of MD,James,,,,,ND,,
+2219,Plot,,,Galloway??,Joseph,,,,,ND,,
+2220,"Plot, Survey",,,"Lowber dec'd, Hayes","Betty, Nathan & Richard",,,,,1807,,
+2221,Plot,,,,,,,,,ND,1,9
+2222,Plot,,,,,,,,,ND,1,10
+2223,Plot,,,,,,,,Adjoining lands of Nehemiah Daves,ND,1,12
+2224,Courses,,,Adams,Levin,,,,"
+Mispillion River",ND,1,30
+2225,Courses,,,,,,,,Milford Creek & Great Fishing Bot,ND,1,17
+2226,Plot,,,,,,,,"Road to Smyrna, Alstons Branch,Registers Mill Branch",ND,1,21
+2228,Courses,,,"Barker,Earle, McKnott","John, Richard T,Esq.,Sarah",,Mispillion,,,ND,1,38
+2229,Survey,Richards,John,"Barratt, Sheff.",Andrew,Kent,,,Wm. Draper Heirs,ND,1,41
+2230,Plot,,,Berry,Peter L,,,,,ND,1,43
+2231,Plot,,,Beswick,Curtis B,,,,Home Farm,ND,1,44
+2232,Survey,,,"Blackiston, Spear,Griffin","E., [S.], William",Kent,,,,ND,1,48
+2233,Courses,Aydelott,Joseph,Bradley,Josias,Kent,,,,ND,1,51
+2234,Plot,,,Booth,John,,,,Hammon Land,ND,1,55
+2235,Plot,,,Booth,"John, decd",,,,,ND,1,56
+2236,Plot,,,Booth,Sarah,,,,,ND,1,57
+2237,Plot,,,Brown,John,Kent,,,Tidbery Branch,ND,1,58
+2239,Deed,Harrington,Walter,,,,,,,,0,0
+2240,Deed,Harrington,Benjamin,Douglass,Walter,,Mispillion,,John Wheatley,1808,1,61
+2241,Plot,,,"Cannon, White",,"K ent, Sussex",,,,ND,1,66
+2242,Courses,,,Caldwell,John,,,,,ND,1,64
+2243,Plot,,,Cannon,Clemt.,,Mispillion,,,ND,1,65
+2244,Plot,,,Carpenter,"Sally, Samuel, Mu. Davis, Nch, Thomas",,,,"Slaughter Creek, Delaware By",ND,1,67
+2245,"Plot,Courses",,,Causey,P.F.,Sussex,,Milford,,ND,1,70
+2246,Plot,,,Chadwick,,,,,On Road to Ptrettymans Corner,ND,1,71
+2247,"Plot, Courses",,,Chambers,"John, Saml",,,,,ND,1,72
+2250,Plot,,,Cirwithen,"Issac, Phillip",Sussex,,,,1866,1,74
+2251,Plot,,,Clayton,Jame,,,,,ND,1,76
+2253,Survey,,,Clifton,Charles,Sussex,,,Venture,ND,1,77
+2254,Plot,,,Clifton,Nathan,Kent,,,,ND,1,78
+2255,Plot,,,Clifton,Nathan,Kent,,,Neighbourly Kindness,ND,1,79
+2256,Courses,,,Clifton,Nathan,Kent,,,,,0,0
+2257,Courses,,,Clifton,Thomas,Kent,,,Neighbourly Kindness,ND,0,0
+2258,Plot,,,Collins,John,,,,"John W, Ann T. Green, Henderson Collins, Benjamin Henderson",ND,1,84
+2259,Survey,,,Collins,Thomas,,,,,ND,1,85
+2260,Survey,Turner,Isaac,Collins,Thomas,,,,,ND,1,86
+2261,Letter,,,Collins,S. A.,,,,,ND,1,87
+2262,Plot,,,Condon,James,,,,,ND,1,89
+2263,Plot,,,Crapper,Zabok,,,,Saw Mill Range,ND,1,93
+2266,Plot,,,,,,,Cullen Town Place,State Road to Milford,ND,2,3
+2267,photograph,,,Davis,Hester Shockley,,,,,ND,2,7
+2268,List,,,"Darrah, Heirs",Jane,,,,,ND,2,5
+2269,Courses,,,Davis,Issac,,,,Fulby Farm,ND,2,8
+2270,Plot,,,"Davis,Cirwithen,Draper","N., I.,H.C.",Sussex,,,Slaughter Creek,ND,2,16
+2271,Plot,,,"Denny, Lorber, Ganoe",Thomas,Kent,,,,ND,2,21
+2272,Plot,,,Depray,Mr.,Kent,,,,ND,2,22
+2273,Courses,,,Depray,William,,Mispillion,,,ND,2,23
+2274,Plot,,,Deputy,Sol,,,,,ND,2,24
+2275,Plot,,,Earle,Richard T,Kent,,,,ND,2,30
+2276,"Courses,Plot",,,Fearns,John,,,,,ND,2,32
+2282,Plot,,,Galloway,Joseph,,,,,ND,2,44
+2283,Plot,Sipple,Elijah,Golden,James,Kent,,,,ND,2,48
+2284,Survey,"Harrington,Harrington, Harrington, Jr.","William, Nimrod, Benj.Jr.",Harrington,Benjamin,,,,,ND,2,61
+2285,Courses,,,Harrington,Richard,,,,,ND,2,62
+2286,"Plot,Courses",,,Harrington,S. M.,Kent,,,Nichold's Farm,ND,2,63
+2288,Courses,Harpers Progress,,Hopkin's Horse Pond,,Sussex,,,,ND,2,68
+2289,Bond,Carlisle,Pemberton,Hudson,Lucrecy,Kent,,Milford,,ND,2,75
+2290,Plot,Watson,Issac,Polk,Joshua,Kent,,,,ND,2,75
+2291,Plot,,,Jester,"William, dec'd",,,,,ND,2,84
+2292,Bond,Hayes,Alexander,Johnson,James,Sussex,,,,ND,2,87
+2293,Survey,Truitt,Samuel,Davis,Isaac,Kent,,,,1797,2,87
+2295,Deed,Anderson,William,Luff,Calab,,,,,ND,3,17
+2296,Plot,Cowan,Marshall,McColley,S.,,,,"Cedar Neck, May Farm",ND,3,19
+2297,Plot,,,McColley,T.P.,,,,Bald Eagle,ND,3,20
+2299,Probate,,,McKnitt,John (dec'd),,,,,ND,3,21
+2300,Grant,,,McKnitt,William,,Mispillion,,,ND,3,22
+2301,"Plot,Survey",,,McNatt,Major,Kent,,,,ND (1765),3,24
+2302,Plot,Williams,Sarah,Manlove,George,,,,"Barrier, Milford Neck",ND (1793),3,25
+2303,Plot,,,Mason,Daniel,,,,,ND,3,29
+2304,Book,,,,,,,,Milford Leases,ND,3,35
+2305,Plot,,,,,,,,Milford Lots,ND,3,36
+2307,Plot,,,Mitchell Estate,,,,Milford,,ND,3,40
+2308,Sury,"Cross,Harrington,Earle,Murray","John, J.,RT, Thos.",Muncy,Nathaniel,,,,"Imporvement, Bridge Town",ND,3,47
+2310,Survey,Dutton,Joseph,Owens,John,,,Milford,Shockley Hotel,ND,3,56
+2311,Plot,Causey,Peter F,"Pennewell, Sipple","Robert O., Caleb",,,,Mispillion Neck,ND,3,60
+2312,"Courses,Plot",,,"Purden,Devaul,Dill, William",,,,,,ND,3,69
+2313,Plot,,,"Purnell, Sharp, Russel","Isaac, Peter, David",,,,Milford Mill Pond,ND,3,70
+2314,Plot,"Edghill,Booth","Andreton, John",Rowland,"Isaiah,Joseph G",,,,,ND,3,80
+2315,Survey,,,Smith,"Holiday, dec'd",,Mispillion,,,ND,4,1
+2317,Plot,"Paynter, Rickards","Nathaniel,William,Mills","Stayton,",James,,,,double purchase,ND,4,13
+2318,Bond,Rattleff,Poy,Sturgis,Shadrock,,,,,,0,0
+2319,Bond,Poy,Rattleff,Sturgis,Shadrock,Sussex,,,,ND,4,15
+2320,Plot,,,,,,,,Townsend Farm,ND,4,17
+2321,Opinion,,,"Vinson, Dec'd",Daniel,,,,,ND,4,27
+2322,Plot,,,Warren,Saml,Kent,,,Murderkill Creek,ND,4,33
+2323,Plot,,,Watson,B.,,,,Long Branch Tract,ND,4,34
+2324,Courses,Campbell,,Watson,C. S.,,Cedar Creek,,Tumbling Dam,ND,4,35
+2325,List of Arbitrators,,,"Webb, Heirs",Dorman,Sussex,,,,ND,4,38
+2326,Plot,,,"White, Intestate",John,Kent,,,,ND,4,39
+2327,Plot,,,"White, Dec'd",Wiliam,,Murderkill,,Furbee Farm,ND,4,40
+2328,Plot,Bozman,Revel,Willey,Margaret,,,,Croneys Folley,ND,4,41
+2330,,,,Williams,R.,,,,Clark Land,ND,4,43
+2331,Plot,"Barwick, Wilson","James, Sarah Ann",Wilson,Robert (Estate divided),,,,,ND,4,44
+2332,Plot,,,Wooten,Henry,,,,,ND,4,47
+2333,Plot,,,Young,Robert,,,,Slaughter Creek,ND,4,51
+2335,"Plot, Courses","Callaway, Morres","Peter, Charles",[Z]engin[ergin],John,,,,,ND,4,52
+2336,,,,,,,,,,,0,0
+2337,Plot,,,Cullin,George,,,,Cullin Purchase,1680,4,54
+2338,Survey,,,Grounddicke,Peter,,,,"Gooseberry, Springfield, Angleford",1680,4,55
+2339,Deed,Bowman,Henry,Wallton,John,,,,,1681 or 1691,4,56
+2341,Certificate of Survey,,,"Spencer, Sr",Will,,Cedar Creek,,"Jesups Choice, Spencers Hall","1685, 1755",4,57
+2343,Survey,Bowman,Henry,Penn,William,,Mispillion,,SawMill Range,1686,4,59
+2344,Patent,,,Bowman,Henry,,Cedar Creek,,,1692,4,60
+2345,Deed,Walton,William [L],Bowman,John,,Cedar Creek,,,1716,4,61
+2346,"Plot, Survey",,,Taylor,Peter,,,,Horse Ridge,1716,4,62
+2347,"Plot,Survey",,,Bishope,Henry,Sussex,,,,1725,4,64
+2348, Deed,Spencer,Samuel,"Booth, Jr.",Joseph,Sussex,,,,1727,4,65
+2349,Survey,,,Dehorty,John,,,,Turkey Point,1740,4,73
+2350,Plot,,,"Thorp,Sr, Heirs""",William,,Mispillion,,"forest, Mary's Choice","1745, 1833",4,79
+2351,Plot,,,Oliver,Joseph,,,,Mispillion River,1746,4,86
+2352,Plot,,,"Wheeler, Waller, Reynolds","John ,John, Henry",,,,,1746,4,87
+2353,Paten,,,White,John,,,,"Addition to White's marsh,Dorchester Co., Md.",1748,4,88
+2354,Plot,,,Barnhill,David,,Murderkill,,"forrest, David's Lot",1748,4,89
+2355,"Survey, Plot",,,"Willowghby,Dill, Jr.,Sherwood","Job, William,Joseph",,,,,"1748,1754,1776",4,91
+2356,"Plot, Courses",Lewis,Stephen,Parradee,Stephen,Kent,,,Henry Shaw Meeting Hse Lts,"1759,1804",5,11
+2358,Patent,,,White,Edward,"Dorchester Co., Md",,,Calfs Pasture,1763,5,20
+2359,Survey,,,Bowman,Henry,,,,Sawmill Range,1770,5,27
+2360,Plot,,,,,,Mispillion,,,1773,5,39
+2361,Letter,,,Read,George,,Cedar Creek,,Fairfield Tract,1773,5,41
+2362,Survey,,,Debuty,William,Kent,,,,1777,5,51
+2363,Courses,,,Carey,Thomas,,,,,1783,5,62
+2365,Plot,,,Bowman,Nathaniel,,,,Mispillion Neck,1792,6,1
+2366,Deed,,,Davis,Isaac,Kent,,,,1792,6,3
+2367,Survey,"Bradley, Adams","Wm.,Levin",Mason,Joseph,,,,,"1792,18[ ]4",6,7
+2368,Receipt,Russel,William,Argo,Alexander,,,,"Argo's Delight""",1793,6,11
+2369,"P lot,Courses",Anderson,Rueben,Bowman,Thomas,Kent,,,,1793,6,15
+2370,"Note, Survey",Truitt,Joseph,"Hutchson, Hazzard","James, George, Jacob",Sussex,,,,"1793,1794",6,24
+2371,Survey,,,"Johnson, Jump","James, Levin",,,,,1793,6,26
+2372,Survey,,,Shockley,Elias,,,Milford,,1793,6,36
+2373,Courses,"Truitt, Biddle","Geo., Jacob",Caldwell,Timothy,Kent,,,,1795,6,44
+2374,Plot,,,Davis,Andrew,,,Milford,,1794,6,49
+2375,Survey,,,Dill,Abner,,,,,1794,6,50
+2376,"Courses,Bill","Duprey,Johnson","William, Ja.s",Eckles,John,,,,City Auction,1794,6,52
+2377,Survey,,,"Henderson,Draper, Hill Sr. & Jr.","James, Avery, Robert Sr.& Jr.",Kent,,,,1794,6,55
+2378,"Plot,Courses",Herrington,,,,,,,,,0,0
+2379,"Plot,Courses",Herrington,Aaron,Jester,John,Kent,,,,1794,6,58
+2380,Survey,Cox,"John, Sr.",Lowber,"Peter, Sr.",,,,,"1794,1796,1809",6,62
+2381,Letter,White,"Edw.A.,Esq.",Stayton,Wm.,,,,,1794,6,72
+2382,Plot,Truitt,George,Biddle,Jacob,Kent,,,,1795,7,1
+2383,Survey,Bowman,Nathan,H[omn],Nath,,,,,1795-1812,7,17
+2384,"Plot, Courses",Sorden,William,Mason,Elias,Kent,,,,1795,7,19
+2385,Plot,"Bowman, Brown, Miller","John,Israel,Shepherd",Oliver,Levi,Sussex,,,,1795,7,20
+2386,Courses,,,"Turner, Darling","Benj.n,[widow]",,,,,1795,7,29
+2387,Courses,,,,,,,,Murder Creek,1796,7,30
+2388,Grant,Sturgess,Daniel,State of DE,,Sussex,,,Double Purchase,1796,7,39
+2389,Courses,Candon,James,White,William,Kent,,,Rotterdam,1796,7,40
+2390,"Plot,Courses",Williams,Jn.o,Bowman,Thomas,Kent,,,,1796,7,42
+2391,Plot,Spence,Samuel,Collins,"William, Thomas",,Cedar Creek,,,1797,7,49
+2392,"P lot,Courses","Clifton,Hill","Thomas,Jr.,Arthur",Faucet,Smith,,,,Neighbourly Kindness,1797,7,55
+2393,Bond,Furkey,Michael,Jarrelld,Jonathan,,Mispillion,,,1797-1805,7,60
+2394,Letter of Attorney,Johnson,James,Johnson,"Mary Ann, Polly",,Mispillion,,,1797,7,62
+2395,Plot,"Brinckle, et al",Benjamin,"Muflin, Scatterfield","Mathew, William M.",,Mispillion,,,1797-1800,7,65
+2396,"Plot,Courses",Collins,Francis,Murphey,John,Kent,,,Collins Purchase,1797,7,66
+2397,Courses,,,Peterkin,Elizabeth,,,,Cullin Town,1797,7,67
+2398,"Plot, Survey",,,"Saterfield, Brinkle","William M., Benjamin",Kent,,,,1797,7,69
+2399,Survey,,,Shockeley,Elias,Kent,,Milford,,1797,7,70
+2400,"Plot,Courses",,,Sipple,Thomas,Kent,,,,1797,7,73
+2401,Plot,Collins,William,Sprencer,Samuel,,Cedar Creek,,,1797,7,76
+2402,Plot,"Bozman, Griffith,Bozman","Revel,Isaac,Revel",Willey,Margaret,Sussex,,,Croneys Folley,"1797,1799",7,81
+2403,Plot,,,Wrotten,James,Kent,,,Marshy Hope,1797,7,83
+2404,"Courses,Plot",,,Barwick,Soloman,Kent,,,Marshy Hope,1798,7,86
+2405,Plot,,,"Burrows,Martin","William (Warren), William",,Mispillion,,Quaker Town,1798,7,90
+2406,Survey,,,"Daniel, Hudson","William, Richard",Sussex,,,Stallion Head Neck,1799,8,19
+2407,Deed,,,Jones,Isaac,Kent,,,Hazard,1799,8,24
+2408,Plot,Catts,Vincent,Catts,John,,Mispillion,,Vincent's Purchase,1800,8,42
+2409,Plot,,,Catts,John,Kent,,,Bright Town,1800,8,43
+2410,"Plot,Courses",,,Catts,John,Kent,,,,1800,8,44
+2411,Plot,Woodmanser,Asa,"Freeman,Williams","William, Reynear",,,,"Mispillion Neck, Freeman's Rest",1800,8,49
+2412,Bond of Conveyance,Reiley,William,Reed,John,Sussex,,,,1800-1806,8,57
+2413,Survey,Carter,"Epraim, Noah",Sipple,"S., estate",Kent,,,,1800-1801,8,59
+2414,"Plot,Courses",,,Williams,John,,,,"Mispillion Neck, ""Partnership""",1800,8,63
+2415,Plot,"Clark, Potter","Thomas, Benjamin",Clark,"Joshua, dec'd",,Mispillion,,,1801,8,71
+2416,Survey,,,Marritt,Jn.o,,,,,1801,8,82
+2417,Grant,Shoemaker,William,State of DE,,,Mispillion,,Bowmans Discovery,180l,8,87
+2418,Survey,,,"Closer, Sr. (Clothier)",John,Kent,,,,1802 (orig.1753),9,7
+2419,"Plot,Courses",Polk,Edw.d,Elliot,Isaac,,,,,1892,9,9
+2420,Survey,,,Taylor,Peter,,,,,180[2],9,25
+2421,Survey,Harrington,Aron,Thorp,John,Kent,,,Mount Pleasant,1802,9,26
+2422,Plot,Burton,Dan.l,Clifton,Jo.s,Sussex,,,,1802,9,29
+2423,Survey,Butler,James,Daniel,Abraham,,,,,1802,9,30
+2424,"Plot,Courses",Butler,James,Daniel,William,Sussex,,,,1803,9,31
+2425,Plot,,,"Ford, Griffins,Wadkins","James, John, William, P.",Kent,Duck Creek,,,1803,9,35
+2426,Courses,,,"Grayham,Hamilton","Sam.l,William",Kent,,,,1803,9,38
+2427,Survey,,,Hamilton,William,Kent,,,,1803,9,39
+2428,"Plot, Survey",,,Jump,Purnel,Kent,,,The Downs on Taylors Branch,1803,9,40
+2429,Survey,,,Lofland,Zadock (dec'd),Sussex,,,,1803,9,42
+2430,Field Notes,Laws,Outten,Nickerson,Jn.o,Kent,,,,1803,9,46
+2431,Plot,,,"Wells, Esq.",William H.,Kent,,Milford,,1803,9,52
+2432,"Plot,Survey",,,Brown,Daniel,,Motherkiln,,Fromes Elsworth orig. warant,1804,9,53
+2433,"Plot,Courses","Layton, Carter","Lowder, Ephraim",Davis,Isaac,,Mispillion,,,"1804,1806",9,56
+2434,Plot,"Booth, dec'd",John,Hickman Estate,Nicholus,"Sussex, Kent",,,,1804,9,62
+2435,Plot,,,"Collins, Mason","Tho.s, Edward, Daniel",Kent,,,,1804,9,68
+2436,Convayance Bond,Layton,Lowder,Smith,Salley,,,,,1804,9,74
+2437,Survey,"Banning, Tilton","Jno., James","Strouid, Barratt","Sam.l,Phillip",,,,,1804,9,77
+2438,Survey,Shockley,Curtis,Truitt,John,,,,,1804,9,78
+2439,Plot,,,"Fleming, Anderson, Dill, Adams,Duprey,Shoemaker","Charles T., Reuben, Abner, Nathan (heirs), William",,Mispillion,,,1805,10,11
+2440,"Field Notes,Survey",Barber,Francis,Gorden,John,,,,,1805,10,12
+2441,"Plo,Survey",,,"Leverton, dec'd",Gary,,,,,1805,10,15
+2442,Plot,Webb,Sylvester,Walton,Nancy,,,,Rehoboth Neck,1805,10,25
+2443,Survey,,,Willaby (Willabough),John,Kent,,,,1805,10,27
+2444,Plot,Carter,Ephraim,"Davis, Layton","Isaac, Lowder",Kent,,,,1806,10,32
+2445,"Extract, Orphans Court",,,"Draper, dec'd",William,Kent,,,,1806,10,33
+2446,Survey,Henderson,James,Manlove,Jonathan,Kent,,,Lovelong Point,1806,10,36
+2447,Field Book,"James, Douglass,Morgan","Daniel, Walter, Evan","Manlove,Cain, Anderson, Eldridge","Wm, William, Ezekiel, Ms.",,,,,1806-1808,10,37
+2448,Field Book,,,"Maxwell, dec'd",Nimrod,,,,,1806,10,39
+2449,Survey,Clayton,James,Caverly,Peter,,,,,1807,10,54
+2450,Plot,Hayes' heirs,"Nathan, Richard",Lowber,"Betty, dec'd",,,,,1807,10,60
+2451,"Plot, Courses",Burroughs,Warren,"Poynter, Jr.",Levin,Sussex,Cedar Creek,,,1807,10,66
+2452,Courses,Hamilton,Elizabeth,Stuart,John,,Mispillion,,,1807,10,68
+2453,Plot,,,Barker,John,,,,Dix Place one part,1808,10,71
+2454,Survey,"Wamley, Taylor","Mr. , Peter",Burchnill,Wm.,,,,,1808,10,73
+2455,Plot,Clendanniel,John,Davis Jr.,Wm.,,,,Cedar Creek Neck,1808,10,74
+2456,Field Book,,,"Davis, Green","Clayton,-----",Kent,,,,1808,10,78
+2457,Plot,Fisher,"Nancy, Elizabeth","Fisher, dec'd",John,Sussex,,,,1808,10,79
+2458,Survey,,,"Furbee, Williams,Clark","Michael, Aaron, John",,,,,1808,10,80
+2459,Survey,,,Rickards,"Levin, John",,,,,1808,10,94
+2460,Plot,Virden,Peter,Carpenter,William,,Murderkill,,plus lot in Canterberry,1809,11,2
+2461,Plot,,,Darrah,Jane,,Duck Creek,,,"1809,1810",11,4
+2462,Survey,,,Harriss,Rich.d S.,,,,,1809,11,8
+2463,Survey,,,"Lober, dec'd",Matthew,,,,,1809,11,14
+2464,Plot,Young,Robert,"Lowber, dec'd",Matthew,,,Fredrica,,1809,11,15
+2465,Plot,,,McNatt,Major,Kent,,,Home Place,1809,11,18
+2466,Supreme Ct.,"Richardson, Jones","John, Prudence","Smith, lessee of John Dehorty",Richard,Kent,,,,1809,11,25
+2467,Plot,"Wyatt, the younger",Moses,"Wyatt, the elder",Moses,Kent,,,,1809,11,32
+2468,Field Book,,,"Darrah, Darrah dec'd, Peterson","[Jane],Isaac, Israel",,,,,1810,11,39
+2469,Plot,,,"Henderson, Clayton","James, James",Kent,,,"Saw Mill Range, Longfield",1810,11,46
+2470,Plot,Duprey,William,Smith,William,,,,,1810,11,57
+2471,Plot,,,Taylor,Esther,Kent,,,,1810,11,58
+2472,Survey,,,"White, Cannon","William, Clement",,,,,1810,11,62
+2473,Supreme Ct.,Riley,Isaac,Virden,"William, Matthew",Kent,,,,1810,11,65
+2474,Plot,"Dennis, Beswick, Lowery, Truitt","Margaret, George, J., Hetty, Eleanor, Ann","Beswick, dec'd",George,,mispillion,,Increase,1811,11,66
+2475,Plot,,,"Brown, Hall","Joshua, Sarah",,Murderkill,,,1811,11,67
+2476,"Plot,Courses",Williams,Elijah,Fountain,David,,,,,1811,11,76
+2477,Field Book,,,Lowber,Jonathan,,,,,1811,11,80
+2478,"Plot,Courses",,,"Bowman, dec'd",Nathan,,,,Mispillion Neck,1812,12,2
+2479,Plot,,,Collins,James,,,,,[1812],12,5
+2480,Survey,,,"Neal, Dewaul","Sam.l, Martain",,,,,1812,12,13
+2481,Will,,,Yoe,Benjamin,Kent,Milford,,,1812,12,22
+2482,Plot,,,,,,,,fragment,1813,12,23
+2483,Plot,"Harrington,Booth","Reuben,Joseph","Adams, Heirs",William,,,,Mispillion Neck at New Wharf,1813,12,24
+2484,Plot,,,McNatt heirs,"Joseph , William",,,,,1813,12,31
+2485,"Plot,Courses","Nutter, the younger",James,"Nutter, the elder",James,Kent,,,Marshyhope,1813,12,34
+2486,Plot,,,"Furbee, dec'd",Michael,Kent,,,,1814,12,44
+2487,Indenture,Handy,Truston,,Negro Harry,Sussex,,,,"1814,1817,1828",12,46
+2488,Deed,David,Thomas,Young,Nathan,Sussex,,,,1814,12,60
+2489,Plot,David,Sovern,"Douglass, Neall",,Kent,,,Between 3 mile & Brown Branch,1815,12,69
+2490,Plot,,,McNatt (dec'd),Major,,Mispillion,,,1815,12,73
+2491,"Plot,Course",,,"Pratt, the elder",George,,Mispillion,,,1815,12,74
+2492,Deed,Young,"Nathan, Robert",Stockeley,Cornelius,,Cedar Creek,,,1815,12,79
+2493,Orphan's Ct. Agreement,,,Stockeley (dec'd),Joseph,Sussex,,,,1815,12,80
+2494,Deed,Young,"Nathan, Robert",Stokeley,"William, Cornelius",Sussex,,,,1815,12,83
+2495,Deed,Young,"Nathan, Robert","Stockeley, et al",William,,Cedar Creek,,,1815,12,84
+2496,Plot,Booth,"Waitman,Joseph","Tomlin, London Co., Prendergost","John,Patrick",,,,,1815,12,86
+2497,Plot,Booth,"Waitman, Joseph","Tomlin,London Co.,Prendergost","John, Patrick, Waitman",,,,,1815,12,86
+2498,Survey,,,"Hudson, Joseph",,,,,,1816,13,2
+2499,Bond of Conveyance,"Carlisle, Esq.",William,"Rhoads, Widow",Nancy,,Cedar Creek,,,1816,13,10
+2500,Plot,,,"Bowen, Dec'd",William,,,,Golden-Mine,1817,13,15
+2501,Survey,,,"Miffin, Owen, Taylor","Sally, Matthew, T.",,,,,1817,13,20
+2502,Plot,,,Clifton,Pemberton,Sussex,,,Truitt Place,1818,13,26
+2503,Survey,,,Murphy,Shadrock,,,,Cleargains,1818 (1794),13,30
+2504,Survey,Arrosmith,Thomas,PA Land Co.,,,,,,1818,13,0
+2505,Deed,Young,"Nathan, Robert",Stokley,Mary,,Cedar Creek,,,1818,13,44
+2506,Deed,Potter,Benjamin,Owens,John,,,Milford,,1819,13,57
+2507,Field Book,,,"Booth, Clifton","John, Scyron",,,,,"1820,1826",13,60
+2508,Field Book,Furbee,Jonathan,"Harrington  dec'd,Sipple","Sam.l, Elijah",,,,,"1820, 1783",13,67
+2509,Will,,,Henderson,Rebekah of James,Kent,,,,1820,13,70
+2510,Field Book,,,"Lofland,Johnson",Thomas,,Mispillion,,,1820,13,72
+2511,Deed,Fountaine,William,Polk,Charles,Sussex,,,,1820,13,73
+2512,Plot,,,Wood,"John, estate",Kent,,,,1820,13,80
+2513,"Plot,Courses",,,Cane,Hasty,Kent,,,,1821,14,1
+2514,Survey,,,Carlisle,William,,,,,1821,14,3
+2515,Field Book,,,"Clayton, dec'd",James,Kent,,,,1821,14,4
+2516,Plot,Cain,"Betsey, Juliana, Major, Joseph, Wm,Richard,Dan'l",McKnatt,Joseph,Kent,,,,1821,14,13
+2517,"Plot,Courses",Cahal,Archibald,Smith,Holiday,Kent,,,,1821,14,16
+2518,Survey,Cahall,Archibald,Smith,Holiday,Kent,,,Harpers Progress,1821,14,17
+2519,Plot,Carpenter,John Case,"Whitely, Trevers","William, Matthew",Kent,,,,1821,14,22
+2520,Survey,,,Byns,William,Dorchester,,,Forrest Range,1822,14,25
+2521,Plot,,,Cain,Eli,,Milspillion,,Dolphin Hill,1822,14,26
+2522,Road,,,Fisher,Rich'd,,,,Marshyhope to Greensborough,1822,14,29
+2523,Deed,Carlisle,William,Rogers,"James, Thomas W., Molton C.",,Cedar Creek,,,1822,14,34
+2524,Survey,"Graham, Negroe",Anthony,"Pritchett, James,Lewis (dec'd)","-------, Benona C.,Stephen",,,,,1822,14,39
+2525,"Plot,Courses",,,Wix,William,,,,Marshyhope,1822,14,44
+2526,Survey,"James, Saulsbury, Hopkins","Benona C., John, Fisher B.",Clifton,Nathan,,,,,1823,14,44
+2527,Field Book,,,"Clifton (dec'd), James, James","Nathan, Benona C.,John C.",,,,Neighbourly Kindness,1823,14,45
+2528,Field Book,Hopkins,James,Coomb,B.,Kent,,,,1823,14,48
+2529,Field Book,,,"Hickman, dec'd",Nicholas,Kent,,,,1823,14,59
+2530,Field Book,"Harrington, Morris, Burroughs","Isaac, Elijah,William","Morris, Manlove, Manlove, Mason","Nimrod,Matthew, John, Charles",,,,Morris's folly,1823,14,61
+2531,Field Notes,,,"Porter, dec'd",John,,Mispillion,,,1823,14,63
+2532,Deed,Marvel,Adam,Pritchett,"Zachariah, Mary",,Mispillion,,,1823,14,65
+2533,Survey,Smith,Holiday,"Vinson, Barwick","Eliah, Eliah",,,,,1823,14,71
+2534,"Plot, Courses",,,Ward,Joseph,Kent,,,,1823,14,73
+2535,"Plot,Courses",,,Argoe,Andrew,Sussex,,,,1824,15,2
+2536,Courses,,,Barker,John,Kent,,,,1824,15,3
+2537,Plot,,,Bostick (dec'd),Robert,,Mispillion,,,1824,15,6
+2538,"Plot,Courses",,,Cordrey,Curtis,Kent,,,,1824,15,8
+2539,Plot,,,"[Davis],Dallinar","Henry, Levin H.",Kent,,,,1824,15,9
+2540,Field Book,,,"Henderson, Hatfield","Benjamin, John",,,,,1824,15,15
+2541,Survey,,,McColley,T.P.,Kent,,,,1824,15,16
+2542,Field Book,,,"Boswick, dec'd",George,,,,,1824,15,31
+2543,Field Book,,,"Chair, dec'd",Joseph,,,,Mill Tract,1825,15,33
+2544,"Plot,Courses",,,Chairs,Joseph,Kent,,,Horsehead forest,1825,15,34
+2545,Plot,"Whitacre (negroe),GW,Whitacre","George,__,George & Charles","Cox, Jr.",John,Kent,,,,1825,15,36
+2546,Field Book,,,Harrington,Benjamin,Kent,,,,1825,15,40
+2547,Field Book,"Sipple, Mott, Smack, Moore","John,Samuel,M Vinning,V.","Hughes,Bishop, Clark,Battell,Sheriff","Griffith, Sarah, Hugh, C.",Kent,,Frederica,,1825,15,42
+2548,Field Book,,,"Polk, Brickloe",,,,,,1825,15,51
+2549,Courses,,,Wooters,Elizabeth,Kent,,,,1825,15,64
+2550,Survey,,,Mitchell's dower,Widow,,,,,1826,15,67
+2551,Plot,,,,,,,,Lane's Venture,1826,15,81
+2552,Field Book,,,Rickard's Estate,Levin,,,,,1826,15,84
+2553,Plot,,,Cain,"Daniel, Hasty",,Mispillion,,,1827,16,1
+2554,Plot,,,Clifton,Scyron,Kent,,,,1827,16,2
+2555,Plot,"McKnott, McKnott","Levin, Dan.l","Scott, Brown","Rebecca, John",,Mispillion,,,1828,16,23
+2556,Courses,,,"Wood, dec'd",John,,Mispillion,,Hayfield,1828,16,25
+2557,"Deed,Survey",Hammersley,Thos.R.,Watson,Joseph,,,Milford,Milford Lot,1829,16,33
+2558,Petition to Orphan's Ct.,,,Callaway,Mary,,Mispillion,,,1830,16,35
+2559,Certificate,Lowrey,Justice,Bank of Caroline,,Kent,,,Beswick Farm,183-,16,36
+2560,Bill of Sale,Darby,John M.,Dutton,Jacob D.,,,,"Sale of Negro woman, Rachel",1831,16,60
+2561,Plot,Williams,Rynear,"Sudler, Sudler","Emory, Dr. John R.",,Murderkill,,"The Thoms Green land, Berry Town",1831,16,64
+2562,Plot,,,"Riley, dec'd",Sarah,,,,Lot #2,1833,16,90
+2563,Plot,"Causey, Williams","Peter F.,Reynear",Sipple,Caleb H.,,Mispillion,,Mispillion Neck,1833,16,91
+2564,Letter,Oliver,Joseph G.,Jester,Susannah,Sussex,,,,1834,17,6
+2565,Plot,,,Booth heirs,John,,Mispillion,,,1835,17,13
+2566,Plot,Booth,John,Jarris dec'd,[Joseph],,,,,1835,17,23
+2567,Plot,Whaley,"Daniel, James",Whaley dec'd,John,,,,,1835,17,38
+2568,"Plot,Courses",Booth dec'd,John,Wroten,James,Kent,,,,1835,17,39
+2569,Plot,Town of Milford,,Darby,[     ],,Milford,,,1836,17,41
+2570,Plot,,,Williams,R.,Kent,Milford,,Granery & Stables,1836,17,56
+2571,Plot,,,"Williams, dec'd",R.,Kent,,,Berry Town,1836,17,57
+2572,Plot,,,"Williams, dec'd",R.,Kent,,,Neal Lot,1836,17,59
+2573,Plot,,,"Williams, dec'd",R.,,,,,1836?,17,60
+2574,Plot,,,"Williams, dec'd",R.,Kent,,Cullen Town,Gordy Lot,1836?,17,61
+2575,Deed,Hudson,Elijah,"Brickloe, Esqr.",John P.,,Cedar Creek,,,1837,17,62
+2576,"Courses,Survey",Layton,Joshua S.,Pepper,Thomas,,,,,1837,17,65
+2577,"Plot,Survey",Cirwirthen,Caleb,Stockley,Woodman,,,,,1838,17,83
+2578,Plot,,,"Causey,Lofland,Griffin","Peter F.,James P.,Hyliard",,,,Road from Frederica to Milford,1839?,18,1
+2579,Bond,Darby,John M.,"Mason, Fisher","Charles, Philip H.",Kent,,Milford,,1839,18,13
+2580,Plot,Harrington,Samuel M.,"Winsmore, Parves","Robert, John",,Mispillion,,Clark's Old Saw Mill Farm,"1839,1844,1853",18,21
+2581,Court Papers,Darby,John M.,"Booth, Gaylor","John, dec'd, James",Kent,,,,1840,18,22
+2582,"Plot, Courses",,,Cain,John of Hasty,,Mispillion,,,1843,18,24
+2583,Certificate for license,,,"Curry, David","Daniel, Nehemiah",Kent,,,,1840,18,27
+2584,Apprentice Indenture Transfer,,,"Dorman, Fleming","Thomas, Bayard",,,,,1840,18,28
+2585,Plot,,,"Dutton, dec'd",Joseph,Sussex,,Milford,Mill Seat,1842,18,29
+2586,"Plot,Courses",,,"Callaway, dec'd",Levin,,Mispillion,,,1841,18,40
+2587,Deed,J.W. A.,,R. H.,,,Cedar Creek,,,1841,18,43
+2588,Plot,"Coalscott, dec'd",Eli,"Gullett, dec'd",Alexander,,Mispillion,,,1842,18,56
+2589,Plot,Adkins,Booz,Mason,Daniel,,Milford,,,1842,18,58
+2590,"Plot,Courses",,,Potter,Benjamin,Kent,,,Swan Creek,1842,18,59
+2591,Superior Ct.,"Truitt, Hendrixson, Graham","Peter, Nancy, Nathaniel","Curry, Davis","Daniel, Nehemiah",Kent,,,,1843,18,63
+2592,Plot,Cowen,"John, David",Harrington,Hester,Sussex,,,,1843,18,64
+2593,Plot,More,Rev. Gaylord L.,Walton,George,,Mispillion,,,1843,18,71
+2594,Plot,Jester,Mary,Sharp,Selby,,,,Betts Mill,1844,18,73
+2595,"Lease, Deed",Fowler,Warren,Griffith,Potter,,Milford,,Winsmore Farm,1844,18,81
+2596,Inventory,,,,,,,,,1845,19,1
+2597,Plot,Watson,Curtis S.,Causey,Peter F.,Kent,Milford,Milford,"Wharf, Grannery, Pottery",1845,19,2
+2600,Plot,"Tharp, Wallace","Wm., Thos.",Collins,Thomas,Kent,,,Near Milford,1845,19,4
+2602,,,,,,,Milford,,,,,
+2603,Deed,Johnson,Nathaniel H.,Carlisle,James,,Cedar Creek,,,1846,19,24
+2605,Order,,,Collins,Henderson,,,,,1846,19,29
+2606,Plot,"Anderson, Graham",,Smith,Manlove,,,,,1846,19,40
+2607,Courses,,,Bowers,John,,,,Bower's Venture,1847,19,49
+2608,Plot,,,Clifton (Cliffen),William,,Mispillion,,"Forest, Addition to Morgan's Folly",1947,19,50
+2610,Lease,Sharp,Peter,Fleming,Charles T.,Kent,Milford,,,1847,19,62
+2611,"Plot, Courses",,,"Griffith ,dec'd",William,"Kent, Sussex",,,,1847,19,70
+2612,Plot,,"David, Sarah, Daniel, William","Griffith, dec'd",W.,Kent,,Milford,,1847,19,71
+2613,Survey,,,"Griffith, dec'd",William,"Kent,Sussex",,,,1847,19,73
+2614,Deed,Deputy (widow),Elizabeth,McColley,Truston P.,,Cedar Creek,,,1847,19,76
+2615,Plot,Nathan,Spencer,Montgomery,Eleanor,Kent,,,My Delight,1847,19,78
+2616,Plot,,,,,,,,White Marsh,1847,19,79
+2617,Plot,"McColley,Adkins (negroe)","Truston, Priscilla",Shivelear (negroe),Dublin,Kent,,Milford,,1847,19,87
+2618,Plot,Causey,Peter F.,Shivelear (negroe) dec'd,Dublin,Kent,Milford,Milford,,1847,19,88
+2619,Survey,Watson,"Curtis,Bethael",Smith,David,Sussex,,,Strife,1847,19,89
+2620,"Plot, Courses",,,Spence dec'd,Nathan,Sussex,,,Near Marshyhope Bridge,1847,19,91
+2621,Plot,Coulter,Wm.V..,Watson,"C. S. , B.",,Cedar Creek,,,1847,19,95
+2622,Plot,Stuart heirs,"Aaron, John",Wood dec'd,John,,Milford,,,1847,19,96
+2623,Plot of division line,,,"Causey, Mason, Cropper, dec'd","Peter F., Daniel, Molton",Kent,,,,1848,20,3
+2624,Plot,,,"Draper, dec'd",Alx.,,,,,1848,20,8
+2625,Plot,"Hazzard Jr.,Watson","John A., Curtis S., Bethuel","Draper,dec'd",John R.,Sussex,,Milford,,1848,20,9
+2626,Plot,Bowman,Rueben,Lowder,Isaac,,,,Milford Neck,1848,20,20
+2627,"Plot, Bill","Wilson,Fisher, Wilson","Elizabeth, James C., Charles","Turner, Fisher dec'd","Rueben, John C.",,,Milford,,1848,20,27
+2628,Account,,,"Petyjohn, Currey & Davis, Welch","L., N. D.",,,,,1849,20,40
+2629,Contract,"Davis, Curry","Nehemiah, Daniel",Pettyjohn,Levin,,,,,1849,20,43
+2630,Accounts,,,,,,,,,1850,20,47
+2631,Plot,,,,,Kent,,,"The Improvement, Angleford, Bridgetown, Gooseberry, Springfield, Longfield, Fairfield,Saw Mill Range",185-,20,49
+2632,"Plot,Courses","Burdick, McColley","Royal S., Andrew",Causey,Peter F.,Sussex,,,Mill,1850,20,52
+2633,Plot,"Sharp, Scott","Jessa, Tho.s",Dick[ir]son,Josiah,,,,,1850,20,56
+2634,Article of Agreement,"Linderman, Grier","Joseph L., George S.","Fleming, Trustee of Benjamin Potter's Estate""",Charles,,,Milford,,1850,20,58
+2635,Deed,Cowen,"John, David","Hill, et al",Robert,,Cedar Creek,,,1850,20,67
+2636,"Plot, Lease","Houston,Causey","Clement,John W.",Potter Estate,--,,,,Fisher Land,"1850,1865,1875",20,78
+2637,Affidavit,,,,,,,,Slaughter Neck,1851,21,1
+2638,Plot,,,Bowman,Henry,Kent & Sussex,,,Saw Mill Range,1851,20,3
+2639,Plot,Currey,Daniel,Causey,Peter F.,,Cedar Creek,,Mill Creek Mills,1851,20,5
+2640,Plot,"Carpenter, Lofland, Harris","Isaac, Joseph S.,Levi",Davis,James B.,,Milford,,,1851,21,8
+2641,Affidavit,,,,,,,,Slaughter Neck,1851,21,1
+2642,Plot,,,Bowman,Henry,Kent & Sussex,,,Saw Mill Range,1851,21,3
+2643,Plot,Currey,Daniel,Causey,Peter F.,,Cedar Creek,,Mill Creek Mills,1851,21,5
+2644,Plot,"Carpenter,Lofland, Harris","Isaac, Joseph C., Levi",Davis,James B.,,Milford,,,1851,21,8
+2645,Plot,,,Draper,"Samuel, Radcliff",,Cedar Creek,,Cedar Creek Neck,1851,21,11
+2646,Plot,,,Fiddeman,H. B.,,Cedar Creek,,,1851,21,13
+2647,Plot,"Tharp,Collison, McNatt,Woodall","Wm.,John M.,Isaac, Wm.",Griffith,Wm.,Kent & Sussex,,Heron Town,,"1852, 1852",21,20
+2648,"Deed of Release, Lease",Roberts,Robert D.,"Hooper,McColley","Ester, Truston P.",Kent & Sussex,,Milford,,1851,21,24
+2649,Survey,,,Ralston,"George,Robert",,,,,1851,21,30
+2650,"Plot,Survey",David,Nehm.,"Towsend (dec'd), Davis","Purnal, R.W.",,,,,1851,21,34
+2651,Plot,Fowler,"Warren, Wm.",Adkins,G. S.,,,,Milford Neck,1852,21,36
+2652,Plot,Curry,Daniel,Cropper,Jabez H.,Sussex,,Milford,,1852,21,43
+2653,Plot,Soay,Samuel,Fleming,Charles T.,Kent,,,Brick House Farm,1852,21,53
+2654,Price Quote,"Stuart Dr.,Wiatt","W. W., James","Bennett, Tharp","John, William",,,Milford,,1853,21,73
+2655,Plot,"Sipple, Capt.",John,Carlisle,Manlove R.,Sussex,,Milford,,1853,21,76
+2656,Plot,,,Causey,Peter F.,Kent,,Milford,Building Lots,1853,21,81
+2657,Plot,Harrington,S.M.,Clark,Jehu,,,,Saw Mill Tract,1853,21,82
+2658,Field Book,,,"Hudson, dec'd",Joseph A.,,,,,1853,21,92
+2659,Letter,Fleming,Charles T.,Johns,Kensey,New Castle,,,,1853,21,93
+2660,"Plot,Courses",Truitt,George,"Catts, Pennewill","Thomas, David C.",,Milford,,Mispillion Neck,1855,22,16
+2661,Plot,Lopes,Anthony,Causey,Peter F.,Sussex,,Milford,,1855,22,17
+2662,Will,,,Coulter,Cornelius,,,Milton,,1855,22,18
+2663,Plot,Collins,James B.,Crumpton,John,,,,Crumpton Farm,1855,22,19
+2664,Account,,,Curry,Daniel,,,,,1855,22,20
+2665,Plot,,,Curry,Daniel,,Cedar Creek,,Shawney lands,1855,22,21
+2666,Marriage Contract,Davis,Thomas J.,Burton,Mary M.,Kent,,,,1856,22,33
+2667,"Plot,Courses",Daniel,Elias M.,Watson,C S.,Sussex,,,,1856,22,38
+2668,Field Book,,,"Tharp, Lord","Wm., Robert",,,Heron Town,,1857,22,48
+2669,"Plot, Survey",,,,,,,,Next to J & B  RR,1858,22,49
+2670,Plot,,,"Boyer, Denning, et al","Littleton, John H.",,,Milford,"3rd & rth, Church & North",1858,22,51
+2671,Plot,Mills,Rickards,"Bowman, dec'd, Harrington, et al","Nathaniel, James, Ja.s H.,----,-----",,,,Mispillion Neck,1858,22,50
+2672,Superior Ct. Judgement,Hollis,John,Curry,Daniel,Kent,,,,1858-1861,22,53
+2673,Plot,"Matthews, Layton heirs","Joseph, Joshua S.",Fleming,Charles T.,Sussex,,,"Pathalia, Cypress Hall",1858,22,59
+2674,Field Book,,,Harrington,S.M.,Kent?,,,,1858,22,62
+2675,"Plot, Survey",,,Harrington,S.M.,,Mispillion,,,1858,22,65
+2676,Field Book,,,"Harrington, Hon.",Samuel M.,,Mispillion,,,1858,22,66
+2677,Superior Ct. Order to assess land to be condemed,,,Junction & Breakwater,,Kent,,,,1858,22,69
+2678,Survey,Owens,Frederic J.,Morris,Charles W.,,Mispillion,,,1858,22,73
+2679,Survey,,,Walkers Branch from RR town to Main Branch,,,,,,1858,22,76
+2680,Plot,,,Watson,C. S.,Sussex,,,Walton Farm,1859,22,79
+2681,Plot,,,Watson,C. S.,,,,Walton Farm,1859,22,78
+2682,Plot,Watson,Curtis S.,"Watson, estate","C. S. , B.",Kent,,,"Downsland, Masons land wharf",1858,22,79
+2683,"Plot, Courses",Dorsey,Wm. N. W.,"Hitchens N.,Turner N.,Porter N.","Sarah, Isaac, Solomon",,Milford,,,1859,22,88
+2684,Plot,,,Watson heirs,B.,Sussex,,Milford,,1859,22,94
+2685,Plot,,,Watson,C. S.,Sussex,,,Walton Farm,1859,22,78
+2686,Plot,,,Watson,C. S. B.,Sussex,,,"Big Pond, Walton & Clendaniel land",1859,22,95
+2687,Plot,Watson,Curtis S.,Watson,"C. S. , Bethuel",Sussex,,,Red House,1859,22,96
+2688,Plot  Courses,,,"Watson, Watson heirs","Curtis S., Bethuel",,Cedar Creek,,Browns Choice,1859,22,97
+2689,Bills,J & B RR,,Curry,Daniel,,,,Rehoboth Neck,1860,23,4
+2690,Accounts,,,"Carrey, Carlisle",,,,,,1860,23,5
+2691,Letter,Curry,Daniel,Jay Cooke & Co.,,,,,"Washington, D. C.",1864,23,37
+2692,Contract,"Niles, Doct.",Andrew,Curry,Daniel,,,,Deputy Farm,1864-1865,23,39
+2693,Plot,,,,,,Milford,,Shock Farm,1865,23,44
+2694,Plot,,,Currey dec'd,Daniel,,,Milford,Causey St.,1865,23,46
+2695,Plot,"Vanvorst, Torbert Gen.","Cornelius, A.T.A.",Anderson,John F.,,,,,1866,23,53
+2696,Plot,"Bill, Philps","James H.,Richard H.",Collins,Thomas,Kent,,,,1866,23,55
+2697,Plot,"Causey, Torbert Gen.,Vanvorst","Peter F.,A.T.A.,Cornelius",Fisher,Philip A.,,Milford,,Fisher Farm,1866,23,57
+2698,Deed,Clark,Robert H.,H[e]mmons,Rhodes S.,,,Milford,Front St.,1866,23,59
+2699,Plot,,,Prettyman dec'd,Neh.,,,,,1866,23,62
+2700,Plot,Barber,Hiram,Causey,"F., G. W.",,Cedar Creek,,Cedar Neck,1867,23,66
+2701,Plot,,,Draper Esq.,Lemuel,,,,Slaughter Neck,1867,23,68
+2702,Plot,"Gilchrist, Kendall, Draper","James B.,C.C. [cuy],L.",Causey,John W.,Sussex,,,,"1868,1869",23,75
+2703,Plot,"Causey, Jr.",Peter F.,"Causey, Sr.",Peter F.,Sussex,,Milford,,1868,23,76
+2704,"Deed, Plot","Stayton,Davis","David B.,N",Johnson,Nathaniel,,Cedar Creek,,Mifflin Land,1868,23,78
+2705,"Tax List, Assessment",,,,,,Cedar Creek,,,1869,23,79
+2706,Plot,,,Davis dec'd et al,Nathaniel,Kent,,Milford,"Lots, Board Yard, Pottery, Wharf, hotel",1869,23,81
+2707,Plot,"Draper, Rusell","Lemuel, George","White, Scribner","George W.,Wm.A.",,,So. Milford,,1870,23,87
+2708,Plot,Causey,"John W., P.F.","Griffith,Carpenter","Wm, Issac",,Cedar Creek,,,"1871,1873",23,92
+2709,"Survey, Plot",,,Church Ave.,,Sussex,,Milford,new street,1873,23,99
+2710,Plot,Causey,P.F.,Causey,John W.,,Cedar Creek,,,1873,23,100
+2711,"Plot, Courses",Barber,Hiram,Causey,P.F.,Sussex,,Milford,Steam Saw Mill,1874,24,1
+2712,Road Papers,,,,,,,Milford,Beginning in South Milford,after 1874,24,2
+2713,Book,,,,Ella,,,,Scrap Book,1974,24,6
+2714,Survey,,,"Clendaniel, Ingram,Pierce","William,Robert W.,William",,,,,1876,24,12
+2715,Letter,Davis Esq.,T. J.,Hazzard,Jno. C.,,,Milton,,1876,24,13
+2716,Survey,Greer,George S.,Causey,Peter F.,,,Milford,Foundry,1877,24,14
+2717,Song,,,Liberty Tree,,,,,Copy of the song,1877,24,15
+2718,Plot,,,Barber,H.,,,,So. Milford,1878,24,16
+2719,Survey,,,State Road,,,,,Milford to Frederica,1879,24,31
+2720,Plot,,,Carlisle,M.R.,Sussex,,Milford,Building Lots,1880,24,34
+2721,Plot,"Burton, alias Shockley,negroe","John H.,Zed",Carpenter,R.M.,Kent,,Milford,Dewaile house lot,1880,24,35
+2722,"Plot, Courses",Townsend,Theadore,Carpenter,Robert M.,Kent,,Milford,,1880,24,36
+2723,Bond,,,Redden,John,Kent,Milford,,,1880,24,40
+2724,Survey,,,"Clark Dr.,Noel","R. A., Luther E.",Kent,,Milford,,1882,24,49
+2725,"Plot, Leasee",Williams,Robert H.,Coats,Rachel E.,Sussex,,Milford,,1882,24,50
+2726,Plot,Watson,Joseph Capt.,Burdeck,Royal S.,,Cedar Creek,,,1883,24,58
+2727,"Field Book, Accounts",,,Rickard,Frank,Kent,,N. Milford,Street Work,1883-1859,24,61
+2728,Bond,Sharp,William W.,Truitt,George W.,,Nanticoke,,,1884,24,67
+2729,Deed,Davis,"William P, Anna Y, Benjamin F, Herman S.",Davis,Robert P.,,Cedar Creek,,,1901,24,87
+2730,Newspaper Clippings,,,Palmer Gen dec'd,William,,,,,1909,24,90
