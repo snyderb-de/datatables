@@ -1,0 +1,3000 @@
+{
+"data":[
+  {
+    "ID": 2,
+    "Subject": "Agricultural",
+    "Sub-Category": "Museum",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 1,
+    "Subject": "Agriculture",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 3,
+    "Subject": "Allee",
+    "Sub-Category": "Building",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 4,
+    "Subject": "Alleen",
+    "Sub-Category": "Building - Green Storehouse",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 5,
+    "Subject": "Amish",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 6,
+    "Subject": "Annapolis",
+    "Sub-Category": "Maryland",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 8,
+    "Subject": "Architecture",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 7,
+    "Subject": "Argall, Samuel",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 9,
+    "Subject": "Arthurs, Stanley",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 10,
+    "Subject": "Arthurs, Stanley M.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 14,
+    "Subject": "Arts",
+    "Sub-Category": "Performing",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 13,
+    "Subject": "Arts",
+    "Sub-Category": "Literary",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 12,
+    "Subject": "Arts",
+    "Sub-Category": "Graphic",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 11,
+    "Subject": "Arts and Crafts",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 15,
+    "Subject": "Baptist Church",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 16,
+    "Subject": "Barratt's",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 17,
+    "Subject": "Bassett, Richard",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 18,
+    "Subject": "Battleship",
+    "Sub-Category": "Delaware",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 19,
+    "Subject": "Bayard",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 20,
+    "Subject": "Bedford, Gunning, Jr.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 21,
+    "Subject": "Bells",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 22,
+    "Subject": "Belmont Hall",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 27,
+    "Subject": "Bicentennial",
+    "Sub-Category": "Dover",
+    "Year": 1987,
+    "Barcode": 487158
+  },
+  {
+    "ID": 32,
+    "Subject": "Bicentennial",
+    "Sub-Category": "Park/Liberty",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 31,
+    "Subject": "Bicentennial",
+    "Sub-Category": "Jefferson Foundation Meetings",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 30,
+    "Subject": "Bicentennial",
+    "Sub-Category": "",
+    "Year": 1997,
+    "Barcode": 487158
+  },
+  {
+    "ID": 28,
+    "Subject": "Bicentennial",
+    "Sub-Category": "Return Day",
+    "Year": "1986-1987",
+    "Barcode": 487158
+  },
+  {
+    "ID": 26,
+    "Subject": "Bicentennial",
+    "Sub-Category": "Annapolis",
+    "Year": 1987,
+    "Barcode": 487158
+  },
+  {
+    "ID": 25,
+    "Subject": "Bicentennial",
+    "Sub-Category": "A.M. Bar Association",
+    "Year": 1987,
+    "Barcode": 487158
+  },
+  {
+    "ID": 24,
+    "Subject": "Bicentennial",
+    "Sub-Category": "",
+    "Year": 1986,
+    "Barcode": 487158
+  },
+  {
+    "ID": 23,
+    "Subject": "Bicentennial",
+    "Sub-Category": "",
+    "Year": 1976,
+    "Barcode": 487158
+  },
+  {
+    "ID": 29,
+    "Subject": "Bicentennial",
+    "Sub-Category": "",
+    "Year": "1988-1992",
+    "Barcode": 487158
+  },
+  {
+    "ID": 410,
+    "Subject": "Bissell, Emily",
+    "Sub-Category": "",
+    "Year": "1979-1986",
+    "Barcode": 487157
+  },
+  {
+    "ID": 33,
+    "Subject": "Blacks",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 424,
+    "Subject": "Blue Coat Inn",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 34,
+    "Subject": "Book Reviews",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 36,
+    "Subject": "Boundaries",
+    "Sub-Category": "Bulge, Horn, Wedge",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 42,
+    "Subject": "Boundaries",
+    "Sub-Category": "Trans-Peninsular Line",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 41,
+    "Subject": "Boundaries",
+    "Sub-Category": "Story of PA-MD-DE (George & Virginia Schaun)",
+    "Year": 1963,
+    "Barcode": 487158
+  },
+  {
+    "ID": 40,
+    "Subject": "Boundaries",
+    "Sub-Category": "Snapshots",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 39,
+    "Subject": "Boundaries",
+    "Sub-Category": "Newsclippings",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 35,
+    "Subject": "Boundaries",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 37,
+    "Subject": "Boundaries",
+    "Sub-Category": "Delaware's Now and Then",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 392,
+    "Subject": "Boundaries",
+    "Sub-Category": "Penn's Claim",
+    "Year": "1789-1814",
+    "Barcode": 487166
+  },
+  {
+    "ID": 396,
+    "Subject": "Boundaries",
+    "Sub-Category": "Pea Patch Island Case",
+    "Year": "1847-1848",
+    "Barcode": 487166
+  },
+  {
+    "ID": 397,
+    "Subject": "Boundaries",
+    "Sub-Category": "New Jersey vs Delaware",
+    "Year": 1919,
+    "Barcode": 487166
+  },
+  {
+    "ID": 394,
+    "Subject": "Boundaries",
+    "Sub-Category": "Deed to Lower Delaware",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 402,
+    "Subject": "Boundaries",
+    "Sub-Category": "Morris, Jacob Giles",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 391,
+    "Subject": "Boundaries",
+    "Sub-Category": "Penn Family",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 38,
+    "Subject": "Boundaries",
+    "Sub-Category": "Intersection Stone \"Wedgestone",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 43,
+    "Subject": "Boundary",
+    "Sub-Category": "Markers",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 44,
+    "Subject": "Bradford City",
+    "Sub-Category": "Rev. Thomas B. Bradford",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 45,
+    "Subject": "Bryans",
+    "Sub-Category": "Bottles",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 46,
+    "Subject": "Buckson, David Penrose",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 47,
+    "Subject": "Bullen",
+    "Sub-Category": "Building",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 48,
+    "Subject": "Camden",
+    "Sub-Category": "Delaware",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 65,
+    "Subject": "Cannon",
+    "Sub-Category": "Genealogy",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 58,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "New England Historic Genealogical Society",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 49,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 50,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "",
+    "Year": 1989,
+    "Barcode": 487158
+  },
+  {
+    "ID": 51,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "Annie and the Stars of Many Colors (Barb. Welther)",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 52,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "Annie and the Stars of Many Colors (By JCR)",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 53,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "Delaware Public Archives",
+    "Year": "",
+    "Barcode": 487158
+  },
+  {
+    "ID": 54,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "Dover Public Library",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 55,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "And Family",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 57,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "Bureau of Museums & Historic Sites, DHCA",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 63,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "Welther, Barbara",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 56,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "Mt. Cuba",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 64,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "Wesley United Methodist Church",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 62,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "University of Delaware",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 61,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "Photo Enlargements",
+    "Year": 1989,
+    "Barcode": 487159
+  },
+  {
+    "ID": 60,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "Parker Library Wesley College",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 59,
+    "Subject": "Cannon, Annie Jump",
+    "Sub-Category": "Newsclippings",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 66,
+    "Subject": "Cannon, William",
+    "Sub-Category": "Governor",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 67,
+    "Subject": "Cannon, Wilson Lee",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 68,
+    "Subject": "Cannon's Ferry",
+    "Sub-Category": "And Patty",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 69,
+    "Subject": "Capitol Hotel",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 70,
+    "Subject": "Capitol Square",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 71,
+    "Subject": "Castle, Michael",
+    "Sub-Category": "Governor",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 72,
+    "Subject": "Century Club",
+    "Sub-Category": "Dover",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 73,
+    "Subject": "Chambers, Joseph",
+    "Sub-Category": "Green Stone House (Cannery)",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 74,
+    "Subject": "Chancery Court",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 75,
+    "Subject": "Charles II, King of England",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 407,
+    "Subject": "Charter",
+    "Sub-Category": "Presentation - J. Earnest Smith",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 393,
+    "Subject": "Charter",
+    "Sub-Category": "Newsclippings re Presentation",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 398,
+    "Subject": "Charter",
+    "Sub-Category": "Solitude",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 399,
+    "Subject": "Charter",
+    "Sub-Category": "Activities involving Staff",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 400,
+    "Subject": "Charter",
+    "Sub-Category": "Pennock, Caroline M.",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 79,
+    "Subject": "Charter",
+    "Sub-Category": "Presentation Booklet",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 403,
+    "Subject": "Charter",
+    "Sub-Category": "Colonial Dames",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 409,
+    "Subject": "Charter",
+    "Sub-Category": "Miscellaneous",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 406,
+    "Subject": "Charter",
+    "Sub-Category": "Leon deValinger",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 390,
+    "Subject": "Charter",
+    "Sub-Category": "Presentation & Photo Portraits",
+    "Year": 1987,
+    "Barcode": 487166
+  },
+  {
+    "ID": 76,
+    "Subject": "Charter",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 395,
+    "Subject": "Charter",
+    "Sub-Category": "Treaty of 1873",
+    "Year": 1873,
+    "Barcode": 487166
+  },
+  {
+    "ID": 77,
+    "Subject": "Charter",
+    "Sub-Category": "Deed, 2 Leases",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 386,
+    "Subject": "Charter",
+    "Sub-Category": "Sarah Wistar Miller",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 388,
+    "Subject": "Charter",
+    "Sub-Category": "Copies",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 78,
+    "Subject": "Charter",
+    "Sub-Category": "Maps",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 404,
+    "Subject": "Charter",
+    "Sub-Category": "Dinner Bell",
+    "Year": 1987,
+    "Barcode": 487166
+  },
+  {
+    "ID": 80,
+    "Subject": "Charters",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 81,
+    "Subject": "Chesapeake and Delaware Canal & Bridge",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 427,
+    "Subject": "Chesapeake and Delaware Canal Bridge Opening",
+    "Sub-Category": "",
+    "Year": 1995,
+    "Barcode": 487159
+  },
+  {
+    "ID": 83,
+    "Subject": "Christ Church",
+    "Sub-Category": "Laurel",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 82,
+    "Subject": "Christ Church",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 84,
+    "Subject": "Christie, Andrew D.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 85,
+    "Subject": "Christmas in Delaware",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 86,
+    "Subject": "Church/State",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 87,
+    "Subject": "Citizenship, Council for the Advancement of",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 88,
+    "Subject": "Citro/Karkosak",
+    "Sub-Category": "Delaware the First State",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 89,
+    "Subject": "Civil War",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 90,
+    "Subject": "Civilian Conservation Corps. Plaque",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 91,
+    "Subject": "Clayton, John M.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 92,
+    "Subject": "Coastal Zone Act",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 93,
+    "Subject": "Codes/Charters and Freedom",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 94,
+    "Subject": "Compensated Emancipation",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 95,
+    "Subject": "Conservation",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 97,
+    "Subject": "Constitution",
+    "Sub-Category": "Bill of Rights",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 96,
+    "Subject": "Constitution",
+    "Sub-Category": "Bicentennial of the United States",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 100,
+    "Subject": "Constitution",
+    "Sub-Category": "United States",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 101,
+    "Subject": "Constitution",
+    "Sub-Category": "United States- Bill of Rights",
+    "Year": 1991,
+    "Barcode": 487159
+  },
+  {
+    "ID": 102,
+    "Subject": "Constitution",
+    "Sub-Category": "United States- Constitution Day",
+    "Year": 1990,
+    "Barcode": 487159
+  },
+  {
+    "ID": 103,
+    "Subject": "Constitution",
+    "Sub-Category": "United States- Mini Page",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 104,
+    "Subject": "Constitution",
+    "Sub-Category": "Week",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 98,
+    "Subject": "Constitution Park",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 99,
+    "Subject": "Constitution Place",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 105,
+    "Subject": "Constitutional Compass Rose",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 106,
+    "Subject": "Constitutional Period",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487159
+  },
+  {
+    "ID": 107,
+    "Subject": "Cooch's Bridge",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 109,
+    "Subject": "Corporations in Delaware",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 108,
+    "Subject": "Courts",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 110,
+    "Subject": "Daughters of the American Revelution",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 112,
+    "Subject": "de la Warr",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 111,
+    "Subject": "Declaration of Independence",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 114,
+    "Subject": "Delaware",
+    "Sub-Category": "Before 1600",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 113,
+    "Subject": "Delaware",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 115,
+    "Subject": "Delaware Bay",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 116,
+    "Subject": "Delaware Boundaries",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 118,
+    "Subject": "Delaware Day",
+    "Sub-Category": "",
+    "Year": 1987,
+    "Barcode": 487160
+  },
+  {
+    "ID": 117,
+    "Subject": "Delaware Day",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 119,
+    "Subject": "Delaware Folklife Project",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 120,
+    "Subject": "Delaware Geological Survey",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 121,
+    "Subject": "Delaware Heritage Commission",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 122,
+    "Subject": "Delaware History",
+    "Sub-Category": "4th grade - Brian Schilling",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 408,
+    "Subject": "Delaware History",
+    "Sub-Category": "Grade 5 Reilly Brown School",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 123,
+    "Subject": "Delaware Humanities Forum",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 124,
+    "Subject": "Delaware Laws",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 125,
+    "Subject": "Delaware Maps",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 126,
+    "Subject": "Delaware Markers",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 127,
+    "Subject": "Delaware Memorial Bridge",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 128,
+    "Subject": "Delaware Movies",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 129,
+    "Subject": "Delaware Presidents",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 130,
+    "Subject": "Delaware River and Bay",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 131,
+    "Subject": "Delaware Seal",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 132,
+    "Subject": "Delaware Stamp",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 133,
+    "Subject": "Delaware State College",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 134,
+    "Subject": "Delaware State Museums",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 135,
+    "Subject": "Delaware State Visitors Center",
+    "Sub-Category": "Sewell C. Biggs Museum of DE, Decorative Arts",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 136,
+    "Subject": "Delaware Symbols and Songs",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 137,
+    "Subject": "Delaware Trivia Questions",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 138,
+    "Subject": "Delmarva",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 139,
+    "Subject": "Dickinson Plantation",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 140,
+    "Subject": "Dill, Raymond",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 141,
+    "Subject": "Dover",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 142,
+    "Subject": "Dover Air Force Base",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 145,
+    "Subject": "Dover City Council",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 146,
+    "Subject": "Dover Days",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 148,
+    "Subject": "Dover Flower Beds",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 149,
+    "Subject": "Dover Geological Survey",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 150,
+    "Subject": "Dover Light Infantry",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 411,
+    "Subject": "Dover Opera House",
+    "Sub-Category": "",
+    "Year": 1905,
+    "Barcode": 487161
+  },
+  {
+    "ID": 151,
+    "Subject": "Dover Post",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 152,
+    "Subject": "Dover Public Library",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 153,
+    "Subject": "Dover Tricentennial View",
+    "Sub-Category": "",
+    "Year": 1985,
+    "Barcode": 487161
+  },
+  {
+    "ID": 143,
+    "Subject": "Dover, City of",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 144,
+    "Subject": "Dover, City of",
+    "Sub-Category": "Downtown Development Committee",
+    "Year": "",
+    "Barcode": 487160
+  },
+  {
+    "ID": 147,
+    "Subject": "Dover, DE and Dover England",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 154,
+    "Subject": "Dow, Lorenzo",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 156,
+    "Subject": "du Pont, Pierre S., IV (Pete)",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 155,
+    "Subject": "du Ponts",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 157,
+    "Subject": "Dutch",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 158,
+    "Subject": "Eagle Tavern",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 160,
+    "Subject": "Education",
+    "Sub-Category": "Teachers",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 159,
+    "Subject": "Education",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 162,
+    "Subject": "Election Districts",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 161,
+    "Subject": "Electorial College",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 163,
+    "Subject": "Farmers/Girardi/Mellon Banks",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 164,
+    "Subject": "Fenimore, Harvey",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 165,
+    "Subject": "Ferry (Ferries)",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 166,
+    "Subject": "Financial Center Development",
+    "Sub-Category": "Act of 1981",
+    "Year": 1981,
+    "Barcode": 487161
+  },
+  {
+    "ID": 168,
+    "Subject": "Fisher and Bockman",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 167,
+    "Subject": "Fisher, George Purnell",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 169,
+    "Subject": "Flag",
+    "Sub-Category": "United States",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 170,
+    "Subject": "Flora and Fauna",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 171,
+    "Subject": "Fort Christiana",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 172,
+    "Subject": "Fort Delaware",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 173,
+    "Subject": "Frank, William Penn (Bill)",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 174,
+    "Subject": "Frear, J. Allen",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 175,
+    "Subject": "Friends School",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 176,
+    "Subject": "Fulton",
+    "Sub-Category": "",
+    "Year": "1865-1900",
+    "Barcode": 487161
+  },
+  {
+    "ID": 177,
+    "Subject": "Gardner, John, Dr.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 412,
+    "Subject": "General Assembly",
+    "Sub-Category": "135th",
+    "Year": 1989,
+    "Barcode": 487161
+  },
+  {
+    "ID": 178,
+    "Subject": "Ghosts",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 179,
+    "Subject": "Goodier",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 182,
+    "Subject": "Governor Boggs",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 183,
+    "Subject": "Governor Tribbitt",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 180,
+    "Subject": "Governors",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 181,
+    "Subject": "Governors Office",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 184,
+    "Subject": "Grand Opera House",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 185,
+    "Subject": "Green, The",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 186,
+    "Subject": "Green, The",
+    "Sub-Category": "Poison Candy Case",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 187,
+    "Subject": "Green, The",
+    "Sub-Category": "President Bush",
+    "Year": 1992,
+    "Barcode": 487161
+  },
+  {
+    "ID": 384,
+    "Subject": "Guide Book",
+    "Sub-Category": "Walking Tour of Victorian Dover",
+    "Year": "",
+    "Barcode": 487167
+  },
+  {
+    "ID": 382,
+    "Subject": "Guides Notebooks",
+    "Sub-Category": "School Tours",
+    "Year": 1986,
+    "Barcode": 487167
+  },
+  {
+    "ID": 383,
+    "Subject": "Guides Notebooks",
+    "Sub-Category": "Old Dover Historic District",
+    "Year": "1983; 1985-86; 1987; 1989",
+    "Barcode": 487167
+  },
+  {
+    "ID": 381,
+    "Subject": "Guides Notebooks",
+    "Sub-Category": "Old Dover Historic District",
+    "Year": 1990,
+    "Barcode": 487167
+  },
+  {
+    "ID": 188,
+    "Subject": "Hall of Records",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 189,
+    "Subject": "Hancock, Harold",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 190,
+    "Subject": "Hart",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 389,
+    "Subject": "Heritage Trail",
+    "Sub-Category": "Miscellaneous, Notes",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 413,
+    "Subject": "Highways",
+    "Sub-Category": "",
+    "Year": "1983-1986",
+    "Barcode": 487161
+  },
+  {
+    "ID": 191,
+    "Subject": "Historical & Cultural Affairs",
+    "Sub-Category": "Report",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 414,
+    "Subject": "History - I Remember When",
+    "Sub-Category": "",
+    "Year": 1980,
+    "Barcode": 487161
+  },
+  {
+    "ID": 192,
+    "Subject": "Hoffecker, Carol",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 193,
+    "Subject": "Holloway, Elizabeth",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 194,
+    "Subject": "Hughes House",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 195,
+    "Subject": "Hundreds",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 196,
+    "Subject": "Indians",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 415,
+    "Subject": "Industries",
+    "Sub-Category": "",
+    "Year": "1927-1940",
+    "Barcode": 487161
+  },
+  {
+    "ID": 197,
+    "Subject": "Iron Hill",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 198,
+    "Subject": "Island Field Site",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487161
+  },
+  {
+    "ID": 199,
+    "Subject": "Jews",
+    "Sub-Category": "",
+    "Year": 1982,
+    "Barcode": 487162
+  },
+  {
+    "ID": 416,
+    "Subject": "Jobs for Delaware Graduates",
+    "Sub-Category": "",
+    "Year": 1982,
+    "Barcode": 487162
+  },
+  {
+    "ID": 200,
+    "Subject": "Johns, Kensey",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 201,
+    "Subject": "Johnson, E. Reeves",
+    "Sub-Category": "Memorial Museum-Rotary",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 202,
+    "Subject": "Jones House-Wesley College",
+    "Sub-Category": "Green Serpentine Stone",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 417,
+    "Subject": "Kent Christian College",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 203,
+    "Subject": "Kent County",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 204,
+    "Subject": "Kent County Administration Building",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 205,
+    "Subject": "Kent County Court House",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 418,
+    "Subject": "Kent General Hospital",
+    "Sub-Category": "",
+    "Year": "1984-1992",
+    "Barcode": 487162
+  },
+  {
+    "ID": 206,
+    "Subject": "Kings Highway",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 207,
+    "Subject": "Ku Klux Klan",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 208,
+    "Subject": "Landmark",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 401,
+    "Subject": "League of Women Voters",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 209,
+    "Subject": "Lefevre House",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 210,
+    "Subject": "Lefevre House",
+    "Sub-Category": "D. Alty.",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 211,
+    "Subject": "Lefevre House",
+    "Sub-Category": "Jackson, \"The Richard Wilson House",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 215,
+    "Subject": "Legislative Hall",
+    "Sub-Category": "Governor's Portraits",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 214,
+    "Subject": "Legislative Hall",
+    "Sub-Category": "General Assembly",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 213,
+    "Subject": "Legislative Hall",
+    "Sub-Category": "Art",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 216,
+    "Subject": "Legislative Hall",
+    "Sub-Category": "Jack Lewis Art",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 217,
+    "Subject": "Legislative Hall",
+    "Sub-Category": "Portraits",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 212,
+    "Subject": "Legislative Hall",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 218,
+    "Subject": "Lewes",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 219,
+    "Subject": "Lewis, Jack E.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 220,
+    "Subject": "Liberty Bell",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 221,
+    "Subject": "License Plates",
+    "Sub-Category": "Auto",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 222,
+    "Subject": "Lincoln, A.",
+    "Sub-Category": "Delaware",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 224,
+    "Subject": "Loockerman House",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 225,
+    "Subject": "Loockerman Street",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 223,
+    "Subject": "Loockerman-Bradford",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 226,
+    "Subject": "MacDonough, Commodore",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 227,
+    "Subject": "MacDonough, Thomas",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 229,
+    "Subject": "Magna Carta",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 230,
+    "Subject": "Manter House",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 231,
+    "Subject": "Maps",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 232,
+    "Subject": "Maps",
+    "Sub-Category": "Royal Charter",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 233,
+    "Subject": "Maryland",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 234,
+    "Subject": "Mason & Dixon",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 235,
+    "Subject": "Mason & Dixon",
+    "Sub-Category": "Stargazers Stone",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 228,
+    "Subject": "McDowell-Collins",
+    "Sub-Category": "Storehouse",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 236,
+    "Subject": "Mifflin House",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 237,
+    "Subject": "Mifflin, Walker",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 238,
+    "Subject": "Milford",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 419,
+    "Subject": "Miller, Jim",
+    "Sub-Category": "",
+    "Year": 1986,
+    "Barcode": 487162
+  },
+  {
+    "ID": 387,
+    "Subject": "Miller, Sarah Wistar",
+    "Sub-Category": "Photos",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 239,
+    "Subject": "Miller, Sarah Wistar, Mrs.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 421,
+    "Subject": "Monument in the Marsh (airplane crash near Leipsic",
+    "Sub-Category": "",
+    "Year": "1933, 1996",
+    "Barcode": 487162
+  },
+  {
+    "ID": 240,
+    "Subject": "Moors",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 241,
+    "Subject": "Mott, Lucretia",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 242,
+    "Subject": "Munroe, John",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 243,
+    "Subject": "Murphy House",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 244,
+    "Subject": "Murphy School",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 245,
+    "Subject": "Myers, Orville B.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 246,
+    "Subject": "Nathan, Roger",
+    "Sub-Category": "Mason-Dixon Markers",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 247,
+    "Subject": "National Register",
+    "Sub-Category": "Historic Places",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 248,
+    "Subject": "National Register",
+    "Sub-Category": "Dover Green District",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 249,
+    "Subject": "National Register",
+    "Sub-Category": "Historic Places - Victorian District",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 250,
+    "Subject": "National Register",
+    "Sub-Category": "Historic Places - Victorian Dover Hist. District",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 253,
+    "Subject": "New Castle",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 254,
+    "Subject": "New Castle County",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 255,
+    "Subject": "New Jersey",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 256,
+    "Subject": "New Street School",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 252,
+    "Subject": "Newark High School",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 251,
+    "Subject": "Newark, Delaware",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 420,
+    "Subject": "Octagonal School",
+    "Sub-Category": "",
+    "Year": "1925-1990",
+    "Barcode": 487163
+  },
+  {
+    "ID": 257,
+    "Subject": "Odessa",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 385,
+    "Subject": "Old Dover Historic District",
+    "Sub-Category": "Classes",
+    "Year": "1985-86",
+    "Barcode": 487167
+  },
+  {
+    "ID": 258,
+    "Subject": "O'Neill Building",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 259,
+    "Subject": "Palmer, William J.",
+    "Sub-Category": "General",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 260,
+    "Subject": "Parks, Charles C.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 263,
+    "Subject": "Penn, William",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 405,
+    "Subject": "Pennewill",
+    "Sub-Category": "Governor",
+    "Year": "",
+    "Barcode": 487166
+  },
+  {
+    "ID": 264,
+    "Subject": "Pennewill-McCosh House",
+    "Sub-Category": "State & Div. Street",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 261,
+    "Subject": "Pennsylvania",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 262,
+    "Subject": "Pennsylvania Charter",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 266,
+    "Subject": "People",
+    "Sub-Category": "ABC",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 267,
+    "Subject": "People",
+    "Sub-Category": "DEF",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 268,
+    "Subject": "People",
+    "Sub-Category": "GHI",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 269,
+    "Subject": "People",
+    "Sub-Category": "JKL",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 270,
+    "Subject": "People",
+    "Sub-Category": "M",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 271,
+    "Subject": "People",
+    "Sub-Category": "N-S",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 272,
+    "Subject": "People",
+    "Sub-Category": "T-Z",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 265,
+    "Subject": "People",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 274,
+    "Subject": "People - Dover Post- Difference",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 273,
+    "Subject": "People of Delaware",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 275,
+    "Subject": "Peoples Church",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 276,
+    "Subject": "Peterson, Russell W.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 277,
+    "Subject": "Philadelphia",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 278,
+    "Subject": "Plant & Animal Life",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 279,
+    "Subject": "Playtex",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 280,
+    "Subject": "Poison Candy Case",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 281,
+    "Subject": "Post Office",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 282,
+    "Subject": "Powell, Walter A.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 285,
+    "Subject": "Presidents - U.S.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 283,
+    "Subject": "Press, The",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 284,
+    "Subject": "Presyberterian Church",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 286,
+    "Subject": "Pyle, Howard",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 287,
+    "Subject": "Ratification",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 288,
+    "Subject": "Read, George",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 289,
+    "Subject": "Redding, Louis",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 290,
+    "Subject": "Religion",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 291,
+    "Subject": "Revolutionary War",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 295,
+    "Subject": "Richardson & Robbins",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 296,
+    "Subject": "Richardson Hall",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 292,
+    "Subject": "Richardson Hall",
+    "Sub-Category": "Muriel Schwartz",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 294,
+    "Subject": "Richardson House/Hotel",
+    "Sub-Category": "Gas Works",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 293,
+    "Subject": "Richardson Properties",
+    "Sub-Category": "W.S.F.S. Bldg., Priscilla Black, Fairview Park",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 297,
+    "Subject": "Rickett, Elizabeth Cannon",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487162
+  },
+  {
+    "ID": 298,
+    "Subject": "Ridgely Family",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 299,
+    "Subject": "Ridgely House",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 300,
+    "Subject": "Ridgely, Mabel Lloyd Fisher",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 301,
+    "Subject": "Ridgelys of Delaware and Their Circle",
+    "Sub-Category": "What them befell, M. L. Ridgely",
+    "Year": "",
+    "Barcode": 487163
+  },
+  {
+    "ID": 302,
+    "Subject": "Robbins  Hose Company",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 303,
+    "Subject": "Robbins, James Washington",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 304,
+    "Subject": "Rockwood",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 309,
+    "Subject": "Rodney, Caesar",
+    "Sub-Category": "Statue (Rodney Square)",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 305,
+    "Subject": "Rodney, Caesar",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 308,
+    "Subject": "Rodney, Caesar",
+    "Sub-Category": "SAR - Christ Church Com.",
+    "Year": 1982,
+    "Barcode": 487164
+  },
+  {
+    "ID": 307,
+    "Subject": "Rodney, Caesar",
+    "Sub-Category": "Letter",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 306,
+    "Subject": "Rodney, Caesar",
+    "Sub-Category": "Musical Drama by Pauline Citro",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 310,
+    "Subject": "Rodney, Caesar A.",
+    "Sub-Category": "",
+    "Year": "1772-1834",
+    "Barcode": 487164
+  },
+  {
+    "ID": 311,
+    "Subject": "Rose Cottage",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 312,
+    "Subject": "Roth, William",
+    "Sub-Category": "Senator",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 428,
+    "Subject": "Row, Howard",
+    "Sub-Category": "",
+    "Year": "1953-1990",
+    "Barcode": 487164
+  },
+  {
+    "ID": 313,
+    "Subject": "Saulsbury Family",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 314,
+    "Subject": "Scharf",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 315,
+    "Subject": "Secession",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 316,
+    "Subject": "Separation Day",
+    "Sub-Category": "",
+    "Year": 1776,
+    "Barcode": 487164
+  },
+  {
+    "ID": 429,
+    "Subject": "Separation Day",
+    "Sub-Category": "Other colonies",
+    "Year": 1993,
+    "Barcode": 487164
+  },
+  {
+    "ID": 317,
+    "Subject": "Sico Foundation",
+    "Sub-Category": "Joe Moore",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 318,
+    "Subject": "Smith, J. Earnest",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 319,
+    "Subject": "Smithers, Nathaniel Barratt",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 320,
+    "Subject": "Smithers/Shakespeare/Massey",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 321,
+    "Subject": "Smyrna",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 322,
+    "Subject": "South State Street",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 323,
+    "Subject": "Space Suits - Delaware",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 324,
+    "Subject": "Spence's Bazaar",
+    "Sub-Category": "",
+    "Year": 2000,
+    "Barcode": 487164
+  },
+  {
+    "ID": 325,
+    "Subject": "St. Jones River",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 326,
+    "Subject": "State Buildings",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 327,
+    "Subject": "State House",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 328,
+    "Subject": "State Parks",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 329,
+    "Subject": "States, U.S.A.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 330,
+    "Subject": "Statistics of Delaware",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 331,
+    "Subject": "Statues",
+    "Sub-Category": "Caesar Rodney and John M. Clayton",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 332,
+    "Subject": "Supreme Court",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 333,
+    "Subject": "Supreme Court - U.S.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 334,
+    "Subject": "Sussex County",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 335,
+    "Subject": "Swedes",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 336,
+    "Subject": "Sykes House",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 337,
+    "Subject": "Taber, William S.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 338,
+    "Subject": "Tatnall Building",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 339,
+    "Subject": "Teachers Institute",
+    "Sub-Category": "Programs/Directories",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 340,
+    "Subject": "Tercentenary",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 341,
+    "Subject": "Tiffany, Louis C.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 342,
+    "Subject": "Town Crier",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 343,
+    "Subject": "Townsend Building",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 344,
+    "Subject": "Townsend, George A.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 345,
+    "Subject": "Transportation",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 346,
+    "Subject": "Treaty of Paris",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 347,
+    "Subject": "Trees",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 348,
+    "Subject": "Tricentennial History of Dover",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 349,
+    "Subject": "U.S. Capitol",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 351,
+    "Subject": "U.S. History",
+    "Sub-Category": "",
+    "Year": 1985,
+    "Barcode": 487164
+  },
+  {
+    "ID": 350,
+    "Subject": "U.S. History - Early",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 353,
+    "Subject": "University of Delaware",
+    "Sub-Category": "4th The Green, Dover",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 352,
+    "Subject": "University of Delaware",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 354,
+    "Subject": "Victorian Dover Historic District",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 425,
+    "Subject": "Victorian Dover Historic District",
+    "Sub-Category": "140 South State Street, W. T. Smithers",
+    "Year": "1985-1986",
+    "Barcode": 487164
+  },
+  {
+    "ID": 426,
+    "Subject": "Victorian Dover Historic District",
+    "Sub-Category": "34 North State Street, Wesley College President's House",
+    "Year": "1989-1990",
+    "Barcode": 487164
+  },
+  {
+    "ID": 355,
+    "Subject": "Victorian Dover Historic District",
+    "Sub-Category": "Development of Tour",
+    "Year": "1984-1985",
+    "Barcode": 487164
+  },
+  {
+    "ID": 356,
+    "Subject": "Victorian Dover Historic District",
+    "Sub-Category": "Guide Training Classes",
+    "Year": 1985,
+    "Barcode": 487164
+  },
+  {
+    "ID": 357,
+    "Subject": "Vining Family",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487164
+  },
+  {
+    "ID": 358,
+    "Subject": "Voyager",
+    "Sub-Category": "",
+    "Year": 1986,
+    "Barcode": 487164
+  },
+  {
+    "ID": 359,
+    "Subject": "War of 1812",
+    "Sub-Category": "",
+    "Year": 1812,
+    "Barcode": 487165
+  },
+  {
+    "ID": 360,
+    "Subject": "Wars",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 361,
+    "Subject": "Washington, George",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 362,
+    "Subject": "Water Street",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 363,
+    "Subject": "Waterways",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 364,
+    "Subject": "Wesley College",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 365,
+    "Subject": "Wesley United Methodist Church",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 366,
+    "Subject": "Williams, John",
+    "Sub-Category": "Senator",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 367,
+    "Subject": "Wilmington",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 368,
+    "Subject": "Wilmington Conference Academy",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 369,
+    "Subject": "Wilson's Auction",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 370,
+    "Subject": "Women",
+    "Sub-Category": "Delaware Women Remembered",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 371,
+    "Subject": "Women's Hall of Fame",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 423,
+    "Subject": "Woodburn",
+    "Sub-Category": "The Pride of Delaware,\" Country magazine",
+    "Year": 1985,
+    "Barcode": 487165
+  },
+  {
+    "ID": 374,
+    "Subject": "Woodburn",
+    "Sub-Category": "Grounds",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 378,
+    "Subject": "Woodburn",
+    "Sub-Category": "Halloween (Haunted House)",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 377,
+    "Subject": "Woodburn",
+    "Sub-Category": "Hart",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 375,
+    "Subject": "Woodburn",
+    "Sub-Category": "Hall House",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 373,
+    "Subject": "Woodburn",
+    "Sub-Category": "Furnishings",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 372,
+    "Subject": "Woodburn",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 376,
+    "Subject": "Woodburn",
+    "Sub-Category": "Governor's House",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 379,
+    "Subject": "Y. M. C. A.",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  },
+  {
+    "ID": 380,
+    "Subject": "Zwaanendael",
+    "Sub-Category": "",
+    "Year": "",
+    "Barcode": 487165
+  }
+]
+}
