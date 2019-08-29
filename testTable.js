@@ -104,18 +104,13 @@ jQuery(document).ready(function() {
     columns: [
       { data: "Family Name" },
       { data: "B/C #" },
-      { data: "# on Bible" },
-      { data: "Vol. & Pg. #" },
+      { data: "Bible #" },
+      { data: "Vol & Pg #" },
       { data: "Location" }
     ],
 
     order: [[0, "asc"]],
-    columnDefs: [
-      {
-        type: "html-num-fmt",
-        targets: [1]
-      }
-    ]
+    columnDefs: [{ type: "html-num-fmt", targets: [1] }]
   });
 
   // keep this inside the doc ready for this table to isolate the function
