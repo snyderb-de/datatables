@@ -152,3 +152,65 @@ jQuery(document).ready(function() {
     }).column.adjust();
   });
 });
+
+jQuery(document).ready(function() {
+  // General Reference Pamphlet Records
+  // function test
+  var table = jQuery("#pamphlet-collection-dt").DataTable({
+    ajax:
+      "https://archivesfiles.delaware.gov/dpaDataTables/pamphletCollection.txt",
+    responsive: true,
+    scrollY: false,
+    columns: [
+      { data: "Subject" },
+      { data: "Author" },
+      { data: "Title" },
+      { data: "Date" },
+      { data: "Box #" },
+      { data: "Barcode" }
+    ],
+
+    order: [[0, "asc"]],
+    columnDefs: [{ type: "html-num-fmt", targets: [1] }]
+  });
+
+  // keep this inside the doc ready for this table to isolate the function
+  jQuery(function(e) {
+    jQuery.fn.DataTable.tables({
+      visible: true,
+      api: true
+    }).column.adjust();
+  });
+});
+
+jQuery(document).ready(function() {
+  // General Reference Records
+  // function test
+  var table = jQuery("#generalReference-collection-dt").DataTable({
+    ajax:
+      "https://archivesfiles.delaware.gov/dpaDataTables/generalReferenceCollection.txt",
+    responsive: true,
+    scrollY: false,
+    columns: [
+      { data: "Input Order" },
+      { data: "Gen Ref" },
+      { data: "Title" },
+      { data: "Desc." },
+      { data: "Dates" },
+      { data: "Folder" },
+      { data: "Keywords" },
+      { data: "Notes" }
+    ],
+
+    order: [[0, "asc"]],
+    columnDefs: [{ type: "html-num-fmt", targets: [1] }]
+  });
+
+  // keep this inside the doc ready for this table to isolate the function
+  jQuery(function(e) {
+    jQuery.fn.DataTable.tables({
+      visible: true,
+      api: true
+    }).column.adjust();
+  });
+});
