@@ -195,7 +195,7 @@ jQuery(document).ready(function() {
       { data: "Input Order" },
       { data: "Gen Ref" },
       { data: "Title" },
-      { data: "Desc." },
+      { data: "Desc" },
       { data: "Dates" },
       { data: "Folder" },
       { data: "Keywords" },
