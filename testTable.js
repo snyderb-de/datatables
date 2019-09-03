@@ -214,3 +214,34 @@ jQuery(document).ready(function() {
     }).column.adjust();
   });
 });
+
+
+jQuery(document).ready(function() {
+  // Manuscript Genealogy Records
+  // function test
+  var table = jQuery("#9225MG-dt").DataTable({
+    ajax:
+      "https://archivesfiles.delaware.gov/dpaDataTables/manuscriptGenealogies-RG9225.txt",
+    responsive: true,
+    scrollY: false,
+    columns: [
+      { data: "Record Group" },
+      { data: "Series" },
+      { data: "Series Name" },
+      { data: "Contents" },
+      { data: "Barcode" },
+      { data: "Notes" }
+    ],
+
+    order: [[0, "asc"]],
+    columnDefs: [{ type: "html-num-fmt", targets: [1] }]
+  });
+
+  // keep this inside the doc ready for this table to isolate the function
+  jQuery(function(e) {
+    jQuery.fn.DataTable.tables({
+      visible: true,
+      api: true
+    }).column.adjust();
+  });
+});
