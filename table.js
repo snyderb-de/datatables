@@ -5,6 +5,9 @@
 // TODO: do we make a ready function for each Table?
 // TODO: will need to add Parent/Child code here and that may require seperate          ready functions
 
+// TODO: wrap all these tables into their own docReadyFunction
+
+
 jQuery(document).ready(function () {
     //Markers Table
     var table = jQuery("#markers-dt").DataTable({
