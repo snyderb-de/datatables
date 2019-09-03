@@ -245,3 +245,29 @@ jQuery(document).ready(function() {
     }).column.adjust();
   });
 });
+
+jQuery(document).ready(function() {
+  // Joseph Brown Turner Index
+  // function test
+  var table = jQuery("#josephBrownTurnerIndex-dt").DataTable({
+    ajax:
+      "https://archivesfiles.delaware.gov/dpaDataTables/josephBrownTurnerIndex.txt",
+    responsive: true,
+    scrollY: false,
+    columns: [
+      { data: "ID" },
+      { data: "Name" }
+    ],
+
+    order: [[0, "asc"]],
+    columnDefs: [{ type: "html-num-fmt", targets: [1] }]
+  });
+
+  // keep this inside the doc ready for this table to isolate the function
+  jQuery(function(e) {
+    jQuery.fn.DataTable.tables({
+      visible: true,
+      api: true
+    }).column.adjust();
+  });
+});
