@@ -7,15 +7,15 @@
 */
 
 /* Xray vision */
-* { background-color: rgba(255,0,0,.2); }
+* { background-color: rgba(255, 111, 111, 0.2); }
 * * { background-color: rgba(0,255,0,.2); }
-* * * { background-color: rgba(0,0,255,.2); }
+* * * { background-color: rgba(112, 112, 126, 0.2); }
 * * * * { background-color: rgba(255,0,255,.2); }
 * * * * * { background-color: rgba(0,255,255,.2); }
-* * * * * * { background-color: rgba(255,255,0,.2); }
+* * * * * * { background-color: rgba(255, 233, 109, 0.431); }
 * * * * * * * { background-color: rgba(255,0,0,.2); }
 * * * * * * * * { background-color: rgba(0,255,0,.2); }
-* * * * * * * * * { background-color: rgba(0,0,255,.2); }
+* * * * * * * * * { background-color: rgba(128, 225, 255, 0.2); }
 
 /* Desktop styles */
 .main-wrapper {
