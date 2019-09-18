@@ -34,7 +34,9 @@ jQuery(document).ready(function () {
         //columnDefs:[{orderable:false, targets:[1]}]
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
+});
 
+jQuery(document).ready(function () {
     //Joint Sunset Committee Table
     var table = jQuery("#jointsunset-dt").DataTable({
         ajax: "https://archivesfiles.delaware.gov/dpaDataTables/jointsunset.txt",
@@ -53,7 +55,9 @@ jQuery(document).ready(function () {
         //columnDefs:[{orderable:false, targets:[1]}]
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
+});
 
+jQuery(document).ready(function () {
     //Governor's Papers Table
     var table = jQuery("#govpapers-dt").DataTable({
         ajax: "https://archivesfiles.delaware.gov/dpaDataTables/govpapers.txt",
@@ -74,7 +78,9 @@ jQuery(document).ready(function () {
         //columnDefs:[{orderable:false, targets:[1]}]
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
+});
 
+jQuery(document).ready(function () {
     //Kent County Probates
     var table = jQuery("#probateskc-dt").DataTable({
         ajax: "https://archivesfiles.delaware.gov/dpaDataTables/probates-kc.txt",
@@ -91,7 +97,9 @@ jQuery(document).ready(function () {
         //columnDefs:[{orderable:false, targets:[1]}]
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
+});
 
+jQuery(document).ready(function () {
     //Naturalizations
     var table = jQuery("#naturalizations-dt").DataTable({
         ajax:
@@ -111,7 +119,9 @@ jQuery(document).ready(function () {
         //columnDefs:[{orderable:false, targets:[1]}]
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
+});
 
+jQuery(document).ready(function () {
     //State Reports
     var table = jQuery("#statereports-dt").DataTable({ // TODO: change this on the site's page ...in the headers
         ajax:
@@ -131,35 +141,33 @@ jQuery(document).ready(function () {
         //columnDefs:[{orderable:false, targets:[1]}]
         columnDefs: [{ type: "html-num-fmt", targets: [1] }]
     });
+});
 
+jQuery(document).ready(function() {
     //DE SAR Table
     var table = jQuery("#deSAR-dt").DataTable({
-        ajax: "https://archivesfiles.delaware.gov/dpaDataTables/deSAR.txt",
-        repsonsive: true,
-        columns: [
-            { data: "National #"},
-            { data: "Solider Surname"},
-            { data: "Solider First Name"},
-            { data: "Solider Suffix"},
-            { data: "State"},
-            { data: "Chapter"},
-            { data: "Service"},
-            { data: "DE Member #"},
-            { data: "DE Surname"},
-            { data: "DE First Name"},
-            { data: "DE Middle Name"},
-            { data: "DE Suffix"}
-        ],
-        order: [
-                [0, "asc"]
-            ],
-            //columnDefs:[{orderable:false, targets:[1]}]
-            columnDefs: [{
-                type: "html-num-fmt",
-                targets: [1]
-            }]
+    ajax: "https://archivesfiles.delaware.gov/dpaDataTables/deSAR.txt",
+    repsonsive: true,
+    columns: [
+        { data: "National #" },
+        { data: "Solider Surname" },
+        { data: "Solider First Name" },
+        { data: "Solider Suffix" },
+        { data: "State" },
+        { data: "Chapter" },
+        { data: "Service" },
+        { data: "DE Member #" },
+        { data: "DE Surname" },
+        { data: "DE First Name" },
+        { data: "DE Middle Name" },
+        { data: "DE Suffix" }
+    ],
+    order: [[0, "asc"]],
+    //columnDefs:[{orderable:false, targets:[1]}]
+    columnDefs: [{type: "html-num-fmt",
+        targets: [1]}]
     });
+});
 
     //Insert another table below
     // ending bracket below here
-});

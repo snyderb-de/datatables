@@ -6,7 +6,8 @@
 *
 */
 
-/* Xray vision */
+/* Xray vision - uncomment to turn on
+
 * { background-color: rgb(255, 111, 111); }
 * * { background-color: rgb(255, 208, 0); }
 * * * { background-color: rgba(251, 248, 48, 0.527); }
@@ -16,6 +17,9 @@
 * * * * * * * { background-color: rgb(255, 0, 0); }
 * * * * * * * * { background-color: rgb(0, 26, 255); }
 * * * * * * * * * { background-color: rgb(6, 255, 18); }
+*/
+
+
 
 /* Desktop styles */
 .main-wrapper {
