@@ -4,6 +4,156 @@
  * no lic.
  */
 
+jQuery(document).ready(function() {
+  // Governor's Appointments
+  // function test
+  var table = jQuery("#civil-list-dt").DataTable({
+    ajax: "https://archivesfiles.delaware.gov/dpaDataTables/civil-list.txt",
+    responsive: true,
+    scrollY: false,
+    columns: [
+      { data: "Last Name" },
+      { data: "First Name" },
+      { data: "Middle" },
+      { data: "Prefix/Suffix" },
+      { data: "Comments" },
+      { data: "Served From" },
+      { data: "Served Until" },
+      { data: "Elected" },
+      { data: "GA #" },
+      { data: "District" },
+      { data: "County" },
+      { data: "Party" },
+      { data: "Office" },
+      { data: "Position" },
+      { data: "Ref" },
+      { data: "Barcode" }
+    ],
+
+    order: [[0, "asc"]],
+
+    columnDefs: [{ type: "html-num-fmt", targets: [1] }]
+  });
+  // keep this inside the doc ready for this table to isolate the function
+  jQuery(function(e) {
+    jQuery.fn.DataTable.tables({
+      visible: true,
+      api: true
+    }).column.adjust();
+  });
+});
+
+jQuery(document).ready(function() {
+  // Governor's Appointments
+  // function test
+  var table = jQuery("#governors-appointments-dt").DataTable({
+    ajax:
+      "https://archivesfiles.delaware.gov/dpaDataTables/governors-appointments.txt",
+    responsive: true,
+    scrollY: false,
+    columns: [
+      { data: "Appointment/Resignation" },
+      { data: "Person" },
+      { data: "Office" },
+      { data: "Governor" },
+      { data: "Term" },
+      { data: "Year" }
+    ],
+
+    order: [[0, "asc"]],
+
+    columnDefs: [{ type: "html-num-fmt", targets: [1] }]
+  });
+  // keep this inside the doc ready for this table to isolate the function
+  jQuery(function(e) {
+    jQuery.fn.DataTable.tables({
+      visible: true,
+      api: true
+    }).column.adjust();
+  });
+});
+
+
+
+jQuery(document).ready(function() {
+  // Apprentice Indentures
+  //function test
+  var table = jQuery("#broadsides-prints-posters-dt").DataTable({
+    ajax:
+      "https://archivesfiles.delaware.gov/dpaDataTables/broadsides-prints-posters.txt",
+    responsive: true,
+    scrollY: false,
+    columns: [
+      { data: "RG" },
+      { data: "SG" },
+      { data: "Series" },
+      { data: "Barcode" },
+      { data: "Date" },
+      { data: "Caption" },
+      { data: "General Description" },
+      { data: "Item" },
+      { data: "Ordered By" },
+      { data: "Owner" },
+      { data: "Colored" },
+      { data: "Height" },
+      { data: "Width" },
+      { data: "Pub/Printer" },
+      { data: "Condition" }
+    ],
+
+    order: [[0, "asc"]],
+
+    columnDefs: [{ type: "html-num-fmt", targets: [1] }]
+  });
+  // keep this inside the doc ready for this table to isolate the function
+  jQuery(function(e) {
+    jQuery.fn.DataTable.tables({
+      visible: true,
+      api: true
+    }).column.adjust();
+  });
+});
+
+
+jQuery(document).ready(function () {
+    // Apprentice Indentures
+    //function test
+    var table = jQuery("#app-indentures-dt").DataTable({
+      ajax:
+        "https://archivesfiles.delaware.gov/dpaDataTables/apprentice-indentures.txt",
+      responsive: true,
+      scrollY: false,
+      columns: [
+        { data: "County" },
+        { data: "Date" },
+        { data: "Apprentice Lname" },
+        { data: "Apprentice Fname" },
+        { data: "Sex" },
+        { data: "Race" },
+        { data: "Authority" },
+        { data: "Master Lname" },
+        { data: "Master Fname" },
+        { data: "Occupation" },
+        { data: "Benefits During" },
+        { data: "Benefits After" },
+        { data: "Box" },
+        { data: "Folder" },
+        { data: "Series" }
+      ],
+
+      order: [[0, "asc"]],
+
+      columnDefs: [{ type: "html-num-fmt", targets: [1] }]
+    });
+    // keep this inside the doc ready for this table to isolate the function
+    jQuery(function(e) {
+    jQuery.fn.DataTable.tables({
+        visible: true,
+        api: true
+    }).column.adjust();
+    });
+});
+
 jQuery(document).ready(function () {
     // DE SAR Table
     //function test
